@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Haýsy gadymy siwilizasiýa Iýeroglifler diýlip atlandyrylýan ýazuw ulgamyny döretdi?",
+        "options": ["Mesopotamiýa", "Gadymy Gresiýa", "Gadymy Müsür", "Ind derýasynyň jülgesi"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Iň irki ýazmaça kanunlar ýygyndysy, Hammurabiniň Kanuny haýsy sebitde döredildi?",
+        "options": ["Hytaý", "Mesopotamiýa (Wawilon)", "Rim", "Finikiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Gadymy Müsürde fironlar üçin mazar hökmünde gurlan uly daş gurluşy näme?",
+        "options": ["Zikkurat", "Kolizeý", "Piramida", "Akropol"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Tekerleriň oýlanyp tapylmagy esasan haýsy topara degişlidir?",
+        "options": ["Grekler", "Şumerler", "Müsürliler", "Rimliler"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Müsür siwilizasiýasynyň ösmegi üçin haýsy uly derýa örän möhüm bolupdyr?",
+        "options": ["Tigr", "Ýewfrat", "Nil", "Sary derýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Afina şäher-döwletiniň esasy dolandyryş görnüşi näme bolupdyr?",
+        "options": ["Monarhiýa", "Oligarhiýa", "Teokratiýa", "Demokratiýa"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 7,
+        "questionText": "Hytaýda Uly diwar esasan haýsy toparlardan goranmak üçin gurlupdyr?",
+        "options": ["Rimliler", "Hunlar we beýleki demirgazyk çarwalar", "Ýapon basybalyjylary", "Mongollar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Hytaýy Günbatar bilen birleşdiren ägirt uly söwda ýolunyň ady näme?",
+        "options": ["Ysmanak ýoly", "Appiýa ýoly", "Ýüpek ýoly", "Şa ýoly"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy siwilizasiýa noly we onluk ulgamyň düşünjelerini döretdi?",
+        "options": ["Grekler", "Rimliler", "Maýýa", "Hindiler"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 10,
+        "questionText": "Rimiň meşhur düýbüni tutujysy kim bolupdyr?",
+        "options": ["Ýuliý Sezar", "Konstantin", "Awgust", "Romul"],
+        "correctAnswerIndex": 3
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Himiki reaksiýa deňlemesini deňleşdiriň: $\\text{H}_2 + \\text{O}_2 \\rightarrow \\text{H}_2\\text{O}$",
+        "options": ["$\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$", "$2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$", "$2\\text{H}_2 + 2\\text{O}_2 \\rightarrow 4\\text{H}_2\\text{O}$", "Deňleme deňleşdirilen"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Reaksiýanyň dowamynda ýylylygyň daşa çykmagy bilen häsiýetlenýän reaksiýa nähili atlandyrylýar?",
+        "options": ["Endotermiki", "Egzotermiki", "Katalitiki", "Dargama"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Kompoundlaryň birleşip, has çylşyrymly birleşmäni döretmegi bilen häsiýetlenýän reaksiýanyň görnüşi näme?",
+        "options": ["Dargama", "Çalşyrma", "Birleşme", "Okislenme-Gaýtarylma"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Reaksiýa tizligini üýtgedýän, ýöne özleri sarp edilmeýän maddalar näme diýilýär?",
+        "options": ["Reagentler", "Produktlar", "Katalizatorlar", "Inhibitorlar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Himiki reaksiýa üçin esasy kanun näme diýilýär?",
+        "options": ["Energiýanyň saklanma kanuny", "Massanyň saklanma kanuny", "Ideal gaz kanuny", "Hajmyň saklanma kanuny"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Kalsiý karbonatynyň gyzdyrylanda dargamagy: $\\text{CaCO}_3 \\rightarrow \\text{CaO} + \\text{CO}_2$ haýsy reaksiýa görnüşi?",
+        "options": ["Birleşme", "Dargama", "Çalşyrma", "Deňöçerli"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Elektrolitler haýsy maddalar?",
+        "options": ["Tok geçirýän gaty maddalar", "Suwuklykda ýa-da erginlerde tok geçirýän maddalar", "Diňe gazlar", "Ýylylyk geçirýän maddalar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Haýsy madda ýaşyl ösümlikler tarapyndan fotosintez prosesinde alynýar?",
+        "options": ["Karbondioksid", "Kislorod", "Wodorod", "Azot"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Molekulanyň birleşmegi netijesinde ýylylygyň sarp edilmegi bilen geçýän reaksiýa nähili atlandyrylýar?",
+        "options": ["Egzotermiki", "Endotermiki", "Dargama", "Okislenme"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Himiýada $n$ bilen nähili fiziki ululyk aňladylýar?",
+        "options": ["Temperatura", "Basynç", "Maddanyň mukdary (Mol sany)", "Hajym"],
+        "correctAnswerIndex": 2
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Magnit meýdany nähili döredilýär?",
+        "options": ["Hereket edýän elektrik zarydy tarapyndan", "Dynç elektrik zarydy tarapyndan", "Islyk tokuny tarapyndan", "Ýokarky temperaturada"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Elektromagnit induksiýa nämädir?",
+        "options": ["Magnit meýdanyň üýtgemegi netijesinde EÝK-yň döremegi", "Tokyň üýtgemegi netijesinde magnit meýdanyň döremegi", "Zarydyň üýtgemegi netijesinde güýjüň döremegi", "Meýdanyň üýtgemegi netijesinde zarydyň döremegi"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Mehaniki tereňme nämädir?",
+        "options": ["Wagtly hereket", "Mukdarly hereket", "Durnukly hereket", "Tiz hereket"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Tereňme amplitudasy nämädir?",
+        "options": ["Denge ýagdaýyndan iň uly süýşme", "Denge ýagdaýyndan iň kiçi süýşme", "Orta süýşme", "Süýşme tizligi"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Dolyp hereket edýän jisimiň periody näçe sekunt?",
+        "options": ["Bir dolanyş wagty", "Bir sekuntdaky dolanyş sany", "Bir minutdaky dolanyş sany", "Bir sagatdaky dolanyş sany"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Dolyp hereket edýän jisimiň tizligi nähili hasaplanýar?",
+        "options": ["v = 2πR/T", "v = s/t", "v = a t", "v = √(2gh)"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Ýeriň ýakyn orbita boýunça hereket edýän artificial ýarym aýyň çyzyk tizligi näçe?",
+        "options": ["7.9 km/s", "3.1 km/s", "11.2 km/s", "1.6 km/s"],
+        "correctAnswerAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Grawitasiýa güýjüniň kanuny kim tarapyndan kesgitlendi?",
+        "options": ["I. Nyuton", "A. Eyniştag", "N. Kopernik", "G. Gallel"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Ýeriň ýüzünden çykmak üçin iň az tizlik näçe?",
+        "options": ["11.2 km/s", "7.9 km/s", "3.1 km/s", "1.6 km/s"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Aýlyň ýerden uzaklygy takmynan näçe?",
+        "options": ["384,000 km", "150,000,000 km", "1,000,000 km", "10,000 km"],
+        "correctAnswerIndex": 0
+    }
+]

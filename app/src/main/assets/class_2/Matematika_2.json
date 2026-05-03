@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "100-e çenli sanlaryň iň kiçisi haýsy?",
+        "options": ["100", "0", "1", "10"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "25 + 15 = ?",
+        "options": ["30", "40", "50", "35"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "50 - 12 = ?",
+        "options": ["38", "42", "40", "32"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "5-i 3 gezek köpeltsek näçe çykýar?",
+        "options": ["8", "10", "15", "53"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "6-ny 2-ä bölsek näçe çykýar?",
+        "options": ["12", "4", "3", "8"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Bir kwadratyň perimetrini hasaplamak üçin näme ulanylýar?",
+        "options": ["Diňe bir tarapynyň uzynlygy", "Taraplarynyň jemi", "Taraplarynyň köpeltmek hasyly", "Iki tarapynyň uzynlygy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Bir sagatda näçe minut bar?",
+        "options": ["30", "60", "100", "24"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "10 onluk näçe birlige deň?",
+        "options": ["10", "100", "1000", "1"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy amallar ters (gapma-garşy) amallar hasaplanýar?",
+        "options": ["Goşmak we köpeltmek", "Goşmak we aýyrmak", "Aýyrmak we bölmek", "Köpeltmek we aýyrmak"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Bir zadyň ýarym bölegini (frac{1}{2}) nähili görkezmeli?",
+        "options": ["1.2", "0.5", "1/4", "1/10"],
+        "correctAnswerIndex": 1
+    }
+]

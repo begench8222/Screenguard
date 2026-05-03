@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Türkmenistanyň Bitaraplygynyň halkara geosyýasy ähmiýeti näme?",
+        "options": ["Uly harby güýç döretmek", "Sebitde parahatçylygy we durnuklylygy saklamak, energetika hyzmatdaşlygynda gatnaşmak", "Diňe Ýewropa döwletleri bilen söwda", "Taryhy mirasyny ýok etmek"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Türkmenistanyň Garaşsyzlykdan soň medeniýetde we bilimde amala aşyran esasy özgertmeleriniň biri näme?",
+        "options": ["Rus diliniň ykrar edilmegi", "Milli ýokary okuw jaýlarynyň döredilmegi we milli taryhyň öwredilmegi", "Sowet taryhyny dowam etdirmek", "Dinleriň ýok edilmegi"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Türkmenistanyň 'Taryhy we Medeniýet Ýadygärlikleri' haýsy halkara gurama tarapyndan goralýar?",
+        "options": ["NATO", "OPEK", "BMG (ÝUNESKO)", "ABŞ"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Türkmenistanyň ykdysadyýetindäki esasy hyzmatdaşlarynyň biri, gaz turba geçirijiler arkaly gaz alýan Aziýa döwleti haýsy?",
+        "options": ["Hindistan", "Ýaponiýa", "Hytaý Halk Respublikasy", "Türkiýe"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Türkmenistanyň taryhynda 'Dandanakan söweşi' (1040-njy ýyl) nähili ähmiýete eýe?",
+        "options": ["Parfiýanyň dörän ýeri", "Mongollaryň ýeňilmegi", "Gaznewileriň ýeňilmegi we Seljuk döwletiniň dörän ýeri", "Sowet häkimiýetiniň gurluşy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Türkmenistanyň BMG-nyň Howpsuzlyk Geňeşiniň agzalygyna saýlanmagy haýsy syýasatyň ykrar edilmegini aňladýar?",
+        "options": ["Harby syýasat", "Bitaraplyk we parahatçylyk syýasaty", "Tebigat goragy", "Ilatyň sanyny köpeltmek"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "1990-njy ýyllaryň başynda Türkmenistanyň Garaşsyzlygy ugrunda esasy hereket eden syýasy güýçler haýsy?",
+        "options": ["Harby gulluk", "Milli demokratik hereketler we Sowet hökümetine garşy güýçler", "Dini guramalar", "Çet ýurt kompaniýalary"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Türkmenistanyň Garaşsyzlyk döwründäki esasy milli baýramçylygy haýsy?",
+        "options": ["Täze ýyl", "Russiýa Günü", "Garaşsyzlyk güni we Bitaraplyk güni", "Mälik şa Günü"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Türkmenistanyň Ýüpek ýolunyň medeniýetini dikeltmek maksady bilen geçiren halkara taslamalarynyň esasy ugry näme?",
+        "options": ["Diňe türkmen taryhyny öwrenmek", "Ýüpek ýolunyň ugrundaky döwletler bilen medeni we ylmy hyzmatdaşlygy ösdürmek", "Harby birleşmeleri döretmek", "Nebit daşaýjy ulgamy giňeltmek"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Aşakdakylaryň haýsy 'Türkmeniň altyn asyry' diýlip atlandyrylan döwürde (Seljuklar) ýaşan we 'Uly Merw' ylmynda uly yz galdyran filosof we alym?",
+        "options": ["Omar Haýýam", "Ibn Sina", "Al Farabi", "Berunı"],
+        "correctAnswerIndex": 0
+    }
+]

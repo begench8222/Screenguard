@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Rim imperiýasy ýykylandan soň Ýewropa taryhynyň haýsy döwri gelýär?",
+        "options": ["Renessans", "Orta asyrlar (Müňýyllyk döwri)", "Aýdyňlanma döwri", "Demir asyry"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Ýewropadaky Feodal ulgamy esasan haýsy iki toparyň arasyndaky gatnaşyga esaslanýardy?",
+        "options": ["Söwdagärler we Kärhanalar", "Patyşalar we Papalar", "Lordlar/Wassallar we Serfler", "Daýhanlar we Senetçiler"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Mukaddes Ýeriň üstünden agalyk ugrunda Ýewropa hristianlary bilen musulmanlaryň arasyndaky haýsy dini gapma-gaplyklar birnäçe urşa sebäp boldy?",
+        "options": ["Reformasiýa", "Inkkwizisiýa", "Haçly ýörişler", "Punik uruşlary"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Renessansyň dörän ýeri haýsy Italiýanyň şäher-döwleti boldy?",
+        "options": ["Wensiýa", "Rim", "Florensiýa", "Milan"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Iogannes Gutenberg tarapyndan 15-nji asyrda Ýewropada sowatlylygy gaty ýokarlandyran möhüm oýlap tapyş näme?",
+        "options": ["Teleskop", "Bug maşyny", "Çaphana", "Kompas"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Ýer şarynyň daşyndan ilkinji gezek aýlanyp geçen meşhur syýahatçy kimdi (ýolda aradan çykandygy sebäpli tutuş ýörişi tamamlap bilmedi)?",
+        "options": ["Hristofor Kolumb", "Wasko da Gama", "Ferdinand Magellan", "Jeýms Kuk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Aztékler we Inkler Ýewropalylar gelmezden öň haýsy materikde kuwwatly siwilizasiýalardy?",
+        "options": ["Aziýa", "Afrika", "Demirgazyk we Günorta Amerika", "Ýewropa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "**Reformasiýa** ady bilen tanalýan dini hereket 1517-nji ýylda haýsy şahs tarapyndan başlandy?",
+        "options": ["Jon Kalwin", "Patyşa Genri VIII", "Papa Leo X", "Martin Lýuter"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 9,
+        "questionText": "14-nji asyrda Ýewropa ýaýrap, takmynan 75-200 million adamy öldüren haýsy howply keseliň ady näme?",
+        "options": ["Çyban", "Tif", "Gara Ölüm (Bubbon dälidi)", "Tuberkulýoz"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "1492-nji ýyldan soň 'Köne Dünýä' bilen 'Täze Dünýäniň' arasynda guralan söwda gatnaşyklarynyň döremegi näme diýilýär?",
+        "options": ["Global Alyş-çalyş", "Üçburçluk Söwdasy", "Kolumb Alyş-çalyşy", "Ýüpek ýoly"],
+        "correctAnswerIndex": 2
+    }
+]

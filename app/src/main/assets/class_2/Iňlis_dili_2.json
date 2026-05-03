@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Siz nähili? (How are you?) iňlis dilinde nädip jogap berilmeli?",
+        "options": ["I am tall", "I am fine, thank you", "I am a student", "I live in Ashgabat"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Sary reňk iňlis dilinde nähili aýdylýar?",
+        "options": ["Red", "Blue", "Yellow", "Purple"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "10 sany iňlis dilinde nähili?",
+        "options": ["Seven", "Eight", "Nine", "Ten"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Mekdep iňlis dilinde nähili?",
+        "options": ["Home", "Park", "School", "Shop"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Iňlis dilinde 'Git' sözüniň tersi näme?",
+        "options": ["Come", "Run", "Stop", "Walk"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Haýsy söz 'Galam' bolýar?",
+        "options": ["Book", "Pencil", "Table", "Big"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 7,
+        "questionText": "Adamyň Kellesi iňlis dilinde nähili?",
+        "options": ["Hand", "Foot", "Head", "Nose"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Maşgala agzasy bolan 'Aga' iňlis dilinde nähili?",
+        "options": ["Mother", "Sister", "Brother", "Grandfather"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Wagt barada soramak üçin ulanylýan söz?",
+        "options": ["Where", "When", "How", "Why"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Irden salamlaşyk nähili aýdylýar?",
+        "options": ["Good afternoon", "Good night", "Good morning", "Good evening"],
+        "correctAnswerIndex": 2
+    }
+]

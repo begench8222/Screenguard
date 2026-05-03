@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "questionText": "Üçburçlukda burçlaryň jemi näçe gradus?",
+        "options": [
+            "90",
+            "180",
+            "270",
+            "360"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Pifagoryň teoremasy nädip aňladylýar?",
+        "options": [
+            "a² + b² = c²",
+            "a + b = c",
+            "a * b = c",
+            "a / b = c"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Gönüburçly üçburçlukda gipotenuza nähili tapylýar?",
+        "options": [
+            "Katetleriň jemi",
+            "Katetleriň kwadratlarynyň jeminiň köki",
+            "Katetleriň köpeltmek hasyly",
+            "Katetleriň tapawudy"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Töweregiň uzynlygy nähili hasaplanýar?",
+        "options": [
+            "πr",
+            "2πr",
+            "πr²",
+            "4/3πr³"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Kwadratyň meýdany nähili hasaplanýar?",
+        "options": [
+            "a + b",
+            "a * b",
+            "a²",
+            "2a"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Parallelogramyň meýdany nähili hasaplanýar?",
+        "options": [
+            "a * h",
+            "a + b",
+            "a²",
+            "2(a + b)"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Konusyň göwrümi nähili hasaplanýar?",
+        "options": [
+            "πr²h",
+            "1/3πr²h",
+            "4/3πr³",
+            "2πr(h + r)"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Şaryň göwrümi nähili hasaplanýar?",
+        "options": [
+            "πr²h",
+            "1/3πr²h",
+            "4/3πr³",
+            "2πr(h + r)"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Koordinatalar tekizliginde nokat nädip görkezilýär?",
+        "options": [
+            "(x, y)",
+            "[x, y]",
+            "{x, y}",
+            "<x, y>"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Perpendikulýar çyzyklar näme?",
+        "options": [
+            "Bir-birini kesýän çyzyklar",
+            "Bir-birine deň çyzyklar",
+            "Bir-birine göni burç bilen kesişýän çyzyklar",
+            "Bir-birine parallel çyzyklar"
+        ],
+        "correctAnswerIndex": 2
+    }
+]

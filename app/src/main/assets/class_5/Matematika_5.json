@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "questionText": "Iki sany natural sanyň (a we b) iň uly umumy bölüjisi näme diýilýär?",
+    "options": ["Iň kiçi umumy köpeldiji", "Iň uly umumy bölüji (IUUB)", "Natural san", "Bölüji"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 2,
+    "questionText": "8-iň we 12-niň iň kiçi umumy köpeldijisi (IKUK) näçe?",
+    "options": ["4", "8", "12", "24"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 3,
+    "questionText": "Kesirleri goşanda, ilki näme etmeli? (Mysal: $1/3 + 1/4$)",
+    "options": ["Sanawjylary goşmaly", "Maýdalawjylary goşmaly", "Umumy maýdalawjy tapmaly", "Ulurak kesiri saýlamaly"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 4,
+    "questionText": "Haýsy san $0.25$ desimal fraksiýasyna deň?",
+    "options": ["$1/2$", "$1/3$", "$1/4$", "$1/5$"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "questionText": "Göwrümi (Volume) hasaplamak üçin nähili geometrik obýekti ulanmaly?",
+    "options": ["Gönüçyzyk", "Kwadrat", "Giňişlikdäki jisim (Kub, prizma)", "Nokat"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 6,
+    "questionText": "Eger $x + 5 = 12$ bolsa, $x$ näçe?",
+    "options": ["$5$", "$7$", "$17$", "$60$"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 7,
+    "questionText": "Bir burçuň derejesi $120^circ$ bolsa, ol nähili burç?",
+    "options": ["Ýiti burç", "Göni burç", "Küt burç", "Ýaýbaň burç"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "questionText": "Bir kubuň tarapynyň uzynlygy $a=2$ $sm$ bolsa, onuň göwrümi näçe $sm^3$?",
+    "options": ["$4$", "$6$", "$8$", "$12$"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 9,
+    "questionText": "Haýsy sanyň $50%$-i 10-a deň?",
+    "options": ["$5$", "$15$", "$20$", "$50$"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "questionText": "Parallelogramyň ähli burçlary göni bolsa, ol nähili dörtburçluk?",
+    "options": ["Romb", "Trapesýa", "Kwadrat", "Gönüburçluk"],
+    "correctAnswerIndex": 3
+  }
+]

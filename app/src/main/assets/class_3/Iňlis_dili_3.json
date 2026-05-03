@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "'Meniň adym' iňlis dilinde nähili aýdylýar?",
+        "options": ["I am from", "My name is", "How are you", "What is your name"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Gyzyl reňk iňlis dilinde nähili aýdylýar?",
+        "options": ["Blue", "Red", "Green", "White"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "20 sany iňlis dilinde nähili?",
+        "options": ["Ten", "Twelve", "Twenty", "Thirteen"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Uçýan haýwan iňlis dilinde nähili?",
+        "options": ["Fish", "Bird", "Mouse", "Snake"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Gowy (Good) sözüniň tersi näme?",
+        "options": ["Happy", "Bad", "Easy", "Fast"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Aşakdakylaryň haýsy 'Işlik' (Verb)?",
+        "options": ["Table", "Quickly", "Sing", "Tree"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Bir hepdede (Week) näçe gün bar?",
+        "options": ["Five", "Six", "Seven", "Ten"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Maşgala agzasy bolan 'Aýal dogan' iňlis dilinde nähili?",
+        "options": ["Mother", "Sister", "Father", "Brother"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Ýer (Location) barada soramak üçin ulanylýan söz?",
+        "options": ["What", "When", "Where", "Who"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Gijeki salamlaşyk nähili aýdylýar?",
+        "options": ["Good morning", "Good afternoon", "Good night", "Good evening"],
+        "correctAnswerIndex": 2
+    }
+]

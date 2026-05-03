@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "questionText": "Häzirki zaman klasifikasiýasynda organizmler näçe köke bölünýär?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Hüjre gapjagy nädip düzülýär?",
+        "options": [
+            "Lipidler we beloklar",
+            "Nuklein turşulary",
+            "Uglewodlar",
+            "Mineral duzlar"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Mitohondriýanyň esasy funksiýasy näme?",
+        "options": [
+            "Fotosintez",
+            "Energiýa öndürmek",
+            "Belok sintezi",
+            "Hüjre bölünmegi"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "DNA-nyň modeli nähili atlandyrylýar?",
+        "options": [
+            "Ýeke-tire zynjyrly",
+            "Goşa burç",
+            "Üç burç",
+            "Dört burç"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Mendel kanunlary näçe sanydyr?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Ekologiýanyň öwrenýän esasy adygy näme?",
+        "options": [
+            "Organizmiň içki gurluşy",
+            "Organizmiň daşky gurluşy",
+            "Organizmleriň bir-biri bilen we daşky gurşaw bilen gatnaşyklary",
+            "Hüjre bölünmesi"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Fotosintez prosesi nirede ýüz berýär?",
+        "options": [
+            "Mitohondriýada",
+            "Hloroplastlarda",
+            "Ýadroda",
+            "Ribosomada"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Ösümlikleriň eser elementleri haýsylar?",
+        "options": [
+            "Demir, magniý, sink",
+            "Karbon, wodorod, kislorod",
+            "Azot, fosfor, kaliý",
+            "Kalsiý, natriý, hlor"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Immunitetiň görnüşleri näçe sanydyr?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Biogen elementler nämeden ybaratdyr?",
+        "options": [
+            "Karbon, azot, kislorod",
+            "Demir, magniý, mis",
+            "Fosfor, kaliý, kükürt",
+            "Kalsiý, natriý, hlor"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

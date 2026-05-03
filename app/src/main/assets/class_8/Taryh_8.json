@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Aýdyňlanma Döwri esasan haýsy düşünjeleri nygtady?",
+        "options": ["Patyşalaryň Hudaý tarapyndan berlen hukugy", "Däp-dessur we Ynam", "Akyl we Şahsyýetçilik", "Absolýut Monarhiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Hökümetde häkimiýetleriň bölünmegi (kanun çykaryjy, ýerine ýetiriji, kazyýet) ideýasyny haýsy Aýdyňlanma filosofy teklip etdi?",
+        "options": ["Žan-Žak Russo", "Jon Lokk", "Wolter", "Baron de Montesquie"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 3,
+        "questionText": "Bug maşynynyň oýlanyp tapylmagy haýsy global taryhy wakanyň başlamagynda esasy faktor boldy?",
+        "options": ["Fransuz Rewolýusiýasy", "Ylmy Rewolýusiýa", "Senagat Rewolýusiýasy", "Ekerançylyk Rewolýusiýasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "1789-njy ýylda Fransuz Rewolýusiýasynyň başlangyjyny alamatlandyran waka näme?",
+        "options": ["Bastiliýanyň basylyp alynmagy", "Terror döwri", "Napoleonyň häkimiýete gelmegi", "Lui XVI-nyň jezalandyrylmagy"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Haýsy lider Gaitiň garaşsyzlygyna sebäp bolan üstünlikli guluň gozgalaňyna ýolbaşçylyk etdi, ony ilkinji gara azat respublikasy etdi?",
+        "options": ["Simon Boliwar", "Tussen Luwertýur", "Hose de San Martin", "Fidel Kastro"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Esasan 19-njy asyryň ahyrynda güýçli milletleriň gowşak territoriýalara agalyk etmegi syýasaty näme diýilýär?",
+        "options": ["Izolýasiýaçylyk", "Imperializm", "Feodalizm", "Saklama"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Napoleonyň ýeňilmeginden soň Wena Kongresiniň (1814–1815) esasy maksady näme boldy?",
+        "options": ["Ýewropada demokratiýany ýaýratmak", "Ýewropada güýç deňagramlylygyny dikeltmek", "Birligen Germaniýany döretmek", "Amerikan koloniýalaryny bölmek"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Gul söwdasyny we gullukçylygy ýatyrmak hereketi näme diýlip atlandyrylýar?",
+        "options": ["Saýlaw hukugy", "Abolisionizm", "Nasionilizm", "Ýakymlylyk"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "1848-nji ýylda synpsyz jemgyýeti wagyz edýän 'Kommunistik Manifesti' kim neşir etdi?",
+        "options": ["Adam Smit", "Karl Marks we Fridrih Engels", "Jon Stýuart Mill", "Wladimir Lenin"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Öz milletine bolan güýçli buýsanja we wepalylyga degişli bolan we köplenç gapma-garşylyga sebäp bolýan termin näme?",
+        "options": ["Liberalizm", "Nasionilizm", "Konserwatizm", "Sosializm"],
+        "correctAnswerIndex": 1
+    }
+]

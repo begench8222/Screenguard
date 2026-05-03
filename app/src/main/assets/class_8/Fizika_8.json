@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Temperaturany ölçemek üçin nähili enjam ulanylýar?",
+        "options": ["Termometr", "Barometr", "Manometr", "Dinamometr"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Islendik jisimiň düzüminde nämä bar?",
+        "options": ["Molekulalar", "Elektronlar", "Fotonlar", "Protonlar"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Diffuziýa prosesi nämäniň netijesidir?",
+        "options": ["Molekulalaryň biri-birine ötülmeği", "Molekulalaryň durnuksyz hereketi", "Molekulalaryň ýykylyşygy", "Molekulalaryň aýrylyşy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Islyk berilende, hatarlyk nämäniň netijesinde ýaýraýar?",
+        "options": ["Konweksiýa", "Termiki ýaýralyş", "Islyk geçirijilik", "Islyk şöhlelenme"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Islyk mukdary nähili ölçenilýär?",
+        "options": ["Joul", "Nyuton", "Paskal", "Watt"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Jisimiň agramlarynyň jemi agramy nämä deň?",
+        "options": ["Arhimed güýjüne", "Jisimiň agramyna", "Islyk mukdaryna", "Basys güýjüne"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Elektrik zarydy nähili ölçenilýär?",
+        "options": ["Kulon", "Amper", "Wolt", "Om"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Elektrik zynjyry nämä diýilýär?",
+        "options": ["Zarydyň aylanmagy", "Toka ýolunyň yzygiderliligi", "Zarydyň saklanmagy", "Toka güýjüniň üýtgemegi"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Om kanuny nämä baglylygy kesgitleýär?",
+        "options": ["Tok, küýwät we garşylyk", "Tok, wagt we kuwwat", "Küwät, wagt we kuwwat", "Garşylyk, kuwwat we wagt"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Elektrik tokunyň işi nähili hasaplanýar?",
+        "options": ["A = IUt", "A = I²Rt", "A = U²t/R", "A = IRt"],
+        "correctAnswerIndex": 0
+    }
+]

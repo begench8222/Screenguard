@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Rus imperiýasynyň Türkmenistany basyp almagynda esasy, iň soňky söweş (1881-nji ýyl) nirede bolupdyr?",
+        "options": ["Merw", "Köneürgenç", "Gökdepe", "Hazar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Gökdepe söweşinde türkmenleriň garşylygyna ýolbaşçylyk eden esasy şahsyýet kim?",
+        "options": ["Aşyr han", "Dykma serdar", "Jelaleddin Meňburun", "Soltan Sanjar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Rus imperiýasynyň Türkmenistany dolandyrmak üçin döreden esasy administratiw bölegi näme?",
+        "options": ["Türkistan welaýaty", "Zakaspiý oblast", "Kawkaz sebiti", "Astrahan guberniýasy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Türkmenistan haýsy döwürde Türkmen Sowet Sosialistik Respublikasy (TSSR) hökmünde Sowet Soýuzynyň düzümine girdi?",
+        "options": ["1917-nji ýyl", "1924-nji ýyl", "1945-nji ýyl", "1991-nji ýyl"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Sowet döwründe Türkmenistanyň ykdysadyýetiniň esasy ugry näme boldy?",
+        "options": ["Nebit we gaz senagaty", "Metal gaýtadan işlemek", "Pagtaçylyk (monokultura)", "Azyk senagaty"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "1930-njy ýyllarda Sowet hökümetiniň syýasatlaryna garşy dörän we 'basmaçylyk' diýlip atlandyrylan hereket nämäni aňladýar?",
+        "options": ["Medeni ösüş", "Syýasy garaşsyzlyk ugrundaky göreş", "Döwlete we kolhozlara garşy ýaragly garşylyk", "Mekdep gurmak"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Ikinji Jahan urşy döwründe (1941-1945) Türkmenistan esasan nähili goşant goşdy?",
+        "options": ["Uly meýdan söweşleri", "Harby enjamlaryň öndürilişi we çig mal üpjünçiligi", "Syýasy gepleşikler", "Dini işler"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Sowet döwründe türkmen diliniň we medeniýetiniň ösmegine uly goşant goşan, 'Aýgytly ädim' romanynyň awtory kim?",
+        "options": ["Magtymguly Pyragy", "Berdi Kerbabaýew", "Ata Gowşudow", "Hydyr Deryaýew"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "1948-nji ýyldaky uly betbagtçylyk, Aşgabat şäherini we beýleki sebitleri weýran eden tebigy hadysa näme?",
+        "options": ["Suw joşmasy", "Tupan", "Ýer titremesi", "Gurakçylyk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Garagum derýasynyň (kanalyň) gurluşygy haýsy döwürde başlandy we Türkmenistanyň ykdysadyýeti üçin nähili ähmiýeti boldy?",
+        "options": ["XIX asyrda; harby desga", "1950-nji ýyllarda; pagta meýdanlaryny suw bilen üpjün etmek", "Garaşsyzlyk döwründe; Nebit daşamak", "Orta asyrlar; medeniýet merkezi"],
+        "correctAnswerIndex": 1
+    }
+]

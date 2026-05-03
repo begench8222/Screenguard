@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Organiki himiýanyň esasy elementi haýsy?",
+        "options": ["Azot", "Kislorod", "Uglewodorod", "Kükürt"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Diňe uglewodorod we wodorod atomlaryndan ybarat birleşmelere nähili at berilýär?",
+        "options": ["Spirtler", "Aldegidler", "Uglewodorodlar", "Kislotalar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Aşakdakylaryň haýsy doýgun uglewodoroda degişli?",
+        "options": ["Eten ($\\text{C}_2\\text{H}_4$)", "Asetilen ($\\text{C}_2\\text{H}_2$)", "Metan ($\\text{CH}_4$)", "Benzol ($\\text{C}_6\\text{H}_6$)"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Organiki birleşmelerde bir atomuň ornuny başga bir atom ýa-da atomlar topary tutýan reaksiýa görnüşi näme?",
+        "options": ["Birleşme", "Gatnaşma (Substitution)", "Polimerizasiýa", "Okislenme"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Bir funksional topara eýe bolan we umumy formula bilen aňladylýan, häsiýetleri meňzeş birleşmeler topary näme?",
+        "options": ["Izomerler", "Polimerler", "Gomologik hatar", "Allotroplar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Haýsy funksional topar spirtleriň häsiýetini kesgitleýär?",
+        "options": ["$-\\text{COOH}$ topar", "$-\\text{OH}$ topar", "$-\\text{CHO}$ topar", "$-\\text{NH}_2$ topar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Alynýan önümiň molekula agramy başlangyç maddanyňkydan has uly bolan reaksiýa nähili at berilýär?",
+        "options": ["Dargama", "Izomerizasiýa", "Polimerizasiýa", "Gidroliz"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Uglewodorodlaryň haýsy synpy düzüminde üçlü baglanyşyk saklaýar?",
+        "options": ["Alkanlar", "Alkenler", "Alkinler", "Sikloalkanlar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Aşakdakylaryň haýsy organiki birleşmäniň düzüminde karbonil topary (C=O) bar?",
+        "options": ["Alkan", "Spirt", "Keton", "Efir"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Etil spirtiniň himiki formulasy näme?",
+        "options": ["$\\text{CH}_4$", "$\\text{CH}_3\\text{OH}$", "$\\text{C}_2\\text{H}_5\\text{OH}$", "$\\text{C}_6\\text{H}_6$"],
+        "correctAnswerIndex": 2
+    }
+]

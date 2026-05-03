@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Uly Seljuk döwletiniň düýbüni tutujy we ilkinji Soltany kim?",
+        "options": ["Alp Arslan", "Sanjar", "Togrul beg", "Mälik şa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Seljuk Soltany Alp Arslanyň Wizantiýa imperiýasy bilen bolan we Seljuklaryň Ýakyn Gündogardaky hökümdarlygyny güýçlendiren meşhur söweşi haýsy?",
+        "options": ["Talas söweşi", "Dandanakan söweşi", "Manzikert söweşi", "Köpetdag söweşi"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Seljuk döwletiniň iň güýçli döwri bolan we 'Gündogaryň Uly Şasy' diýlip atlandyrylan Soltan kim?",
+        "options": ["Togrul beg", "Soltan Sanjar", "Mälik şa", "Çagry beg"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Soltan Sanjaryň aramgähiniň ýerleşýän we Seljuk döwletiniň esasy medeni merkezi bolan şäher haýsy?",
+        "options": ["Nisa", "Sarahs", "Merw", "Köneürgenç"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "XI-XIII asyrlarda Gündogarda uly imperiýa öwrülen, Türkmen taryhyndaky esasy döwlet haýsy?",
+        "options": ["Gaznewiler", "Garahanlylar", "Horezm şalar döwleti", "Ahemeniler"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Horezm şalar döwletiniň iň soňky we iň güýçli hökümdary kim?",
+        "options": ["Tekeş", "Jelaleddin Meňburun", "Aly Arslan", "Muhammet Horezm şa"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 7,
+        "questionText": "Uly Seljuklaryň we Horezm şalarynyň döwürlerinde ylym we aň-bilim boýunça ýaşan beýik alymlaryň biri (mysal üçin Omar Haýýam) haýsy merkezi ulandy?",
+        "options": ["Medine", "Bagdat", "Merw we Nisa", "Moskwa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "XIII asyryň başynda Çingiz hanyň goşunlary tarapyndan basylyp alnan we ýok edilen Horezmiň paýtagty bolan şäher haýsy?",
+        "options": ["Aşgabat", "Dehistan", "Mary", "Köneürgenç"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 9,
+        "questionText": "Seljuklaryň we Horezm şalarynyň döwürlerinde döwleti dolandyrmakda uly rol oýnan, wezir derejesindäki meşhur şahsyýetler haýsy?",
+        "options": ["Magtymguly", "Jelaleddin Rumy", "Nyýazow", "Nyýzamülmülk"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 10,
+        "questionText": "Seljuk döwletiniň gowşamagynda esasy rol oýnan söweş (Soltan Sanjaryň ýeňilmegi) haýsy?",
+        "options": ["Manzikert", "Karasu", "Katwan (Garahanlylara garşy)", "Dandanakan"],
+        "correctAnswerIndex": 2
+    }
+]

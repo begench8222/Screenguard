@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Dünýäde ilaty iň köp bolan döwlet haýsy (2023-nji ýyl maglumatlaryna görä)?",
+        "options": ["Hytaý", "ABŞ", "Hindistan", "Russiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Dünýä ilatynyň ýerleşişiniň esasy görkezijisi näme?",
+        "options": ["Ýurduň meýdany", "Ilatyň sany", "Ilatyň dykyzlygy", "Şäher ilaty"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Dünýä ykdysadyýetiniň esasy pudagy bolan, çig maly gaýtadan işleýän we önüm öndürýän pudak näme diýilýär?",
+        "options": ["Ekerançylyk", "Söwda", "Senagat", "Hyzmat pudagy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Dünýäde nebit we gaz rezervleri iň köp bolan sebitleriň biri haýsy?",
+        "options": ["Gündogar Ýewropa", "Günorta-Gündogar Aziýa", "Ýakyn Gündogar (Orta Gündogar)", "Latyn Amerika"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Ösen döwletleriň ykdysadyýetinde agdyklyk edýän pudak haýsy?",
+        "options": ["Çig mal çykarmak", "Ekerançylyk", "Senagat", "Hyzmat pudagy"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 6,
+        "questionText": "Bütindünýä Söwda Guramasy (BSG/WTO) haýsy maksat bilen döredilýär?",
+        "options": ["Global parahatçylygy saklamak", "Global saglygy goraýyş", "Halkara söwdanyň kadalaryny düzmek we erkin söwdany ösdürmek", "Global bilim"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Dünýäde iň uly we iň çalt ösýän şäherlere we olaryň ýanaşyk sebitlerine nähili at berilýär?",
+        "options": ["Megapolis (Megacity)", "Oba ilaty", "Kişi şäher", "Koloňiýa"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Ýurduň ykdysadyýetiniň gowulandyrylmagyny we durnukly ösüşini goldamak üçin döredilen halkara maliýe guramasy näme?",
+        "options": ["NATO", "Birleşen Milletler Guramasy", "Bütindünýä Banky", "OPEK"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Dünýäniň ykdysadyýetinde 'üçünji pudak' (tertiair) diýlip atlandyrylýan pudak näme?",
+        "options": ["Energetika", "Ekerançylyk", "Hyzmatlar (söwda, bilim, bank)", "Çig mal çykarmak"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Dünýä ilatynyň iň uly bölegi haýsy çyzykdan ýokarda ýaşaýar?",
+        "options": ["Ekwator", "Günorta tropik (Oýnap tropigi)", "Demirgazyk tropik (Günüň tropigi)", "Baş Meridian"],
+        "correctAnswerIndex": 2
+    }
+]

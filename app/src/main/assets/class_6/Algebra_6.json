@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Aňlatmany hasaplaň: $15 - 5 \times 2 + 8$.",
+        "options": ["18", "28", "38", "16"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Eger $x = 7$ bolsa, $3x + 4$ aňlatmanyň bahasyny tapyň.",
+        "options": ["14", "25", "21", "28"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Haýsy häsiýet görkezilýär: $5 \times (4 + 2) = 5 \times 4 + 5 \times 2$?",
+        "options": ["Assosiatiw häsiýet", "Kommutatiw häsiýet", "Distributiw häsiýet", "Identifikasiýa häsiýeti"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Deňlemäni çözüň: $z + 13 = 21$.",
+        "options": ["$z = 34$", "$z = 8$", "$z = 13$", "$z = 21$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Üç san üçin jemiň formula ýazgyyny tapyň. (sanlar $a$, $b$, $c$ bolsun)",
+        "options": ["$a \\cdot b \\cdot c$", "$a + b - c$", "$a + b + c$", "$a / b + c$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Eger $y = 12$ bolsa, $y / 3 - 1$ aňlatmanyň bahasy näme?",
+        "options": ["4", "3", "5", "11"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Haýsy aňlatma 'altynyň we $x$-iň köpelýäniniň dörtden kiçisi' diýmek?",
+        "options": ["$6x - 4$", "$4 - 6x$", "$6x + 4$", "$6 / x - 4$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Deňlemäni çözüň: $4w = 36$.",
+        "options": ["$w = 9$", "$w = 32$", "$w = 40$", "$w = 144$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Jübüt sanlaryň toparyna haýsy san degişli däl?",
+        "options": ["12", "5", "20", "4"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Göni proporsional baglanyşyk nähili aňladylýar? ($k$ hemişelik san)",
+        "options": ["$y = x - k$", "$y = k / x$", "$y = kx$", "$y + x = k$"],
+        "correctAnswerIndex": 2
+    }
+]

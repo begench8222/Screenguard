@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Obýekt-ugurly programmirleme (OOP) dilinde synp (Class) näme?",
+        "options": ["Aýratyn maglumat", "Programmanyň bölegi", "Obýektler üçin şablon", "Gaýtalanýan funksiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Elektron tablisa (Excel) öýjüginde funksiýa nämeden başlanmaly?",
+        "options": ["#", "$", "=", "@"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Häzirki zaman kompýuterlerinde prosesoryň tizligi nähili ölçelýär?",
+        "options": ["Baýt (Byte)", "Volt", "Gers (Hertz)", "Amper"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Web sahypanyň gurluşyny we mazmunyny kesgitleýän esasy dil näme?",
+        "options": ["CSS", "JavaScript", "HTML", "PHP"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Iki sany gaty diski (HDD) birleşdirip, maglumatlaryň ýitirilmeginiň öňüni alýan tehnologiýa näme?",
+        "options": ["SSD", "RAID", "USB", "Bluetooth"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Maglumatlary setde gysga wagtyň içinde ugratmak üçin ulanylýan 'paketik' maglumat näme?",
+        "options": ["Faýl", "Protokol", "Paket (Packet)", "Freým"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Kompýutere birikdirilen enjamyň dogry işlemegi üçin zerur bolan programma üpjünçiligi näme?",
+        "options": ["BIOS", "Operasion ulgam", "Draýwer", "Utility"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Kompýuter setindäki ähli enjamlaryň fiziki gurluşy (ýerleşişi) näme diýilýär?",
+        "options": ["Protokol", "Topologiýa", "Domen", "Interfeýs"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Sanly maglumatlary analog maglumatlara we tersine öwürmek üçin ulanylýan enjam näme?",
+        "options": ["Ruter", "Klawiatura", "Modem", "Monitor"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Programmirlemede 'funksiýanyň öz-özüni çagyrmagy' näme diýilýär?",
+        "options": ["Iterasiýa", "Rekursiýa", "Abstraksiýa", "Enkapsulýasiýa"],
+        "correctAnswerIndex": 1
+    }
+]

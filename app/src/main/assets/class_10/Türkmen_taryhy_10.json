@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "XIII asyrda Türkmen topragynda uly ýok ediji howp döreden basybalyjy kim?",
+        "options": ["Aleksandr Makedonskiý", "Temirlan", "Çingiz han", "Nebukadnezar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Mongollaryň hökümdarlygyndan soň Köneürgenç (Horezm) haýsy döwletiň düzümine girdi?",
+        "options": ["Samaniler", "Altyn Orda (Jujiniň ulusy)", "Sefewiler", "Gaznewiler"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Türkmen taryhynda döwlet we medeniýet gurluşynda uly yz galdyran, XIV asyrda ýaşan beýik serkerde we hökümdar kim?",
+        "options": ["Gorkut ata", "Seljuk", "Temirlan", "Atatürk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Temirlan imperiýasy dargandan soň Türkmen topragynda dörän we häzirki türkmenleriň ösmegine güýçli täsir eden esasy döwletler (hanlyklar) haýsylar?",
+        "options": ["Rus imperiýasy we Osman imperiýasy", "Hywa, Buhara we Eýran (Sefewiler)", "Rim we Gresiýa", "Ýewropa döwletleri"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Orta asyrlaryň ahyrlarynda Hazar deňziniň boýunda ýerleşen, söwda we yslam merkezleriniň biri bolan şäher haýsy?",
+        "options": ["Aşgabat", "Etrek", "Türkmenbaşy", "Sarahs"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Türkmen taryhynda 'Döwletiň Dargama döwri' diýlip atlandyrylan (XV-XVIII asyr) döwrüň esasy häsiýeti näme?",
+        "options": ["Uly ykdysady ösüş", "Ýeke-täk merkezi döwletiň bolmazlygy we hanlyklara garaşlylyk", "Ýewropa bilen söwdanyň güýçlenmegi", "Harby güýjüň artmagy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Türkmen halkynyň milli akyldary, şahyry we türkmen döwletiniň arzuwçysy bolan şahsyýet kim?",
+        "options": ["Döwletmämmet Azady", "Mollanepes", "Magtymguly Pyragy", "Gurbandurdy Zelili"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Magtymgulynyň döredijiliginde esasy nygtalýan we arzuw edilýän düşünje näme?",
+        "options": ["Baýlyk we nebis", "Türkmen halkynyň birligi we döwletliligi", "Beýleki döwletleriň golasty", "Syýasy göreş"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "XIX asyryň ahyrynda Türkmen topragynda esasy hökümdarlyk ugrundaky göreş haýsy imperiýalaryň arasynda bolupdyr?",
+        "options": ["Osman we Fransiýa", "Hytaý we Hindistan", "Britaniýa we Rus imperiýasy", "Germaniýa we Awstriýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Türkmenleriň Hywa hanyna garşy göreşmekde uly rol oýnan, 'Gara ýylan' lakamly türkmen serkerdesi kim?",
+        "options": ["Garry Kemin", "Döwletmämmet Azady", "Gurbandurdy Zelili", "Garry Gurban"],
+        "correctAnswerIndex": 3
+    }
+]

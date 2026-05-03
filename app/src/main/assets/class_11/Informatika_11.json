@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Web-programmirlemede web sahypasyna dinamiki we interaktiw funksiýalary goşmak üçin haýsy dil ulanylýar?",
+        "options": ["HTML", "CSS", "JavaScript", "SQL"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Iki ýa-da ondan köp ýönekeý şerti birleşdirmek üçin ulanylýan logiki amal (meselem: AND, OR) näme?",
+        "options": ["Ritmik amal", "Hasaplama amaly", "Mantyk amaly (Boolean)", "Deňeşdirme amaly"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Maglumatlary goramak we enjamlara girmegi çäklendirmek üçin ulanylýan programma ýa-da enjam näme?",
+        "options": ["Ruter", "Brauzer", "Firewall (Ot diwary)", "Antiwirus"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Programmirlemede bir obýektiň beýleki obýektiň aýratynlyklaryny we funksiýalaryny miras almagy näme diýilýär?",
+        "options": ["Polimorfizm", "Miras (Inheritance)", "Enkapsulýasiýa", "Abstraksiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Maglumatlary tertipli gurnamak we çalt tapmak üçin ulanylýan formal gurluş näme?",
+        "options": ["Programmadyr", "Algoritm", "Maglumat gurluşy (Data Structure)", "Interfeýs"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Ikilik san ulgamyndaky -5 sanyň toparlaýyn kody (Two's Complement) näme? (4 bit üçin)",
+        "options": ["1011", "0101", "1010", "1101"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Kompýuter ulgamyndan girmäge rugsat berilmedik 'syzylmalar' näme diýilýär?",
+        "options": ["Haker hüjümi", "Wirus", "Troýan", "Zararlandyrma"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Maglumatlar bazasynda (DB) maglumatlaryň tutuşlygyny we yzygiderliligini üpjün edýän häsiýet näme?",
+        "options": ["Normalizasiýa", "Indeksleme", "Tranzaksiýa", "Bütünlik (Integrity)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 9,
+        "questionText": "Kompýuteriň doly öçürilmegi ýa-da ýakylmagy bilen baglanyşykly bolmadyk ýat näme?",
+        "options": ["RAM", "Wagtlaýyn ýat", "Uçujy däl ýat (Non-volatile memory)", "Keş"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Sanly suratlar üçin iň ýokary hilli, gysylmadyk (ýitgisiz) görnüş näme?",
+        "options": ["JPEG", "GIF", "BMP", "PNG"],
+        "correctAnswerIndex": 2
+    }
+]

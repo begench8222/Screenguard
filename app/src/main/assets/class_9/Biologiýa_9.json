@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Organizmleriň öz aralaryndaky we daşky gurşaw bilen bolan gatnaşyklaryny öwrenýän ylym pudagy näme?",
+        "options": ["Anatomiýa", "Fiziologiýa", "Genetika", "Ekologiýa"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 2,
+        "questionText": "Janly organizmler, olaryň ýaşaýyş gurşawy we özara gatnaşyklary bilen bilelikde döredýän ulgamy näme diýilýär?",
+        "options": ["Populýasiýa", "Biosfera", "Ekosistema", "Biom"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Iýmit zynjyrynda (food chain) diňe ösümlikler bilen iýmitlenýän jandarlar nähili atlandyrylýar?",
+        "options": ["Prodýuserler", "Konsumentler (Birinji derejeli)", "Konsumentler (Ikinji derejeli)", "Dekompizatorlar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Ýer ýüzünde janly organizmleriň ýaşaýan ähli ýerleri, ýagny howa, suw we toprak gatlaklary näme diýilýär?",
+        "options": ["Litosfera", "Gidrosfera", "Biosfera", "Atmosfera"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Ekosistemada iýmit zynjyrynyň esasynda durýan, ýagny energiýany daşky gurşawdan (Gün şöhlesinden) alýan organizmler näme?",
+        "options": ["Konsumentler", "Prodýuserler (Öndürijiler)", "Dekompizatorlar", "Geterotroflar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Haýsy hadysa ekosistemanyň 'biodürlüliginiň' (biodiversity) ýitmegine sebäp bolýar?",
+        "options": ["Tebigy ýaşaýyş ýerleriniň ýok edilmegi", "Günüň energiýasynyň artmagy", "Wulkan atylyşygy", "Suwuň arassalanmagy"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Ilatyň (populýasiýanyň) sanynyň artmagyny çäklendirýän we onuň ýaşaýyş ukybyna täsir edýän faktorlar näme diýilýär?",
+        "options": ["Ösüş faktorlary", "Çäklendiriji faktorlar", "Optimum faktorlar", "Geografik faktorlar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Aşakdakylaryň haýsy 'abiotik faktor' (janly däl gurşaw) mysaly?",
+        "options": ["Ýyrtyjy haýwanlar", "Temperatura", "Ösümlikler", "Bakteriýalar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Uglewodorod aýlawynda esasy rol oýnaýan prosesler haýsy?",
+        "options": ["Suw bugarmasy we ýagyş", "Fotosintez we dem alma", "Wulkan atylyşygy", "Ýyldyrym çakmasy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Ekosistemada ölen organizmleri we galyndylary dargadyp, tebigy elementleri gaýtadan aýlawa goşýan jandarlar näme?",
+        "options": ["Konsumentler", "Prodýuserler", "Dekompizatorlar (Dargadyjylar)", "Otuň iýijiler"],
+        "correctAnswerIndex": 2
+    }
+]

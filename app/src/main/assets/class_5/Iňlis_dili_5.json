@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "questionText": "'Siziň hünäriňiz näme?' (What is your profession?) iňlis dilinde nädip jogap berilmeli?",
+    "options": ["I am eating", "I am a doctor/teacher/student", "I am old", "I am sad"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 2,
+    "questionText": "Ýaşyl reňk iňlis dilinde nähili aýdylýar?",
+    "options": ["Purple", "Pink", "Green", "Brown"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 3,
+    "questionText": "1000 sany iňlis dilinde nähili?",
+    "options": ["Hundred", "Thousand", "Million", "Billion"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "questionText": "'Azyk' iňlis dilinde nähili?",
+    "options": ["Drink", "Walk", "Food", "Sleep"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "questionText": "Çalt (Fast) sözüniň tersi näme?",
+    "options": ["Quick", "Slow", "Hard", "Light"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 6,
+    "questionText": "Aşakdakylaryň haýsy 'Häzirki dowam edýän zaman' (Present Continuous) üçin ulanylýan kömekçi işlik?",
+    "options": ["Did", "Was", "Do", "Is/Are/Am"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 7,
+    "questionText": "Haýsysy iňlis dilinde pasyl däl?",
+    "options": ["Summer (Ýaz)", "Winter (Gyz)", "Spring (Bahar)", "Bularyň hemmesi"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 8,
+    "questionText": "Maşgala agzasy bolan 'Daýza' iňlis dilinde nähili?",
+    "options": ["Nephew", "Aunt", "Uncle", "Cousin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 9,
+    "questionText": "Usul (Manner) barada soramak üçin ulanylýan söz?",
+    "options": ["Where", "What", "How", "Who"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "questionText": "Bir işi köplenç edýändigiňizi görkezýän söz?",
+    "options": ["Yesterday", "Tomorrow", "Often", "Never"],
+    "correctAnswerIndex": 2
+  }
+]

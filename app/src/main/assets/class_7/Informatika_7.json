@@ -1,0 +1,62 @@
+[
+    {
+        "id": ,
+        "questionText": "Maglumatyň göwrümini ölçemek üçin ulanylýan iň uly birlik haýsy?",
+        "options": ["GigaBaýt (GB)", "TeraBaýt (TB)", "PetaBaýt (PB)", "EksaBaýt (EB)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 2,
+        "questionText": "Iki ýagdaýdan (0 ýa-da 1) ybarat bolan san ulgamy näme?",
+        "options": ["Onluk ulgam", "Sekizlik ulgam", "Ikilik ulgam", "Onaltylyk ulgam"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Kompýuter enjamlarynyň we programmalarynyň arasynda maglumat alyş-çalşygy üçin ulanylýan kadalar toplumy näme?",
+        "options": ["Interfeýs", "Protokol", "Kod", "Algoritm"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Kompýuter wiruslaryndan goramak üçin niýetlenen programma näme?",
+        "options": ["Brauzer", "Arhiwator", "Antiwirus", "Draýwer"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Operasion ulgamyň grafiki interfeýsiniň esasy bölegi näme?",
+        "options": ["Faýl", "Söýege (Menýu)", "Iş stoly", "Kursor"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Maglumatlary wagtlaýyn saklamak we prosesoryň çalt elýeterliligini üpjün etmek üçin ulanylýan kiçi, gaty çalt ýat näme?",
+        "options": ["RAM", "Gaty disk (HDD)", "Keş ýady (Cache memory)", "ROM"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Elektron tablisada (Excel) gorizontal hatar we wertikal sütün kesişen ýerine näme diýilýär?",
+        "options": ["Sütün", "Hatar", "Öýjük (Cell)", "Arhif"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Kompýuter setine birikdirilen kompýuterler topary näme?",
+        "options": ["Klaster", "Server", "Topologiýa", "Lokal ulgam (LAN)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 9,
+        "questionText": "Algoritm üçin yzygiderli ýerine ýetirilýän kadalaryň ýazgysy näme?",
+        "options": ["Blok-shema", "Shema", "Kod", "Diagramma"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Kompýuteriň 'çykýan' maglumatlary görkezýän enjamy näme?",
+        "options": ["Skaner", "Mikrofon", "Monitor", "Modem"],
+        "correctAnswerIndex": 2
+    }
+]

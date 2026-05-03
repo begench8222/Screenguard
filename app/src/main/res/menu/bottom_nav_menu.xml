@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_statistics"
+        android:icon="@drawable/st"
+        android:title="@string/title_statistics" />
+
+    <item
+        android:id="@+id/navigation_apps"
+        android:icon="@drawable/pr"
+        android:title="@string/title_apps" />
+
+    <item
+        android:id="@+id/navigation_conditional_apps"
+        android:icon="@drawable/ic_conditional_apps"
+        android:title="@string/conditional_apps" />
+
+    <item
+        android:id="@+id/navigation_blocked_apps"
+        android:icon="@drawable/nas"
+        android:title="@string/title_blocked_apps" />
+
+</menu>

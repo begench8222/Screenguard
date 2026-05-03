@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Magnit induksiýasy nähili kesgitlenilýär?",
+        "options": ["B = F/(I l sinα)", "B = Φ/S", "B = μ₀I/(2πr)", "B = F/(q v sinα)"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Lorens güýjü nähili kesgitlenilýär?",
+        "options": ["F = q v B sinα", "F = I l B sinα", "F = k q₁ q₂/r²", "F = m v²/r"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Elektromagnit tolkuny nähili ýaýraýar?",
+        "options": ["Wakuumda", "Diňe gazlarda", "Diňe suwuklyklarda", "Diňe berk cisimlerde"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Fotoeffektiň iş funksiýasy näme?",
+        "options": ["Elektrony metaldan çykarmak üçin zerur iň az energiýa", "Fotonyň energiýasy", "Elektronyň kinetik energiýasy", "Fotonyň tizligi"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Fotoeffekt üçin iş funksiýasy bilen foton energiýasynyň gatnaşygy nähili?",
+        "options": ["hf ≥ A", "hf < A", "hf = A/2", "hf > 2A"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "De Broýliň dalga uzynlygy nähili hasaplanýar?",
+        "options": ["λ = h/p", "λ = c/f", "λ = v/f", "λ = hf"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Ýadro fizikasında A nuklon sany näme aňladýar?",
+        "options": ["Mass sany", "Zaryd sany", "Neýtron sany", "Proton sany"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Radioaktiv bozulmada ýarym ýaşama wagty näme?",
+        "options": ["Berlen nuktanyň ýarysynyň bozulmagyna zerur wagt", "Berlen nuktanyň hemmesiniň bozulmagyna zerur wagt", "Bozulmanyň başlan wagty", "Bozulmanyň tamamlan wagty"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Ýadro reaksiýasynda nämä saklanýar?",
+        "options": ["Nuklonlaryň umumy sany we zarydy", "Diňe nuklonlaryň sany", "Diňe zaryd", "Diňe energiýa"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Termoýadro reaksiýasy nirede bolup geçýär?",
+        "options": ["Ýyldyzlarda", "Ýerde tebigy ýagdaýda", "Laboratoriýada", "Kosmik boşlukda"],
+        "correctAnswerIndex": 0
+    }
+]

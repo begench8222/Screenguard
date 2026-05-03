@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Uly maglumatlary (Big Data) processirlemek we derňemek üçin döredilen hasaplanyş modeli näme?",
+        "options": ["FTP", "MapReduce", "HTTPS", "SMTP"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Programmirlemede bir at bilen birnäçe funksiýanyň bolmagy, emma dürli parametrler bilen işleýän ýagdaý näme?",
+        "options": ["Miras", "Polimorfizm", "Çalyşma (Overloading)", "Abstraksiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Kompýuter arkaly hakyky ýa-da hyýaly gurşawyň 3D görnüşini döretmek näme?",
+        "options": ["Simulýasiýa", "Wirtual hakykat (Virtual Reality)", "Telekommunikasiýa", "Augmented Reality"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Maglumatlaryň hakykatdanam kimdendigini tassyklaýan howpsuzlyk mehanizmi näme?",
+        "options": ["Awtorizasiýa", "Şifrleme", "Awtorizasiýa", "Bütünlik"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Sanly maglumatlaryň taryhy boýunça yzygiderli yzynda galmak we üýtgetmeleri yzarlamak usuly näme?",
+        "options": ["Hashing", "Blockchain", "Kodlama", "Kompressiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Maşyn öwrenmesi (Machine Learning) näme üçin ulanylýar?",
+        "options": ["Tekst redaktirlemek", "Kompýuteri guratmak", "Maglumatlardan nusgalary tapmak we çaklamalar etmek", "Elektron poçtany ibermek"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Maglumatlar bazasy (DB) dizaýnynda artykmaçlygy (redundancy) azaltmak prosesi näme?",
+        "options": ["Indeksleme", "Normalizasiýa", "Bütünlik", "Abstraksiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Web sahypanyň stiline we dizaýnyna (reňk, şrift, ýerleşiş) jogapkär dil näme?",
+        "options": ["HTML", "JavaScript", "CSS", "PHP"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Kompýuterde ýerleşýän we daşky gurşawyň täsirine jogap berýän programmalar näme?",
+        "options": ["Wirus", "Robot", "Awtomat", "Sensor"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Obýekt-ugurly programmirlemede maglumatlary we olaryň üstünde işleýän funksiýalary bir obýektiň içinde gizlemek näme diýilýär?",
+        "options": ["Miras", "Enkapsulýasiýa", "Polimorfizm", "Abstraksiýa"],
+        "correctAnswerIndex": 1
+    }
+]

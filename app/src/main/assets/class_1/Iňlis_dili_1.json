@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Salamlaşmak üçin ulanylýan iň ýönekeý söz haýsy?",
+        "options": ["Bye", "Cat", "Hello", "Red"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Ak reňk iňlis dilinde nähili aýdylýar?",
+        "options": ["Black", "Yellow", "White", "Green"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "3 sany iňlis dilinde nähili?",
+        "options": ["Two", "Four", "Three", "Five"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "It (Dog) näme ses çykarýar?",
+        "options": ["Meow", "Baa", "Woof", "Quack"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Hawa diýmek üçin ulanylýan söz?",
+        "options": ["No", "Yes", "Maybe", "Run"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Günüň (Sun) iňlis dilindäki aty?",
+        "options": ["Moon", "Star", "Sun", "Cloud"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Eliňizdäki bäş barmaklara näme diýilýär?",
+        "options": ["Feet", "Toes", "Fingers", "Ears"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Maşgala agzasy bolan 'Ene' iňlis dilinde nähili?",
+        "options": ["Father", "Brother", "Mother", "Sister"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Sorag bermek üçin ulanylýan iňlis sözi: 'Bu näme?'",
+        "options": ["What", "When", "Where", "Who"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Bir alma (Apple) nähili aýdylýar?",
+        "options": ["A banana", "An apple", "A carrot", "A pear"],
+        "correctAnswerIndex": 1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Türkmen halk döredijiliginiň iň köp ýaýran we taryhy gahrymançylykly eseri haýsy?",
+        "options": ["Görogly", "Nejep oglan", "Zöhre-Tahyr", "Leýli-Mejnun"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Magtymguly Pyragy haýsy asyrda ýaşap, döredijilik eden beýik türkmen şahyry?",
+        "options": ["XV asyr", "XVI asyr", "XVIII asyr", "XX asyr"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Türkmen halk ertekilerinde köplenç haýsy oňyn häsiýetler nygtalýar?",
+        "options": ["Gorkaklyk we nebis", "Edermenlik we dogruçyllyk", "Ýalançylyk we ýaltalyk", "Gaharlylyk we öç almak"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Gysga, çuň manyly, ahlak öwütlerini berýän halk döredijiliginiň görnüşi näme?",
+        "options": ["Dessan", "Nakyl we Atalar sözi", "Hekaýa", "Goşgy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Nurmuhammet Andalyp haýsy dessany döredendigi bilen meşhur?",
+        "options": ["Şasenem-Garyp", "Hüýrlukga-Hemra", "Leýli-Mejnun", "Ýusup-Züleýha"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Türkmen halk dessanlaryny ýerine ýetirijä nähili at berilýär?",
+        "options": ["Bagşy", "Hekaýaçy", "Aýdymçy", "Sazanda"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Garaoglan haýsy dessanyň gahrymany?",
+        "options": ["Görogly", "Zöhre-Tahyr", "Şasenem-Garyp", "Saýatly-Hemra"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Haýsy türkmen şahyry 'Türkmeniň ykbaly' temasynda çuňňur oýlanmalary bilen tanalýar?",
+        "options": ["Kemin", "Seýdi", "Magtymguly Pyragy", "Mollanepes"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Halk arasynda giňden ýaýran, gülkünç we gyzykly gysga hekaýalaryň ady näme?",
+        "options": ["Agy", "Rowaýat", "Degişme (Ýomak)", "Mesele"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "'Ýaşyl begres, gyzyl düwme' haýsy žanra degişli?",
+        "options": ["Matallar", "Ertekiler", "Nakyllar", "Dessanlar"],
+        "correctAnswerIndex": 0
+    }
+]

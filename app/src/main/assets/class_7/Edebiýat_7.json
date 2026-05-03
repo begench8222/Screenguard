@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Türkmen klassyk edebiýatynyň 'Aşyklar şahyry' ady bilen meşhur bolan we 'Zöhre-Tahyr' dessanynyň awtory kim?",
+        "options": ["Azady", "Andalyp", "Mollanepes", "Gurbandurdy Zelili"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Magtymguly Pyragynyň atasy, meşhur 'Wagzy-Azat' eseriniň awtory kim?",
+        "options": ["Mollanepes", "Dosmämmet", "Döwletmämmet Azady", "Seýdi"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Kemin (Abdulla Welmuhammet) köplenç döredijiliginde haýsy žanry ulanýar?",
+        "options": ["Gahrymançylykly dessan", "Ylmy traktat", "Satira we degişme", "Dini eserler"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Haýsy şahyr Eýranda sürgünde bolup, 'Gelse ýene' ýaly eserlerinde watanyna bolan söýgüsini beýan edipdir?",
+        "options": ["Seýitnazar Seýdi", "Magtymguly Pyragy", "Kemin", "Dosmämmet"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Dessanlarda we goşgularda köplenç ulanylýan, dört setirden we bir bitin pikirden ybarat bolan bend görnüşi näme?",
+        "options": ["Müstezad", "Mersiye", "Katriýa (dörtleme)", "Gazal"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Döwletmämmet Azadynyň 'Wagzy-Azat' eseriniň esasy temasy näme?",
+        "options": ["Söýgi we aýralyk", "Dini-ahlak öwütler we adalat", "Uruş we gahrymançylyk", "Tebigat gözellikleri"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Mollanepesiň lirikasynyň esasy häsiýetli aýratynlygy näme?",
+        "options": ["Syýasy satiralar", "Filosofiki oýlanmalar", "Çuň lirik söýgi we romantika", "Sosial tankyt"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Haýsy dessanda gahryman, Şaseneme aşyk bolup, ýaragyny taşlap ýönekeý bagşy bolup gezýär?",
+        "options": ["Görogly", "Şasenem-Garyp", "Leýli-Mejnun", "Saýatly-Hemra"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Klassyk şahyrlarymyzyň eserlerinde agzalýan 'Ýedi Gazyk' haýsy düşünjäni aňladýar?",
+        "options": ["Asmandaky ýyldyzlary", "Dünýäniň ýedi täsinligini", "Jemgyýetiň adalatly bolmagy üçin ýedi sany esasy düzgüni", "Türkmen taýpalarynyň sanyny"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Edebiýatda eseriň iň möhüm ideýasy, awtoryň aýtmak isleýän zady näme diýilýär?",
+        "options": ["Süjet", "Tema", "Režissura", "Hakykat"],
+        "correctAnswerIndex": 1
+    }
+]

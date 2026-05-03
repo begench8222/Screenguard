@@ -1,0 +1,129 @@
+<resources>
+    <!-- Grade 1 subjects -->
+    <string-array name="class_1_subjects">
+        <item>math|Mathematics</item>
+        <item>english|English Language</item>
+    </string-array>
+
+    <!-- Grade 2 subjects -->
+    <string-array name="class_2_subjects">
+        <item>math|Mathematics</item>
+        <item>english|English Language</item>
+    </string-array>
+
+    <!-- Grade 3 subjects -->
+    <string-array name="class_3_subjects">
+        <item>math|Mathematics</item>
+        <item>english|English Language</item>
+    </string-array>
+
+    <!-- Grade 4 subjects -->
+    <string-array name="class_4_subjects">
+        <item>math|Mathematics</item>
+        <item>english|English Language</item>
+    </string-array>
+
+    <!-- Grade 5 subjects -->
+    <string-array name="class_5_subjects">
+        <item>math|Mathematics</item>
+        <item>english|English Language</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+    </string-array>
+
+    <!-- Grade 6 subjects -->
+    <string-array name="class_6_subjects">
+        <item>algebra|Algebra</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+        <item>physics|Physics</item>
+        <item>biology|Biology</item>
+        <item>english|English Language</item>
+        <item>informatics|Informatics</item>
+    </string-array>
+
+    <!-- Grade 7 subjects -->
+    <string-array name="class_7_subjects">
+        <item>algebra|Algebra</item>
+        <item>literature|Literature</item>
+        <item>english|English Language</item>
+        <item>biology|Biology</item>
+        <item>informatics|Informatics</item>
+        <item>history|History</item>
+        <item>geography|Geography</item>
+        <item>physics|Physics</item>
+    </string-array>
+
+    <!-- Grade 8 subjects -->
+    <string-array name="class_8_subjects">
+        <item>algebra|Algebra</item>
+        <item>english|English Language</item>
+        <item>biology|Biology</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+        <item>turkmen_history|Turkmen History</item>
+        <item>geography|Geography</item>
+        <item>physics|Physics</item>
+        <item>chemistry|Chemistry</item>
+        <item>informatics|Informatics</item>
+    </string-array>
+
+    <!-- Grade 9 subjects -->
+    <string-array name="class_9_subjects">
+        <item>algebra|Algebra</item>
+        <item>english|English Language</item>
+        <item>biology|Biology</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+        <item>turkmen_history|Turkmen History</item>
+        <item>geography|Geography</item>
+        <item>physics|Physics</item>
+        <item>chemistry|Chemistry</item>
+        <item>informatics|Informatics</item>
+    </string-array>
+
+    <!-- Grade 10 subjects -->
+    <string-array name="class_10_subjects">
+        <item>algebra|Algebra</item>
+        <item>geometry|Geometry</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+        <item>english|English Language</item>
+        <item>biology|Biology</item>
+        <item>turkmen_history|Turkmen History</item>
+        <item>geography|Geography</item>
+        <item>physics|Physics</item>
+        <item>chemistry|Chemistry</item>
+        <item>informatics|Informatics</item>
+    </string-array>
+
+    <!-- Grade 11 subjects -->
+    <string-array name="class_11_subjects">
+        <item>algebra|Algebra</item>
+        <item>geometry|Geometry</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+        <item>geography|Geography</item>
+        <item>english|English Language</item>
+        <item>biology|Biology</item>
+        <item>physics|Physics</item>
+        <item>turkmen_history|Turkmen History</item>
+        <item>chemistry|Chemistry</item>
+        <item>informatics|Informatics</item>
+    </string-array>
+
+    <!-- Grade 12 subjects -->
+    <string-array name="class_12_subjects">
+        <item>algebra|Algebra</item>
+        <item>geometry|Geometry</item>
+        <item>literature|Literature</item>
+        <item>history|History</item>
+        <item>english|English Language</item>
+        <item>biology|Biology</item>
+        <item>turkmen_history|Turkmen History</item>
+        <item>geography|Geography</item>
+        <item>physics|Physics</item>
+        <item>chemistry|Chemistry</item>
+        <item>informatics|Informatics</item>
+    </string-array>
+</resources>

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "questionText": "Kwatrat deňleme nähili görnüşde ýazylýar?",
+        "options": [
+            "ax + b = 0",
+            "ax² + bx + c = 0",
+            "ax³ + bx² + cx + d = 0",
+            "a/x + b = 0"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Diskriminant nähili hasaplanýar?",
+        "options": [
+            "b² - 4ac",
+            "b² + 4ac",
+            "2b - 4ac",
+            "b²/4ac"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Logarifmiň esasy aňlatmasy nädip ýazylýar?",
+        "options": [
+            "logₐb = c → aᶜ = b",
+            "logₐb = c → bᶜ = a",
+            "logₐb = c → a = bᶜ",
+            "logₐb = c → c = aᵇ"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Arifmetik progressiýanyň n-nji agzasy nähili tapylýar?",
+        "options": [
+            "aₙ = a₁ + (n-1)d",
+            "aₙ = a₁ * rⁿ⁻¹",
+            "aₙ = a₁ + nd",
+            "aₙ = a₁ * rⁿ"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Geometrik progressiýanyň n-nji agzasy nähili tapylýar?",
+        "options": [
+            "aₙ = a₁ + (n-1)d",
+            "aₙ = a₁ * rⁿ⁻¹",
+            "aₙ = a₁ * n",
+            "aₙ = a₁ + rⁿ"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Kompleks san nädip aňladylýar?",
+        "options": [
+            "a + bi",
+            "a - bi",
+            "ai + b",
+            "a/b + i"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Binom hasaplamasy nähili ýerine ýetirilýär?",
+        "options": [
+            "(a+b)ⁿ = ΣCₖaⁿ⁻ᵏbᵏ",
+            "(a+b)ⁿ = aⁿ + bⁿ",
+            "(a+b)ⁿ = Σaᵏbⁿ⁻ᵏ",
+            "(a+b)ⁿ = n!/(a!b!)"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Matrisanyň determinanty 2x2 matrisa üçin nähili hasaplanýar?",
+        "options": [
+            "ad - bc",
+            "ab - cd",
+            "ac - bd",
+            "a+d - b+c"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Ösümlik funksiýasy nähili aňladylýar?",
+        "options": [
+            "y = aˣ",
+            "y = xᵃ",
+            "y = logₐx",
+            "y = ax + b"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Logarifmik deňlemäniň çözülüşi nähili amala aşyrylýar?",
+        "options": [
+            "Logarifmiň esasy aňlatmasy ulanylýar",
+            "Deňleme kwadrat görnüşe getirilýär",
+            "Deňleme köpeltmek görnüşine geçirilýär",
+            "Deňleme bölmek görnüşine geçirilýär"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

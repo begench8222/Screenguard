@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Kerim Gurbannepesowyň 'Taýsyz söýgi' poemasyndaky esasy pelsepewi ideýa näme?",
+        "options": ["Söýginiň ynsan durmuşyndaky ähmiýetini we çylşyrymlylygyny", "Baýlygyň güýjüni", "Syýasy göreşi", "Harby strategiýa"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Berdi Kerbabaýewiň 'Gaýgyly' romanynda nähili döwürdäki wakalar beýan edilýär?",
+        "options": ["Garaşsyzlyk döwri", "Beýik Watançylyk urşy döwri", "Orta asyrlar", "Neolit döwri"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Edebiýatda bir eseriň beýleki eserlerden alan 'dili', 'gurluşy' ýa-da 'motifi' näme diýilýär?",
+        "options": ["Originallyk", "Plagiat", "Intertekstuallyk", "Autentiklik"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Haýsy türkmen şahyrynyň döredijiligi BMG-niň ýörite karary bilen dünýä derejesinde bellenilip, onuň pelsepewi mirasynyň global ähmiýeti nygtaldy?",
+        "options": ["Mollanepes", "Kemin", "Magtymguly Pyragy", "Gurbannazar Ezizow"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Gurbannazar Ezizowyň döredijiliginde köplenç 'aýralyk' we 'ýalňyzlyk' temalarynyň agdyklyk etmeginiň esasy sebäbi näme?",
+        "options": ["Syýasy ýagdaý", "Şahsy durmuşyndaky tragediýalar we çuň duýgular", "Dini düşünjeler", "Tebigat bilen baglanyşyk"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Ata Gowşudowyň 'Perman' romanynda halkyň ykbaly we taryhy hakykatlar nähili usul bilen beýan edilýär?",
+        "options": ["Simwolizm", "Sosialistik realizm", "Taryhy realizm", "Fantastika"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Edebiýatda bir zady başga bir zat arkaly, gizlin we doly däl ýagdaýda beýan etmek näme diýilýär?",
+        "options": ["Epitet", "Simwol (Nyzan)", "Metonimiýa", "Süjet"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Türkmen edebiýatynyň taryhynda 'Dünýäniň ähli şahyrlarynyň uly agasy' adyny alan şahyr kim?",
+        "options": ["Magtymguly Pyragy", "Seýdi", "Kemin", "Mollanepes"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy türkmen ýazyjysy öz eserlerinde (mysal üçin 'Garrynyň öýi') jemgyýetçilik-ahlak meselelerini, ýagny adamlaryň duýgudaşlykdan daşlaşmagyny, çuňňur psihologizm bilen açyp görkezýär?",
+        "options": ["Berdi Kerbabaýew", "Ata Gowşudow", "Tirkish Jumageldiýew", "Aman Kekilow"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Edebiýatda gahrymanlaryň diliniň öz aýratynlyklarynyň bolmagy, mysal üçin, halk dilinden gürlemek nähili atlandyrylýar?",
+        "options": ["Monolog", "Diýalektizm", "Dialog", "Reç"],
+        "correctAnswerIndex": 1
+    }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "questionText": "Türkmen halkynyň döwletliliginiň taryhy haýsy gadymy döwlet bilen hasaplap başlanýar?",
+    "options": ["Rim imperiýasy", "Parfiýa şalygy", "Ahemeniler döwleti", "Orta Amerika döwleti"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 2,
+    "questionText": "Parfiýa şalygynyň paýtagty bolan we BMG-nyň ÝUNESKO sanawyna giren ýadygärlik haýsy?",
+    "options": ["Goňurdepe", "Merw", "Köneürgenç", "Köne Nisa"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 3,
+    "questionText": "Beýik Ýüpek Ýolunyň Türkmenistanyň çäklerinden geçmegi haýsy şäherleriň ösmegine uly täsir etdi?",
+    "options": ["Aşgabat we Balkanabat", "Daşoguz we Türkmenbaşy", "Merw we Köneürgenç", "Köne Nisa we Sarahs"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 4,
+    "questionText": "Uly Seljuk imperiýasynyň düýbüni tutujylar haýsy türkmen oguz taýpalaryndan gelip çykýar?",
+    "options": ["Saryk", "Goklen", "Kynyk", "Tekeler"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "questionText": "Seljuk döwletiniň iň güýçli Soltany we Gündogaryň 'Şasy' diýlip atlandyrylan Soltan kim?",
+    "options": ["Togrul beg", "Mälik şa", "Soltan Sanjar", "Alp Arslan"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 6,
+    "questionText": "Horezm şalar döwleti haýsy asyrlarda uly kuwwata eýe bolupdyr?",
+    "options": ["Miladydan öňki I asyr", "V-VII asyrlar", "XI-XIII asyrlar", "XV-XVI asyrlar"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 7,
+    "questionText": "XIII asyrda Türkmen topragyna uly howp salan we Horezmi basyp alan basybalyjy kim?",
+    "options": ["Aleksandr Makedonskiý", "Temirlan", "Çingiz han", "Britan imperiýasy"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "questionText": "Magtymguly Pyragy haýsy asyrda ýaşap, türkmen halkynyň birligi barada aýdym aýdypdyr?",
+    "options": ["XVI asyr", "XVII asyr", "XVIII asyr", "XIX asyr"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 9,
+    "questionText": "Rus imperiýasynyň türkmenleri basyp almakda iň soňky esasy söweşi nirede bolup geçdi?",
+    "options": ["Merw", "Köneürgenç", "Gökdepe", "Hazar"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "questionText": "Türkmenistan haýsy ýylda öz Garaşsyzlygyny yglan etdi?",
+    "options": ["1924-nji ýyl", "1985-nji ýyl", "1991-nji ýyl", "1995-nji ýyl"],
+    "correctAnswerIndex": 2
+  }
+]

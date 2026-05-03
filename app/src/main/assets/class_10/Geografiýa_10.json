@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Ýewropa Bileleşigi (ÝB) haýsy esasy maksat bilen döredildi?",
+        "options": ["Harby goranmak", "Ykdysady we syýasy integrasiýa", "Dini birleşme", "Tebigy serişdeleri dolandyrmak"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Afrikanyň esasy problemalarynyň biri bolan 'demografiýa partlamasy' näme diýmek?",
+        "options": ["Ilatyň kemelmegi", "Garry ilatyň köpelmegi", "Çalt we gözegçiliksiz ilat artymy", "Göçüň köpelmegi"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Ýakyn Gündogardaky haýsy derýalar 'Mesopotamiýa' atly gadymy siwilizasiýanyň dörän ýeri bolupdyr?",
+        "options": ["Nil we Kongo", "Tigr we Ýewfrat", "Ind we Gang", "Ýanzy we Hwanhe"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Latyn Amerikasyndaky döwletleriň dilleriniň köpüsiniň esasy gelip çykyşy haýsy Ýewropa döwletlerinden?",
+        "options": ["Angliýa we Germaniýa", "Ispaniýa we Portugaliýa", "Fransiýa we Italiýa", "Russiýa we Gresiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Günorta-Gündogar Aziýa sebitinde iň möhüm azyk önümi haýsy?",
+        "options": ["Bugdaý", "Kartoşka", "Kese (Düri)", "Garpyz"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Haýsy sebitde 'Monsoon' ýa-da 'Musson' ýelleri we olara mahsus ýagyşlar esasy rol oýnaýar?",
+        "options": ["Günbatar Ýewropa", "Günorta Aziýa we Günorta-Gündogar Aziýa", "Demirgazyk Afrika", "Awstraliýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Haýsy Afrikaly döwlet 1994-nji ýylda aparteid syýasatyny ýatyrdy?",
+        "options": ["Müsür", "Nigeriýa", "Keniýa", "Günorta Afrika Respublikasy"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 8,
+        "questionText": "Demirgazyk Amerikadaky haýsy ýurt, meýdany boýunça Russiýadan soň dünýäde ikinji ýerde durýar?",
+        "options": ["ABŞ", "Meksika", "Kanada", "Braziliýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy yklymda ilatyň ortaça ýaşaýyş dowamlylygy iň pes?",
+        "options": ["Ýewropa", "Aziýa", "Afrika", "Günorta Amerika"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Haýsy sebit 'Täze industrial döwletler' (TID) diýlip atlandyrylýan döwletler bilen häsiýetlenýär?",
+        "options": ["Gündogar Ýewropa", "Günorta-Gündogar Aziýa we Gündogar Aziýa", "Günorta Amerika", "Günbatar Ýewropa"],
+        "correctAnswerIndex": 1
+    }
+]

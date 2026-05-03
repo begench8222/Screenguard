@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "A narrative technique in which a writer intentionally leaves out information, creating **mystery or anticipation**, is called _____.",
+        "options": ["Foreshadowing", "Red herring", "Ellipsis", "In media res"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Which sentence uses the correct **subjunctive mood**?",
+        "options": ["If I was rich, I would travel the world.", "If I were rich, I would travel the world.", "If I am rich, I would travel the world."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "The figure of speech where a part is used to represent the whole (e.g., 'wheels' for a car) is known as _____.",
+        "options": ["Metonymy", "Synecdoche", "Apostrophe", "Understatement"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "What is the literary term for the main character's opponent in a story?",
+        "options": ["Protagonist", "Foil", "Antagonist", "Deuteragonist"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Which word correctly completes the sentence: 'The report was much **less** detailed than the others, which affected its conclusion.'",
+        "options": ["Fewer", "Less", "Much", "Many"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "The correct use of the **colon** is to introduce _____.",
+        "options": ["An opposing clause", "A list, explanation, or elaborate restatement", "An independent clause", "A dependent clause"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "A word's **connotation** refers to _____.",
+        "options": ["Its literal dictionary definition", "Its grammatical function", "The associated or implied meanings", "Its origin or history"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Identify the **absolute phrase** in the sentence: 'The rain having stopped, we continued our hike.'",
+        "options": ["We continued our hike", "The rain having stopped", "Our hike", "Having stopped"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "The word **'ephemeral'** is best defined as _____.",
+        "options": ["Lasting a very long time", "Existing only for a short time", "Being everywhere at once", "Extremely powerful"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Which logical fallacy involves attacking the person making the argument instead of the argument itself?",
+        "options": ["Red Herring", "Ad Hominem", "Straw Man", "Hasty Generalization"],
+        "correctAnswerIndex": 1
+    }
+]

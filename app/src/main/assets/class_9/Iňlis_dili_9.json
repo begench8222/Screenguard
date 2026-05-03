@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Which word is the **subordinating conjunction** in: 'Because it was raining, we stayed inside.'",
+        "options": ["Because", "It", "Raining", "Inside"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Identify the **simple predicate** in the sentence: 'The old, rusty bicycle quickly fell down.'",
+        "options": ["The old, rusty bicycle", "Quickly fell down", "Fell", "Fell down"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "The repetition of consonant sounds at the beginning of words is called _____.",
+        "options": ["Alliteration", "Assonance", "Onomatopoeia", "Hyperbole"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Which sentence is written in the **past perfect** tense?",
+        "options": ["He was eating lunch.", "He ate lunch.", "He had eaten lunch.", "He eats lunch."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "What is the **mood** of a verb used to express a command or request?",
+        "options": ["Indicative", "Subjunctive", "Imperative", "Interrogative"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Choose the word with the correct **spelling**:",
+        "options": ["Aquire", "Achieve", "Recieve", "Belive"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "What is the best **definition** for the word 'ubiquitous'?",
+        "options": ["Very expensive", "Appearing everywhere", "Extremely rare", "Difficult to pronounce"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Which punctuation mark is used to indicate a break in thought or speech, like an interruption?",
+        "options": ["Comma", "Hyphen", "Semicolon", "Dash"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 9,
+        "questionText": "What type of pronoun refers to a subject and ends in -self or -selves (e.g., 'himself')?",
+        "options": ["Relative", "Indefinite", "Reflexive", "Demonstrative"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Identify the type of sentence structure: 'She studies hard, but she also enjoys sports.'",
+        "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+        "correctAnswerIndex": 1
+    }
+]

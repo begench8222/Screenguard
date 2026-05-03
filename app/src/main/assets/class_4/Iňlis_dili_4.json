@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "'Siz nireden?' (Where are you from?) iňlis dilinde nädip jogap berilmeli?",
+        "options": ["I am seven", "I am a teacher", "I am from Turkmenistan", "I am happy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Mawy reňk iňlis dilinde nähili aýdylýar?",
+        "options": ["Green", "Blue", "Red", "Orange"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "100 sany iňlis dilinde nähili?",
+        "options": ["Ten", "Thousand", "Hundred", "Million"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Mekdebiň içindäki 'Klas otagy' (Classroom) iňlis dilinde nähili?",
+        "options": ["Kitchen", "Bedroom", "Classroom", "Garden"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Uly (Big) sözüniň tersi näme?",
+        "options": ["Tall", "Small", "Long", "Heavy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Aşakdakylaryň haýsy 'Sypat' (Adjective)?",
+        "options": ["Run", "Quickly", "Happy", "Book"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Fifty?",
+        "options": ["20", "40", "35", "50"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 8,
+        "questionText": "Maşgala agzasy bolan 'Ata' iňlis dilinde nähili?",
+        "options": ["Uncle", "Aunt", "Grandfather", "Cousin"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Sebäp (Reason) barada soramak üçin ulanylýan söz?",
+        "options": ["Where", "When", "How", "Why"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 10,
+        "questionText": "Iňlis dilinde köplük sany (Plural) görkezýän iň ýygy-ýygydan ulanylýan goşulma?",
+        "options": ["-ing", "-ed", "-s", "-ly"],
+        "correctAnswerIndex": 2
+    }
+]

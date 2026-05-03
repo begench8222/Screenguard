@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Ösümlik hüjresiniň haýsy bölegi hüjrä ýygy we gaty görnüş berýär?",
+        "options": ["Ýadro", "Hüjre membrany", "Hüjre diwary", "Mitohondriýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Hüjrewi dem alyş prosesi esasan nirede bolup geçýär we energiýa (ATP) öndürýär?",
+        "options": ["Hloroplast", "Ribozoom", "Ýadro", "Mitohondriýa"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 3,
+        "questionText": "Hüjrede zulal (protein) sintezini ýerine ýetirýän kiçijik organella haýsy?",
+        "options": ["Golji apparaty", "Lizosoma", "Ribozoom", "Endoplazmatiki tory"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Hüjreden kiçi molekulalaryň ýokary konsentrasiýadan pes konsentrasiýa passiw geçmegi näme diýilýär?",
+        "options": ["Fagositoz", "Osmos", "Diffuziýa", "Aktiw daşalyş"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "DNT we RNT-niň esasy gurluş bloklary näme?",
+        "options": ["Aminokislotalar", "Glýukoza", "Ýag kislotalary", "Nukleotidler"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 6,
+        "questionText": "Suwuň hüjre membranyndan geçmegi, ýagny suwuň pes ergin konsentrasiýasyndan ýokary konsentrasiýa tarap hereket etmegi näme?",
+        "options": ["Diffuziýa", "Osmos", "Endositoz", "Filtrasiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Hüjrewi energiýanyň (ATP) himiki formulasy haýsy elementleri öz içine alýar?",
+        "options": ["Diňe uglewodorod we kislorod", "Azot we wodorod", "Fosfat toparlary, adenin we riboza", "Diňe duzlar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Hüjrewi strukturalary gurmak we täze funksiýalary ýerine ýetirmek üçin ulanylýan organiki maddalar näme?",
+        "options": ["Uglewodorodlar", "Ýaglar (Lipidler)", "Zulallar (Proteinler)", "Suw"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Hüjrede genetiki maglumatlary saklaýan we hüjrewi prosesleri dolandyrýan esasy bölek näme?",
+        "options": ["Sitoplazma", "Hüjre membrany", "Ýadro", "Wakuol"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Aşakdakylaryň haýsy ökaryot hüjresine mahsus däl?",
+        "options": ["Mitohondriýa", "Ýadro", "Hloroplast", "Ýadrosyz genetiki material (Prokariotlarda bar)"],
+        "correctAnswerIndex": 3
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "1994-nji ýylda ABŞ, Kanada we Meksikanyň arasynda erkin söwda zolagyny döredip, Demirgazyk Amerikada hyzmatdaşlyga tarap üýtgeşmäni görkezen waka näme?",
+        "options": ["ÝB-niň döredilmegi", "NAFTA (Demirgazyk Amerika Erkin Söwda Ylalaşygy)", "WTO-nyň döredilmegi", "APEC sammiti"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "1990-njy ýyllardaky haýsy global gapma-garşylyk etniki arassalaşa sebäp boldy we Ýugoslawiýanyň dargamagyna getirdi?",
+        "options": ["Aýlag urşy", "Ruandanyň genosidi", "Ýugoslaw uruşlary (Balkan uruşlary)", "Kosowo gapma-garşylygy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "**Adam hukuklarynyň ähliumumy jarnamasy** 1948-nji ýylda haýsy halkara gurama tarapyndan kabul edildi?",
+        "options": ["NATO", "Halkara Kazyýet", "Birleşen Milletler Guramasynyň Baş Assambleýasy", "Ýewropa Parlamenti"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Esasan 20-nji we 21-nji asyrlara degişli bolan, etniki, jynsy ýa-da dini topary bilkastlaýyn we yzygiderli ýok etmekligi aňladýan düşünje näme?",
+        "options": ["Çozuş", "Terrorizm", "Holokost", "Genosid"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 5,
+        "questionText": "1997-nji ýylda global parnik gazlarynyň zyňyndylaryny azaltmak we klimat üýtgemegi bilen göreşmek maksady bilen gol çekilen halkara ylalaşyk näme?",
+        "options": ["Wersal şertnamasy", "Pariž ylalaşygy", "Kioto protokoly", "Monreal protokoly"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "1991-nji ýylda Sowet Soýuzynyň ýykylmagy näçe täze garaşsyz millet-döwletiniň döremegine sebäp boldy?",
+        "options": ["5", "10", "15", "20"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "**Global terrorizmiň** esasy halkara mesele hökmünde ýokary galmagy köplenç 2001-nji ýyldaky haýsy hüjümler bilen baglanyşykly?",
+        "options": ["Beýrut kazarmalarynyň partlamagy", "Oklahoma Siti partlamasy", "11/09 hüjümleri (ABŞ)", "Madrid otly partlamalary"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Döwlete degişli pudaklaryň hususylaşdyrylmagyny we hökümet düzgünleriniň azaldylmagyny (1980-nji ýyllardan bäri dowam edýän ýörelge) aňladýan ykdysady termin näme?",
+        "options": ["Sosializm", "Proteksionizm", "Neoliberalizm", "Kommunizm"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "**Arap ýazy** takmynan 2010-njy ýyldan başlap haýsy sebitdäki protestleriň we rewolýusiýalaryň tolkunyna degişli?",
+        "options": ["Gündogar Aziýa", "Sahara africalary", "Ýakyn Gündogar we Demirgazyk Afrika", "Gündogar Ýewropa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Global söwda kadalaryny we gepleşiklerini gözegçilik etmek we ýeňilleşdirmek üçin esasan haýsy gurama jogapkär?",
+        "options": ["IMF (Halkara Walýuta Fondu)", "Bütindünýä Banky", "BSG (Bütindünýä Saglygy Goraýyş Guramasy)", "BSG (Bütindünýä Söwda Guramasy)"],
+        "correctAnswerIndex": 3
+    }
+]

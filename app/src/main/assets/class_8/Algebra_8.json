@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Aňlatmany ýönekeýleşdiriň: $\\sqrt{49} - 3\\sqrt{4}$.",
+        "options": ["$13$", "$4$", "$1$", "$-5$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Kwadratik deňlemäniň umumy görnüşi nähili? ($a \\ne 0$)",
+        "options": ["$ax + b = 0$", "$a^2 x + bx + c = 0$", "$ax^2 + bx + c = 0$", "$x^3 + ax^2 + b = 0$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Haýsy san $\\sqrt{12}$ aňlatmanyň takmynan bahasy?",
+        "options": ["$3.1$", "$3.46$", "$4$", "$6$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Aňlatmany köpeldijilere dagyň: $x^2 - 9$.",
+        "options": ["$(x - 3)(x + 3)$", "$x(x - 9)$", "$(x - 3)^2$", "$(x + 3)^2$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Eger diskriminant $D < 0$ bolsa, $ax^2 + bx + c = 0$ kwadratik deňlemäniň hakyky kökleriniň sany näçe?",
+        "options": ["Iki sany", "Bir sany", "Nol", "Üç sany"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Aňlatmany ýönekeýleşdiriň: $(\\sqrt{5} + 2)(\\sqrt{5} - 2)$.",
+        "options": ["$1$", "$9$", "$5$", "$4$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Wiet teoremasyna görä, $x^2 - 5x + 6 = 0$ deňlemäniň kökleriniň jemi näçe?",
+        "options": ["$-5$", "$6$", "$5$", "$-6$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Aňlatmany hasaplaň: $(x + 4)^2$.",
+        "options": ["$x^2 + 16$", "$x^2 + 8x + 16$", "$x^2 + 4x + 16$", "$2x + 8$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Deňlemäni çözüň: $x^2 = 25$.",
+        "options": ["$x = 5$", "$x = \\pm 5$", "$x = -5$", "$x = 25$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Rasional drob aňlatmanyň nusgasy haýsy?",
+        "options": ["$x^2 + 2$", "$\\frac{x + 1}{x - 3}$", "$\\sqrt{x} + 5$", "$|x| - 4$"],
+        "correctAnswerIndex": 1
+    }
+]

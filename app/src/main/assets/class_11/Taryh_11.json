@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Üç materikde ýaýran, 14-nji asyrdan 1922-nji ýyla çenli dowam eden we Birinji Jahan urşundan soň dargan haýsy imperiýa?",
+        "options": ["Awstro-Wenger Imperiýasy", "Britan Imperiýasy", "Osman Imperiýasy", "Sefewi Imperiýasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "'Tebigy hukuklar' (ýaşaýyş, azatlyk we emläk) düşünjesi haýsy Aýdyňlanma filosofynyň syýasy filosofiýasynyň esasynda durýar?",
+        "options": ["Tomas Gobbs", "Jon Lokk", "Žan-Žak Russo", "Immanuil Kant"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "ABŞ-nyň öz hökmürowanlygyny giňeltmäge we Demirgazyk Amerika yklymynda demokratiýany we kapitalizmi ýaýratmaga niýetlenendigini aňladýan 19-njy asyrdaky ynam näme diýlip atlandyrylýar?",
+        "options": ["Monro doktrinasy", "Manifest Desteñli", "Izolýasiýaçylyk", "Dollar diplomatiýasy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Afýun uruşlary 19-njy asyryň ortalarynda Beýik Britaniýa bilen haýsy Aziýa milletiniň arasyndaky gapma-garşylykdy?",
+        "options": ["Hindistan", "Ýaponiýa", "Hytaý", "Koreýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "20-nji asyryň ortalaryndaky **Ýaşyl Rewolýusiýanyň** esasy sebäbi näme boldy?",
+        "options": ["Daşky gurşawy goramak kanunlary", "Täze suwaryş tehnikalary", "Ýokary hasylly ekin sortlarynyň we has gowy ekerançylyk usullarynyň döredilmegi", "Hökümet subsidiýalarynyň artmagy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Ikinji Jahan urşundan soň Günbatar Ýewropa ykdysadyýetlerini dikeltmek we kommunizmiň özüne çekijiligine garşy durmak maksady bilen döredilen ABŞ-nyň ykdysady kömek programmasy näme?",
+        "options": ["Trumen Doktrinasy", "Lend-Liz kanuny", "Marşall Plany", "Ösüş üçin Bileleşik"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Senagat Rewolýusiýasy döwründe gaty çaltlaşan, obalardan şäherlere adamlaryň göçmegi näme diýlip atlandyrylýar?",
+        "options": ["Emigrasiýa", "Şäher ýany sebitleriň döremegi", "Urbanizasiýa", "Gentriifikasiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Britan agalygyna garşy zorluksyz garşylyk (Satyagraha) ugruny wagyz eden Hindi garaşsyzlyk hereketiniň ýolbaşçysy kimdi?",
+        "options": ["Jawaharlal Neru", "Indira Gandi", "Mohandas Gandi", "Subhas Çandra Bose"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Sowuk uruş döwründäki **goşulmazlyk hereketi** esasan haýsy iki güýç blogunyň tarapyny tutmazlyk isleýän milletlerden ybaratdy?",
+        "options": ["ABŞ we Hytaý", "SSSR we Hytaý", "ABŞ we SSSR", "NATO we SEATO"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Esasan 1970-nji ýyllarda Sowuk uruş dartgynlylygynyň azalmagyny we diplomatik gatnaşyklaryň gowulanmagyny aňladýan termin näme?",
+        "options": ["Brinkmanship", "Saklama", "Détente", "Rollback"],
+        "correctAnswerIndex": 2
+    }
+]

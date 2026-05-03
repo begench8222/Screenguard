@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Eger iki üçburçlugyň degişli burçlary deň bolsa, olar nähili üçburçluklar?",
+        "options": ["Deň", "Meňzeş", "Perpendikulýar", "Göni burçly"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Radiusy $r$ bolan töweregiň uzynlygy (Çyzyk) nähili formula bilen hasaplanýar?",
+        "options": ["$\\pi r^2$", "$2\\pi r$", "$r^2$", "$\\frac{1}{2}\\pi r^2$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Tekizlikde koordinat ulgamynda bir nokadyň ýerleşýän ýerini kesgitleýän sanlar nähili atlandyrylýar?",
+        "options": ["Wektorlar", "Funksiýalar", "Koordinatlar ($x, y$)", "Massştab"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Töweregiň merkezinden töweregiň üstündäki islendik nokada çenli bolan aralyk näme diýilýär?",
+        "options": ["Diametr", "Korda", "Radius", "Töwerek uzynlygy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Eger iki üçburçlugyň meňzeşlik koeffisiýenti $k$ bolsa, olaryň meýdanlarynyň gatnaşygy näçe?",
+        "options": ["$k$", "$k^2$", "$2k$", "$1/k$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Töweregi iki nokadynda kesýän gönüçyzyk näme diýilýär?",
+        "options": ["Korda", "Sekant", "Tangent", "Diametr"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Koordinat tekizliginde iki nokadyň arasyndaky aralygy hasaplamak üçin haýsy teoremany ulanmaly?",
+        "options": ["Fales teoremasy", "Sinuslar teoremasy", "Pifagor teoremasy", "Kosinuslar teoremasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Radiusy $r$ bolan töweregiň meýdany (Area) nähili formula bilen hasaplanýar?",
+        "options": ["$2\\pi r$", "$\\pi r^2$", "$\\frac{1}{2}\\pi r$", "$r^2$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Töwerege degip geçýän we diňe bir nokatda kesişýän gönüçyzyk näme diýilýär?",
+        "options": ["Sekant", "Korda", "Tangent", "Median"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Koordinat başlangyjyndan (0, 0) A(x, y) nokadyna çenli aralyk nähili formula bilen hasaplanýar?",
+        "options": ["$\\sqrt{x^2 + y^2}$", "$x+y$", "$x^2+y^2$", "$|x-y|$"],
+        "correctAnswerIndex": 0
+    }
+]

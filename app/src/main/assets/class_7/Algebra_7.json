@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Hasaplaň: $(-5) + (-8) - 3$.",
+        "options": ["0", "-16", "-10", "6"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Rasional sanyň haýsy mysaly aşakda görkezilen?",
+        "options": ["$\\sqrt{2}$", "$\\pi$", "$1 / 3$", "Tebigy sanlar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Deňlemäni çözüň: $2(x - 3) = 10$.",
+        "options": ["$x = 8$", "$x = 5$", "$x = 13$", "$x = 2$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Birhili agzalary ýygnap aňlatmany ýönekeýleşdiriň: $5a + 3b - 2a - 5b$.",
+        "options": ["$3a + 8b$", "$7a + 2b$", "$3a - 2b$", "$7a - 8b$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Hasaplaň: $(-2)^3$.",
+        "options": ["$8$", "$-8$", "$-6$", "$6$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Aşakdakylaryň haýsy çyzykly funksiýanyň mysaly?",
+        "options": ["$y = x^2$", "$y = 5x - 3$", "$y = |x|$", "$y = \\sqrt{x}$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Deňlemäni çözüň: $\\frac{x}{4} = -3$.",
+        "options": ["$x = 12$", "$x = -12$", "$x = -7$", "$x = 1$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "San oky boýunça $-5$ we $2$ nokatlaryň arasyndaky uzaklyk näçe?",
+        "options": ["$-7$", "$3$", "$-3$", "$7$"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 9,
+        "questionText": "Eger $a = -2$ we $b = 4$ bolsa, $a^2 b$ aňlatmanyň bahasyny tapyň.",
+        "options": ["$-16$", "$16$", "$-8$", "$8$"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 10,
+        "questionText": "Haýsy aňlatma $x$ ähli hakyky sanlar üçin hakyky?",
+        "options": ["$x < x$", "$x^2 = x$", "$x \\cdot 0 = 0$", "$x / x = 1$"],
+        "correctAnswerIndex": 2
+    }
+]

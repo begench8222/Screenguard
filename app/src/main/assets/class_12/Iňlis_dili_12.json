@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "What is the literary device where an object or idea is given human qualities or abilities?",
+        "options": ["Metaphor", "Simile", "Personification", "Apostrophe"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Identify the correct usage of the **nominative absolute construction**:",
+        "options": ["The project finished, we took a break.", "Finishing the project, we took a break.", "We finished the project, taking a break."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "What is the term for a writer's characteristic way of expressing themselves, including tone and syntax?",
+        "options": ["Theme", "Plot", "Style/Voice", "Genre"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Which phrase correctly uses the **dangling participle**?",
+        "options": ["Running across the field, the ball was kicked by the player.", "Running across the field, the player kicked the ball.", "The player kicked the ball, running across the field."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "A **stream of consciousness** narrative technique is primarily characterized by _____.",
+        "options": ["A clear, objective narrator", "A series of sequential plot events", "An attempt to capture a character's unfiltered thoughts and feelings", "Dialogue and external description"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "The logical appeal in argumentation, using facts, statistics, and reason, is known as _____.",
+        "options": ["Ethos", "Pathos", "Logos", "Tone"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Which is the most appropriate **synonym** for 'disparate'?",
+        "options": ["Similar", "Identical", "Fundamentally different", "Close-knit"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "In grammar, a **restrictive clause** is one that _____.",
+        "options": ["Is set off by commas and is non-essential", "Is essential to the meaning of the sentence and is not set off by commas", "Starts with 'which'", "Acts as an adverb"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "What is the rhetorical device that involves asking a question purely for effect, with no answer expected?",
+        "options": ["Allusion", "Rhetorical question", "Irony", "Anaphora"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "What does the word **'turgid'** primarily mean in the context of writing style?",
+        "options": ["Clear and concise", "Overly complex, pompous, or inflated", "Humorous and light-hearted", "Deeply depressing"],
+        "correctAnswerIndex": 1
+    }
+]

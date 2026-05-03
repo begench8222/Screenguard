@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "9 * 7 = ?",
+        "options": ["54", "63", "72", "56"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "144 / 12 = ?",
+        "options": ["11", "12", "14", "16"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "1 metr näçe santimetre deň?",
+        "options": ["10", "100", "1000", "1"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Göni burç näçe derejä deň?",
+        "options": ["$45^circ$", "$90^circ$", "$180^circ$", "$360^circ$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Eger bir san $x$ bolsa, ony 4 gezek köpeldip, 10 goşsak nähili aňladylyp bilner?",
+        "options": ["$x+4+10$", "$4x+10$", "$10x+4$", "$x(4+10)$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "1 ýylda näçe aý bar?",
+        "options": ["10", "11", "12", "13"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "500 + 300 - 200 = ?",
+        "options": ["400", "600", "700", "800"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Iki sanyň goşulyşygy 15. Eger bir san 7 bolsa, beýleki san näçe?",
+        "options": ["5", "8", "10", "9"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy fraksiýa birden (1) kiçi?",
+        "options": ["$5/5$", "$6/5$", "$4/5$", "$10/9$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Bir gönüburçlugyň taraplary $a=5$ we $b=3$ bolsa, onuň perimetri näçe?",
+        "options": ["$8$", "$15$", "$16$", "$13$"],
+        "correctAnswerIndex": 2
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Which of the following is a **noun**?",
+        "options": ["Run", "Quickly", "House", "Happy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "What is the **plural** form of the word 'child'?",
+        "options": ["Childs", "Childrens", "Children", "Chilren"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Fill in the blank: 'She _____ to the store yesterday.'",
+        "options": ["Go", "Goes", "Went", "Going"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Which word is an **adjective** in the sentence: 'The red ball bounced high.'?",
+        "options": ["Ball", "Bounced", "Red", "High"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "What is the correct **contraction** for 'we are'?",
+        "options": ["Were", "We're", "Weare", "We is"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Which sentence uses the correct **punctuation**?",
+        "options": ["I like apples, and oranges", "I like apples and oranges.", "I like apples, and oranges."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "What is the **antonym** (opposite) of 'fast'?",
+        "options": ["Quick", "Slow", "Rapid", "Speedy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Which word means 'a large, domesticated cat'?",
+        "options": ["Kitten", "Dog", "Lion", "Cat"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Complete the phrase: 'As hungry as a ______.'",
+        "options": ["Mouse", "Lamb", "Lion", "Bear"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "The word 'book' is an example of a _____ noun.",
+        "options": ["Abstract", "Proper", "Common", "Collective"],
+        "correctAnswerIndex": 2
+    }
+]

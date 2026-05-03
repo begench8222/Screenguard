@@ -1,0 +1,27 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_apps">
+
+
+
+    <fragment
+        android:id="@+id/navigation_statistics"
+        android:name="com.annaorazov.screenguard.ui.statistics.StatisticsFragment"
+        android:label="Statistika"
+        tools:layout="@layout/fragment_statistics" />
+    <fragment
+        android:id="@+id/navigation_apps"
+        android:name="com.annaorazov.screenguard.ui.apps.AppsFragment"
+        android:label="Programmalar"
+        tools:layout="@layout/fragment_apps" />
+
+
+
+    <fragment
+        android:id="@+id/navigation_blocked_apps"
+        android:name="com.annaorazov.screenguard.ui.blockedapps.BlockedAppsFragment"
+        android:label="Gulplanan Programmalar"
+        tools:layout="@layout/fragment_blockedapps" />
+</navigation>

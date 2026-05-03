@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Atomyň ýadrosy haýsy bölejiklerden ybarat?",
+        "options": ["Elektronlar we neýtronlar", "Protonlar we elektronlar", "Protonlar we neýtronlar", "Diňe elektronlar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Periodik tablisa laýyklykda, elementleriň reýting (tertip) nomeri nämäni aňladýar?",
+        "options": ["Neýtronlaryň sanyny", "Protonlaryň sanyny", "Atom massasyny", "Elektron gatlaklarynyň sanyny"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Atomlaryň arasynda elektronlary paýlaşmagy netijesinde döreýän baglanyşyk nähili atlandyrylýar?",
+        "options": ["Iýon baglanyşygy", "Metallik baglanyşyk", "Kowalent baglanyşyk", "Wodorod baglanyşygy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Bir element atomlarynyň başga bir element atomlaryna geçmegi netijesinde döreýän baglanyşyk nähili atlandyrylýar?",
+        "options": ["Kowalent", "Iýon", "Metallik", "Donor-akseptor"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Atomda zaryady nul bolan bölejik haýsy?",
+        "options": ["Proton", "Elektron", "Neýtron", "Iýon"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Elementiň izotoplary näme bilen tapawutlanýar?",
+        "options": ["Protonlaryň sany", "Elektronlaryň sany", "Neýtronlaryň sany", "Ýadronyň zaryady"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Periodik tablisa ilkinji element haýsy?",
+        "options": ["Kislorod", "Uglewodorod", "Geliy", "Wodorod"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 8,
+        "questionText": "NaCl birleşmesindäki baglanyşygyň görnüşi nähili?",
+        "options": ["Kowalent", "Metallik", "Iýon", "Wodorod"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Atomda položitel zaryady göterýän bölejik haýsy?",
+        "options": ["Neýtron", "Elektron", "Proton", "Fotton"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Periodik tablisa laýyklykda, elementleriň bir toparynda (sütüninde) nähili häsiýet saklanýar?",
+        "options": ["Elektron gatlaklarynyň sany", "Walent elektronlarynyň sany", "Atom massasy", "Atom radiusy"],
+        "correctAnswerIndex": 1
+    }
+]

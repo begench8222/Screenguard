@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "questionText": "Türkmen halkynyň iň meşhur 'destany' (eposy) haýsy?",
+    "options": ["Leýli-Mejnun", "Gorkut ata", "Şasenem-Garyp", "Oguznama"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 2,
+    "questionText": "Türkmen halkynyň milli akyldary, şahyry kim?",
+    "options": ["Döwletmämmet Azady", "Mollanepes", "Magtymguly Pyragy", "Seýdi"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 3,
+    "questionText": "Magtymguly Pyragy haýsy 'dini' eserleri bilen meşhur?",
+    "options": ["Goşgular", "Dessanlar", "Romanlar", "Pygamberiň (S.A.W) ömrü"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 4,
+    "questionText": "Türkmen edebiýatynda 'Dessan' näme diýmek?",
+    "options": ["Gysga hekaýa", "Dört setirlik goşgy", "Uzyn liriki-epik eser", "Taryhy resminama"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "questionText": "'Şasenem-Garyp' dessanynyň baş gahrymanynyň ady näme?",
+    "options": ["Kör Ogly", "Garyp", "Mejnun", "Tahyr"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 6,
+    "questionText": "Oguznama (Oguz hanyň dessany) esasan näme barada gürrüň berýär?",
+    "options": ["Oguz hanlaryň uruşlary", "Türkmen halkynyň gelip çykyşy we taryhy", "Söýgi hekaýalary", "Dini dogmalar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 7,
+    "questionText": "Goşgynyň iň kiçi gurluşy bolan we köplenç 4 setirden ybarat bölegine näme diýilýär?",
+    "options": ["Dessan", "Bendi", "Köp bent", "Setir"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "questionText": "Molla Nepes haýsy eseri bilen meşhur?",
+    "options": ["Oguznama", "Gül-Bilbil", "Zöhre-Tahyr", "Leýli-Mejnun"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 9,
+    "questionText": "'Kitaby Dädem Gorkudyň' esasy temasy näme?",
+    "options": ["Adamyň ýeke-täk durmuşy", "Oguzlaryň arasyndaky gahrymançylykly wakalar we halk däpleri", "Syýasy göreşler", "Ylmy açyşlar"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 10,
+    "questionText": "Bir hekaýanyň ýa-da eseriň esasy düşünjesi ýa-da ideýasy näme diýilýär?",
+    "options": ["Söz düzümi", "Tema", "Harplyk", "Sypat"],
+    "correctAnswerIndex": 1
+  }
+]

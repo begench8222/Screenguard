@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Kompýuterde maglumatlaryň iň kiçi birligi näme?",
+        "options": ["Být (Byte)", "Bit (Bit)", "Kilobit (Kilobit)", "Megabaýt (Megabyte)"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Kompýuteriň esasy 'beýnisi' we ähli hasaplamalary ýerine ýetirýän bölegi näme?",
+        "options": ["RAM", "Prosesor (CPU)", "Monitor", "Klawiatura"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Faýlyň adyndan soň gelýän, onuň görnüşini kesgitleýän gysga belgi näme?",
+        "options": ["Katalog", "Papka", "Ýazgy (Format)", "Giňeltme (Extension)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Web sahypalaryny görkezmek üçin ulanylýan programma näme?",
+        "options": ["Prosesor", "Brauzer", "Antiwirus", "Operasion ulgam"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "1 Kilobaýt (KB) näçe Baýta (Byte) deň?",
+        "options": ["1000", "1024", "1048", "2048"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Tekst, surat, ses we wideo maglumatlarynyň hemmesini öz içine alýan maglumat näme diýilýär?",
+        "options": ["Multimediýa", "Algoritm", "Kod", "Interfeýs"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Maglumatlary kompýutere girizmek üçin ulanylýan esasy enjam näme?",
+        "options": ["Printer", "Monitor", "Klawiatura", "Kolonka"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Kompýuterde ýerine ýetirilmeli amallaryň yzygiderli tertibi näme?",
+        "options": ["Proses", "Dizaýn", "Algoritm", "Programma dili"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Kompýuterde maglumatlary wagtlaýyn saklamak üçin ulanylýan ýat (memory) görnüşi näme?",
+        "options": ["ROM", "RAM", "Gaty disk (HDD)", "Flash-karta"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Kompýuteri dolandyrmak we programmalaryň işlemegini üpjün etmek üçin esasy programma näme?",
+        "options": ["Antiwirus", "Oýun", "Operasion ulgam", "Tekst redaktory"],
+        "correctAnswerIndex": 2
+    }
+]

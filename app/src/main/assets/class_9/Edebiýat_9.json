@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Beýik Watançylyk urşy temasynda döreden, 'Kämillik ýaşy' poemasynyň awtory kim?",
+        "options": ["Gara Seýitliýew", "Ata Salyh", "Kerim Gurbannepesow", "Aman Kekilow"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Kerim Gurbannepesow köplenç haýsy temalary çuňňur lirik-filosofiki esasda işledi?",
+        "options": ["Taryhy wakalar", "Söýgi, adam ykbaly we pelsepewi oýlanmalar", "Syýasy we ideologiki temalar", "Harby gahrymançylyk"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Aman Kekilowyň 'Söýgi' romanynda esasy nygtalýan düşünje näme?",
+        "options": ["Tebigata bolan söýgi", "Ýoldaşlyk söýgüsi", "Durmuşyň kynçylyklaryna garamazdan ynsanperwer we päk söýgi", "Watana söýgi"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Edebiýatda eseriň dili, gurluşy, ritmi we ulanylýan sözleri nähili atlandyrylýar?",
+        "options": ["Tema", "Ideýa", "Çeperçilik usuly", "Stil we Dil"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 5,
+        "questionText": "Haýsy türkmen ýazyjysy 'Gyzyl guş' romanynda yzarlanmalary we syýasy kynçylyklary beýan edipdir?",
+        "options": ["Taşan Esenowa", "Beki Seýtäkow", "Mämmet Seýidow", "Nobatguly Rejebow"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Gurbannazar Ezizowyň döredijiliginiň esasy aýratynlygy näme?",
+        "options": ["Satiriki proza", "Romantiki dessanlar", "Çuňňur we inçeden duýguly lirik goşgular", "Taryhy pýesalar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Türkmen edebiýatynda 'altyn asyr' diýlip atlandyrylan döwür haýsy?",
+        "options": ["XVIII asyr (Magtymguly döwri)", "XX asyryň başy", "1930-njy ýyllar", "Häzirki wagt"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Hekaýa, powest ýa-da romanyň esasy gahrymany näme diýilýär?",
+        "options": ["Antagonist", "Protagonist (Baş gahryman)", "Epizodik gahryman", "Narrator"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy türkmen şahyrynyň 'Sowgat' atly eserinde tebigatyň we adam ruhunyň gözelligi beýan edilýär?",
+        "options": ["Kerim Gurbannepesow", "Gurbannazar Ezizow", "Ata Atajanow", "Gara Seýitliýew"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Edebiýatda, wakalaryň yzygiderliligini, ösüşini we ahyryny görkezýän gurluşy näme?",
+        "options": ["Kompozisiýa", "Ritm", "Strofa", "Kapma"],
+        "correctAnswerIndex": 0
+    }
+]

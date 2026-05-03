@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Haýsy funksiýanyň esasy döwri (period) $2\\pi$?",
+        "options": ["$y = \\tan x$", "$y = \\sin x$", "$y = \\cot x$", "$y = x^2$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Hasaplaň: $\\sin(30^\\circ)$.",
+        "options": ["$\\frac{1}{2}$", "$\\frac{\\sqrt{3}}{2}$", "$1$", "$\\frac{\\sqrt{2}}{2}$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Logarifmiň esasy kesgitlemesi nähili: $\\log_a b = c$?",
+        "options": ["$a^b = c$", "$b^a = c$", "$a^c = b$", "$c^a = b$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Trigonometrik deňlemäni çözüň: $2 \\cos x = 1$.",
+        "options": ["$x = \\pm \\frac{\\pi}{3} + 2\\pi n$", "$x = \\frac{\\pi}{6} + 2\\pi n$", "$x = \\pm \\frac{\\pi}{6} + \\pi n$", "$x = \\frac{\\pi}{3} + 2\\pi n$"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Funksiýanyň $y = x^3 - 1$ ters funksiýasy näme?",
+        "options": ["$y = 3\\sqrt{x + 1}$", "$y = \\sqrt[3]{x} + 1$", "$y = \\sqrt[3]{x - 1}$", "$y = \\sqrt[3]{x} + 1$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Aşakdakylaryň haýsy jübüt funksiýa?",
+        "options": ["$f(x) = x^3$", "$f(x) = \\sin x$", "$f(x) = \\cos x$", "$f(x) = x$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Üçburçlugyň meýdanyny sinus arkaly hasaplamak formulasy näme?",
+        "options": ["$S = a b c$", "$S = \\frac{1}{2} a b \\sin \\gamma$", "$S = \\frac{1}{2} b h$", "$S = \\sqrt{p(p-a)(p-b)(p-c)}$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Hasaplaň: $\\log_2 8$.",
+        "options": ["$2$", "$4$", "$3$", "$16$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Funksiýanyň grafigini $y = x^2$-den $y = (x - 2)^2 + 3$ görnüşine öwürmek üçin haýsy hereketler edilmeli?",
+        "options": ["2 birlik aşak, 3 birlik çepe", "2 birlik saga, 3 birlik ýokary", "2 birlik çepe, 3 birlik aşak", "2 birlik saga, 3 birlik aşak"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Eger $\\cos \\alpha = \\frac{3}{5}$ we $\\alpha$ birinji çärýekde bolsa, $\\sin \\alpha$-nyň bahasy näme?",
+        "options": ["$\\frac{4}{5}$", "$-\\frac{4}{5}$", "$\\frac{5}{3}$", "$1$"],
+        "correctAnswerIndex": 0
+    }
+]

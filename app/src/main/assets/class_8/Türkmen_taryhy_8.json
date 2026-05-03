@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Türkmen topragyndaky gadymy ekerançylyk siwilizasiýalarynyň biri bolan 'Jeytun' medeniýeti haýsy döwre degişli?",
+        "options": ["Paleolit", "Neolit", "Eneolit", "Bürünç asyry"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Gadymy türkmen topragynda ilkinji döwletleriň biri bolan 'Marguş' (Margiana) döwletiniň paýtagty haýsy?",
+        "options": ["Altyndepe", "Nisa", "Goňurdepe", "Merw"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Bürünç asyrynda gadymy Dehistan (Misriýan) ýerleşen, ady bilen meşhur bolan medeniýet haýsy?",
+        "options": ["Jeytun medeniýeti", "Horezm medeniýeti", "Parfiýa şalygy", "Namazgadepe medeniýeti"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Aşakdakylaryň haýsy 'Ýüpek ýolunyň' möhüm nokady bolupdyr we taryhy medeniýet merkezi hasaplanýar?",
+        "options": ["Aşgabat", "Köneürgenç", "Balkanabat", "Daşoguz"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Miladydan öňki III asyrda dörän we Köpetdagyň eteklerinde (häzirki Nisa) merkezleşen Beýik türkmen döwleti haýsy?",
+        "options": ["Ahemeniler", "Sewlewkiler", "Parfiýa şalygy", "Grek-Baktriýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Parfiýa şalygynyň paýtagty bolan we ÝUNESKO-nyň miras sanawyna girizilen taryhy ýer näme?",
+        "options": ["Soltan Gala", "Köneürgenç", "Köne Nisa", "Dehistan"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Ilki türkmen döwletleriniň biri bolan Seljuklaryň yslam dinini kabul etmezden öňki esasy dini näme?",
+        "options": ["Buddaçylyk", "Hristiançylyk", "Zoroastrizm (Ateşparazlyk)", "Şamanizm (Kökleriň ybadaty)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 8,
+        "questionText": "Orta asyrlarda yslam dünýäsiniň iň uly ylym we medeniýet merkezleriniň biri bolan şäher haýsy?",
+        "options": ["Amyderýa", "Mary (Gadymy Merw)", "Sarahs", "Hazar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Türkmen taryhynda 'Altyn asyr' diýlip atlandyrylan döwür haýsy döwletiň hökümdarlygy astyna degişli?",
+        "options": ["Grek-Baktriýa", "Ahemeniler", "Seljuklar (Uly Seljuk)", "Rus imperiýasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Gadymy Marguş döwletini açan rus arheology kim?",
+        "options": ["W.W. Bartold", "W.A. Warganyn", "W.M. Masson", "W.I. Sarianidi"],
+        "correctAnswerIndex": 3
+    }
+]

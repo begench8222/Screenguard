@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Birleşen Milletler Guramasynyň (BMG) 2030-njy ýyla çenli kabul eden esasy maksady näme?",
+        "options": ["Ilatyň köpelmegi", "Harby güýji ýokarlandyrmak", "Durnukly ösüş maksatlary (SDGs)", "Diňe garyplyk bilen göreşmek"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Geosyýasat nämäni öwrenýär?",
+        "options": ["Ýeriň tebigy serişdeleriniň dolandyrylyşyny", "Döwletleriň arasyndaky syýasy gatnaşyklaryň geografiki faktorlar bilen baglanyşygyny", "Klimatyň üýtgemeginiň ykdysadyýete täsirini", "Ilatyň medeni aýratynlyklaryny"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Halkara söwdada we ykdysadyýetde esasy agalyk edýän 'Uly Ýedi' (G7) döwletleriň esasy häsiýeti näme?",
+        "options": ["Iň uly ilat", "Iň uly meýdan", "Iň ösen we ykdysady taýdan iň kuwwatly döwletler", "Iň uly nebit rezervleri"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Durnukly ösüş nämäni aňladýar?",
+        "options": ["Diňe ykdysady ösüş", "Häzirki nesliň zerurlyklaryny geljekki nesilleriň zerurlyklaryna zyýan bermezden kanagatlandyrmak", "Diňe tebigaty goramak", "Diňe sosial deňlik"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Haýsy halkara gurama global parahatçylygy we howpsuzlygy saklamakda esasy rol oýnaýar?",
+        "options": ["OPEK", "Ýewropa Bileleşigi", "Birleşen Milletler Guramasy (BMG)", "G20"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Ilatyň çalt şäherleşmegi (urbanizasiýa) netijesinde dörän esasy sosial-ekologiki problemalar näme?",
+        "options": ["Ekerançylygyň ösmegi", "Iş ýerleriniň köpelmegi", "Tebigat serişdeleriniň çalt ulanylmagy we hapalanmagy", "Syýasy durnuklylyk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Dünýäde iň uly we iň çalt ösýän ykdysady zolak haýsy?",
+        "options": ["Ýewropa", "Demirgazyk Amerika", "Gündogar we Günorta Aziýa", "Afrika"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Haýsy ykdysady düşünje ýurtlaryň arasyndaky söwdanyň çäklendirilmezligini, ýagny gümrük tölegleriniň we kwotalaryň bolmazlygyny aňladýar?",
+        "options": ["Proteksionizm", "Izolýasiýa", "Erkin söwda", "Subsidizasiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy faktor 'Geografik giňişlikde' döwletleriň arasyndaky syýasy dartgynlyklara we gapma-garşylyklara sebäp bolýar?",
+        "options": ["Azyk bolçulygy", "Klimatyň durnuklylygy", "Tebigy serişdeler (suw, nebit) ugrundaky göreş we araçäk dawalary", "Medeni meňzeşlik"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Ýer ýüzüniň iň uly tebigy zolagy bolan Amazonkanyň tokaýlary haýsy geografik roly ýerine ýetirýär?",
+        "options": ["Iň uly çöller", "Global 'Ýer ýüzi öýkeni' (kislorod öndüriji)", "Iň uly buzluklar", "Iň uly nebit çykarylan sebit"],
+        "correctAnswerIndex": 1
+    }
+]

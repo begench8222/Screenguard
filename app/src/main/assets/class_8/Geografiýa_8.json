@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Türkmenistanyň iň uly çölüň ady näme?",
+        "options": ["Gobi", "Atakama", "Garagum", "Sahara"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Türkmenistanyň paýtagty haýsy şäher?",
+        "options": ["Türkmenbaşy", "Mary", "Aşgabat", "Daşoguz"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Türkmenistan haýsy deňiz bilen araçäkleşýär?",
+        "options": ["Gara deňiz", "Gyzyl deňiz", "Aral deňzi", "Kaspi deňzi"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Türkmenistanyň iň beýik nokady haýsy dag zynjyrynda ýerleşýär?",
+        "options": ["Köpetdag", "Ural daglary", "Gindukush", "Pamir"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Türkmenistanda iň uly suw obýekti bolan emeli döredilen suw howdany näme?",
+        "options": ["Sarygamyş köli", "Zeýit suw howdany", "Garagum kanaly", "Türkmen köli"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Türkmenistanyň esasy suw arteryasy bolan, ýurduň gündogaryndan akýan derýa haýsy?",
+        "options": ["Amu Derýa", "Murgap", "Tejen", "Atrek"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Türkmenistanyň ykdysadyýetinde iň möhüm çig mal näme?",
+        "options": ["Demir", "Altyn", "Nebit we gaz", "Kömür"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Türkmenistan haýsy döwletler bilen demirgazyk-gündogar tarapdan araçäkleşýär?",
+        "options": ["Eýran we Owganystan", "Özbegistan we Gazagystan", "Azerbaýjan we Russiýa", "Türkiýe we Täjigistan"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Türkmenistanyň yssy we gurak klimaty esasan haýsy sebäp bilen düşündirilýär?",
+        "options": ["Okean akymlarynyň täsiri", "Materik içerisinde ýerleşmegi (kontinentallyk)", "Uly dag zynjyrlarynyň golaýlygy", "Polýuslara golaýlyk"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Türkmenistanyň meşhur gözel ýerlerinden biri bolan Garagum çölündäki 'Döwzah derwezesi' (Gaz krateri) haýsy şähere golaý ýerleşýär?",
+        "options": ["Balkanabat", "Daşoguz", "Derweze", "Mary"],
+        "correctAnswerIndex": 2
+    }
+]

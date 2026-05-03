@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "1-den 10-a çenli sanlar näme diýilýär?",
+        "options": ["Kesirler", "Natural sanlar", "Negatiw sanlar", "Onluk sanlar"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "5 + 3 = ?",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "10-dan 4-i aýyrsaň näçe galýar?",
+        "options": ["5", "6", "7", "4"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Haýsy san 8-den uly?",
+        "options": ["7", "6", "9", "8"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Geometrik şekil bolan we ähli tarapy deň bolan şekil (synpy dereje) haýsy?",
+        "options": ["Gönüburçluk", "Töwerek", "Kwadrat", "Üçburçluk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Eger 2 almaňyz we 5 almaňyz bar bolsa, jemi näçe almaňyz bar?",
+        "options": ["6", "7", "8", "10"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "San çyzygynda 0-dan soň gelýän san haýsy?",
+        "options": ["$-1$", "$0$", "$1$", "$2$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "1 onluk näçe birlige deň?",
+        "options": ["1", "5", "10", "100"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "6 sanynyň yzyndan gelýän san haýsy?",
+        "options": ["5", "7", "8", "6"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Gönüçyzygyň bölegine näme diýilýär?",
+        "options": ["Nokat", "Töwerek", "Kesim", "Şöhle"],
+        "correctAnswerIndex": 2
+    }
+]

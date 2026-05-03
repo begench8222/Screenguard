@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Renessansyň esasynda durýan, adam potensialyny we üstünliklerini nygtaýan filosofiýa näme diýilýär?",
+        "options": ["Skolastika", "Gumanizm", "Stoizm", "Ekzistensializm"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Irki Ýewropa kolonial imperiýalaryna mahsus bolan we baýlygy toplamak we eksporty maksimal derejede ýokarlandyrmaga gönükdirilen esasy ykdysady ulgam näme?",
+        "options": ["Kapitalizm", "Merkantilizm", "Feodalizm", "Kommunizm"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Tsar häkimiýetiniň ýykylmagy we Bolşewikler tarapyndan dolandyrylýan kommunistik hökümetiň döremegi haýsy rewolýusiýa döwründe boldy?",
+        "options": ["Fransuz Rewolýusiýasy", "Hytaý Rewolýusiýasy", "Rus Rewolýusiýasy (1917)", "Kuba Rewolýusiýasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Benito Mussolini we Adolf Gitler ýaly şahsyýetler tarapyndan ýolbaşçylyk edilen we aşa nasionilizmi, militarizmi we awtoritarizmi nygtaýan syýasy hereket näme?",
+        "options": ["Liberalizm", "Faşizm", "Sosializm", "Anarhizm"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Ikinji Jahan urşundan soň halkara hyzmatdaşlygy ösdürmek we geljekdäki gapma-garşylyklaryň öňüni almak üçin döredilen global gurama näme?",
+        "options": ["Milletler Ligasynyň", "NATO", "Ýewropa Bileleşigi", "Birleşen Milletler Guramasy"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 6,
+        "questionText": "Haýsy ýurtda 1990-njy ýyllaryň başyna çenli *aparteid* (gaty jynsy segregasiýa) syýasaty durmuşa geçirilipdi?",
+        "options": ["Hindistan", "Günorta Afrika", "Braziliýa", "Awstraliýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "1962-nji ýyldaky haýsy Sowuk uruş wakasy ABŞ-ny we Sowet Soýuzyny ýadro urşuna iň ýakyn getirdi?",
+        "options": ["Berlin howa köprüsi", "Wýetnam urşy", "Kuba Raketa krizisi", "Koreýa urşy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Ähli dünýä boýunça ykdysady we syýasy gatnaşyklaryň artmagy we özara baglanyşygy prosesi näme diýlip atlandyrylýar?",
+        "options": ["Nasionilizm", "Regionalizm", "Globalizasiýa", "Modernizasiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "20-nji asyryň ahyrynda aragatnaşygy we maglumatlara elýeterliligi ähli dünýäde düýpgöter üýtgeden tehnologiki täzelik näme?",
+        "options": ["Telewideniýe", "Sputnik telefon", "Internet", "Faks enjamy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Sowet Soýuzynyň ýykylmagy we öňki kommunistik döwletleriň bazar ykdysadyýetine geçmegi 1980-nji ýyllaryň ahyrynda we 1990-njy ýyllaryň başynda haýsy sebitde boldy?",
+        "options": ["Gündogar Aziýa", "Latyn Amerikasy", "Gündogar Ýewropa", "Ýakyn Gündogar"],
+        "correctAnswerIndex": 2
+    }
+]

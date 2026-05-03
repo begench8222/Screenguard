@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Maddanyň kiçijik, bölünmeýän bölejigi näme diýilýär?",
+        "options": ["Atom", "Molekula", "Ýadro", "Proton"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Birligini himiki ýollar bilen has kiçi böleklere bölüp bolmaýan madda näme diýilýär?",
+        "options": ["Gatyşyk", "Molekula", "Element", "Birleşme"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Suwuň (H₂O) himiki formulasy haýsy elementlerden ybarat?",
+        "options": ["Kükürt we Kislorod", "Uglewodorod we Kislorod", "Wodorod we Kislorod", "Azot we Wodorod"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Maddanyň gaz, suwuklyk we gaty ýagdaýlarynyň üýtgemegi haýsy üýtgeşme?",
+        "options": ["Himiki üýtgeşme", "Ýadro üýtgeşmesi", "Fiziki üýtgeşme", "Elementary üýtgeşme"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Demir (Fe) nähili madda mysaldyr?",
+        "options": ["Organiki birleşme", "Gazyň gatyşygy", "Element", "Kompound"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Himiki reaksiýa wagtynda maddanyň häsiýetleri üýtgeýär. Bu haýsy üýtgeşmä degişli?",
+        "options": ["Fiziki", "Termiki", "Himiki", "Mehaniki"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Dünýäde iň ýeňil element haýsy?",
+        "options": ["Kislorod", "Geliy", "Wodorod", "Azot"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Duzuň suwda eremegi haýsy üýtgeşmä mysal bolup biler?",
+        "options": ["Himiki birleşme", "Fiziki ýaýrama", "Hlorlanma", "Dargama"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Himiýada $O$ simwoly haýsy elementi aňladýar?",
+        "options": ["Alýuminiý", "Altyn", "Kislorod", "Kükürt"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Maddanyň belli bir temperaturada suwuklykdan gaza öwrülmegi näme diýilýär?",
+        "options": ["Erýän", "Doňýan", "Bugarmak (Gaýnama)", "Sublimasiýa"],
+        "correctAnswerIndex": 2
+    }
+]

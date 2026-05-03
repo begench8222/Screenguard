@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "questionText": "Kwadrat deňleme nähili çözülýär?",
+        "options": [
+            "Diskriminant ulanylmaz",
+            "Diskriminant formulasy boýunça",
+            "Köpleriň kömegi bilen",
+            "Töweregiň kömegi bilen"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "x² - 5x + 6 = 0",
+        "options": [
+            "x = 2, x = 3",
+            "x = 1, x = 6",
+            "x = -2, x = -3",
+            "x = 0.5, x = 4"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Logarifmik funksiýa nähili görkezilýär?",
+        "options": [
+            "y = x²",
+            "y = sin(x)",
+            "y = logₐx",
+            "y = aˣ"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "2ⁿ = 16 bolsa, n näçe?",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "5"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Matrisalaryň köpeltmek amaly nähili ýerine ýetirilýär?",
+        "options": [
+            "Element-element goşulýar",
+            "Setirler sütünlar bilen köpeldilýär",
+            "Diagonallar jemlenýär",
+            "Determinant alnýar"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "y = 3x + 2 funksiýasynyň grafigi nähili çyzyldy?",
+        "options": [
+            "Parabola",
+            "Göni çyzyk",
+            "Giperbola",
+            "Sinusoida"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Arifmetik progressiýanyň formulasy näme?",
+        "options": [
+            "aₙ = a₁ + (n-1)d",
+            "aₙ = a₁ * r^(n-1)",
+            "aₙ = n²",
+            "aₙ = a₁ + n"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "|x - 3| < 5 deňsizligiň çözgüdini tapyň.",
+        "options": [
+            "-2 < x < 8",
+            "x < -2 ýa-da x > 8",
+            "x = 3",
+            "Hiç haysy"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Funksiýanyň peseliş nokadyny tapmak üçin näme etmeli?",
+        "options": [
+            "Birinsji goşmaça tapmaly",
+            "Ikkinji goşmaça tapmaly",
+            "Funksiýany integrallemeli",
+            "Funksiýany differensirlemeli"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Integral hasaplamak näme üçin gerek?",
+        "options": [
+            "Funksiýanyň bahasyny tapmak üçin",
+            "Meýdany hasaplamak üçin",
+            "Deňlemäni çözmek üçin",
+            "Matrisany köpeltmek üçin"
+        ],
+        "correctAnswerIndex": 1
+    }
+]

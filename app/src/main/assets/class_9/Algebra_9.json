@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Arifmetiki progressiýanyň ilkinji agzasy $a_1 = 3$ we tapawudy $d = 2$ bolsa, bäşinji agzasyny ($a_5$) tapyň.",
+        "options": ["$9$", "$11$", "$13$", "$10$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Deňsizligi çözüň: $2x - 5 > 3$.",
+        "options": ["$x < 4$", "$x > 4$", "$x > -1$", "$x < -1$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Geometrik progressiýanyň ilkinji agzasy $b_1 = 2$ we maýdasy $q = 3$ bolsa, üçünji agzasyny ($b_3$) tapyň.",
+        "options": ["$6$", "$12$", "$18$", "$27$"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Kwadratik deňsizligi çözüň: $x^2 - 4 < 0$.",
+        "options": ["$x < -2$ ýa-da $x > 2$", "$-2 < x < 2$", "$x < 4$", "$x > 4$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Arifmetiki progressiýanyň $n$-nji agzasynyň formulasy näme?",
+        "options": ["$a_n = a_1 + n d$", "$a_n = a_1 + (n - 1) d$", "$a_n = n / 2 \\cdot (a_1 + a_n)$", "$a_n = a_1 d^{n-1}$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Modully deňsizligi çözüň: $|x| \\le 5$.",
+        "options": ["$x \\le 5$", "$x \\ge -5$", "$-5 \\le x \\le 5$", "$x \\le -5$ ýa-da $x \\ge 5$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Haýsy progressiýa ýokary derejeli artma bilen häsiýetlendirilýär?",
+        "options": ["Çyzykly progressiýa", "Arifmetiki progressiýa", "Geometrik progressiýa", "Hemişelik progressiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Deňlemeler ulgamynyň grafigi nähili bolýar?",
+        "options": ["Kwadrata", "Egri çyzyk", "Kesişen çyzyklar", "Giperbola"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Islendik progressiýa üçin kökleriň tapawudy (differential) näme diýilýär?",
+        "options": ["Hemişelik", "Diferensial", "Progressiýanyň tapawudy", "Maýdasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Arifmetiki progressiýanyň 3-nji agzasy 7, 5-nji agzasy 11 bolsa, tapawudy ($d$) näçe?",
+        "options": ["$d = 2$", "$d = 3$", "$d = 4$", "$d = 1$"],
+        "correctAnswerIndex": 0
+    }
+]

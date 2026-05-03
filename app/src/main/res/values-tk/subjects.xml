@@ -1,0 +1,129 @@
+<resources>
+    <!-- Grade 1 subjects -->
+    <string-array name="class_1_subjects">
+        <item>math|Matematika</item>
+        <item>english|Iňlis Dili</item>
+    </string-array>
+
+    <!-- Grade 2 subjects -->
+    <string-array name="class_2_subjects">
+        <item>math|Matematika</item>
+        <item>english|Iňlis Dili</item>
+    </string-array>
+
+    <!-- Grade 3 subjects -->
+    <string-array name="class_3_subjects">
+        <item>math|Matematika</item>
+        <item>english|Iňlis Dili</item>
+    </string-array>
+
+    <!-- Grade 4 subjects -->
+    <string-array name="class_4_subjects">
+        <item>math|Matematika</item>
+        <item>english|Iňlis Dili</item>
+    </string-array>
+
+    <!-- Grade 5 subjects -->
+    <string-array name="class_5_subjects">
+        <item>math|Matematika</item>
+        <item>english|Iňlis Dili</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+    </string-array>
+
+    <!-- Grade 6 subjects -->
+    <string-array name="class_6_subjects">
+        <item>algebra|Algebra</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+        <item>physics|Fizika</item>
+        <item>biology|Biologiýa</item>
+        <item>english|Iňlis Dili</item>
+        <item>informatics|Informatika</item>
+    </string-array>
+
+    <!-- Grade 7 subjects -->
+    <string-array name="class_7_subjects">
+        <item>algebra|Algebra</item>
+        <item>literature|Edebiýat</item>
+        <item>english|Iňlis Dili</item>
+        <item>biology|Biologiýa</item>
+        <item>informatics|Informatika</item>
+        <item>history|Taryh</item>
+        <item>geography|Geografiýa</item>
+        <item>physics|Fizika</item>
+    </string-array>
+
+    <!-- Grade 8 subjects -->
+    <string-array name="class_8_subjects">
+        <item>algebra|Algebra</item>
+        <item>english|Iňlis Dili</item>
+        <item>biology|Biologiýa</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+        <item>turkmen_history|Türkmenistanyň Taryhy</item>
+        <item>geography|Geografiýa</item>
+        <item>physics|Fizika</item>
+        <item>chemistry|Himiýa</item>
+        <item>informatics|Informatika</item>
+    </string-array>
+
+    <!-- Grade 9 subjects -->
+    <string-array name="class_9_subjects">
+        <item>algebra|Algebra</item>
+        <item>english|Iňlis Dili</item>
+        <item>biology|Biologiýa</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+        <item>turkmen_history|Türkmenistanyň Taryhy</item>
+        <item>geography|Geografiýa</item>
+        <item>physics|Fizika</item>
+        <item>chemistry|Himiýa</item>
+        <item>informatics|Informatika</item>
+    </string-array>
+
+    <!-- Grade 10 subjects -->
+    <string-array name="class_10_subjects">
+        <item>algebra|Algebra</item>
+        <item>geometry|Geometriýa</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+        <item>english|Iňlis Dili</item>
+        <item>biology|Biologiýa</item>
+        <item>turkmen_history|Türkmenistanyň Taryhy</item>
+        <item>geography|Geografiýa</item>
+        <item>physics|Fizika</item>
+        <item>chemistry|Himiýa</item>
+        <item>informatics|Informatika</item>
+    </string-array>
+
+    <!-- Grade 11 subjects -->
+    <string-array name="class_11_subjects">
+        <item>algebra|Algebra</item>
+        <item>geometry|Geometriýa</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+        <item>geography|Geografiýa</item>
+        <item>english|Iňlis Dili</item>
+        <item>biology|Biologiýa</item>
+        <item>physics|Fizika</item>
+        <item>turkmen_history|Türkmenistanyň Taryhy</item>
+        <item>chemistry|Himiýa</item>
+        <item>informatics|Informatika</item>
+    </string-array>
+
+    <!-- Grade 12 subjects -->
+    <string-array name="class_12_subjects">
+        <item>algebra|Algebra</item>
+        <item>geometry|Geometriýa</item>
+        <item>literature|Edebiýat</item>
+        <item>history|Taryh</item>
+        <item>english|Iňlis Dili</item>
+        <item>biology|Biologiýa</item>
+        <item>turkmen_history|Türkmenistanyň Taryhy</item>
+        <item>geography|Geografiýa</item>
+        <item>physics|Fizika</item>
+        <item>chemistry|Himiýa</item>
+        <item>informatics|Informatika</item>
+    </string-array>
+</resources>

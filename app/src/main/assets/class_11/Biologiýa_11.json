@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Genetiki maglumatlary saklaýan we nesilden-nesle geçirýän esasy molekula näme?",
+        "options": ["ATP", "Zulal", "RNT", "DNT"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 2,
+        "questionText": "Organizmleriň genetiki materialynyň hromosomlarda ýerleşýän we belli bir häsiýetiň sintezi üçin jogapkär bolan bölegi näme?",
+        "options": ["Nukleotid", "Antikodon", "Gen", "Riboza"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Çarlz Darwiniň 'Tebigy saýlama' (Natural Selection) teoriýasynyň esasy ideýasy näme?",
+        "options": ["Gahrymanlaryň ýok bolmagy", "Diňe güýçlileriň ýaşamagy", "Iň gowy uýgunlaşan jandarlaryň ýaşap galmagy we köpelmegi", "Hemişelik görnüş"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Jynsy köpeliş prosesinde ata-enelerden nesillere häsiýetleriň geçmegini öwrenýän ylym pudagy näme?",
+        "options": ["Ekologiýa", "Anatomiýa", "Genetika", "Taksonomiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Organizmlerde genetiki maglumatlaryň ýa-da hromosomlaryň birden üýtgemegi näme diýilýär?",
+        "options": ["Rekombinasiýa", "Mutasiýa", "Saýlama", "Adaptasiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Genetikada 'gomozigot' (homozygous) nämäni aňladýar?",
+        "options": ["Iki sany dürli gen", "Bir hromosomyň iki nusgasy", "Belli bir gen üçin iki sany meňzeş allel", "Jynsy tapawut"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Hüjrewi köpeliş prosesinde hromosomlaryň sanynyň ýarysyna azalmagy bilen jynsy hüjrejeleri (gametalary) döretmek näme?",
+        "options": ["Mitoz", "Meýoz", "Bölünme", "Klonlama"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Ewolýusiýada 'Organlaryň meňzeşligi', mysal üçin guşuň ganatynyň we adamyň eliniň meňzeş gurluşy nämäni aňladýar?",
+        "options": ["Analogiki organlar", "Gomologiki organlar", "Rudiment organlar", "Adaptasiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Häsiýetleriň genetiki koduny DNT-den RNT-ä geçirýän proses näme?",
+        "options": ["Translýasiýa", "Transkripsiýa", "Replikasiýa", "Mutasiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Gregor Mendel haýsy ylmy pudagyň esaslandyryjysy hökmünde tanalýar?",
+        "options": ["Hüjrewi biologiýa", "Mikrobiologiýa", "Genetika", "Ekologiýa"],
+        "correctAnswerIndex": 2
+    }
+]

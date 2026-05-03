@@ -1,0 +1,62 @@
+[
+        {
+            "id": 1,
+            "questionText": "Ýagtylyk bilen fotosintez prosesinde ösümlik näme öndürýär?",
+            "options": ["Uglewod", "Belok", "Ýaglar", "Minerallar"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "id": 2,
+            "questionText": "Haýsy gurluş ösümlik öýjüklerine berk şekil berýär?",
+            "options": ["Ýadro", "Sitoplazma", "Öýjük diwary", "Membrana"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "id": 3,
+            "questionText": "Mantiýa, aýak we ýüzgärleri öz içine alýan jandarlar topary näme?",
+            "options": ["Mollýuskalar", "Mör-möjekler", "Balylar", "Guşlar"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "id": 4,
+            "questionText": "Adam bedenindäki esasy suw üpjünçilik ulgamy näme?",
+            "options": ["Nerv ulgamy", "Ganyň aýlanyş ulgamy", "Süňk ulgamy", "Dem alyş ulgamy"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "id": 5,
+            "questionText": "Ösümlikler näme üçin ýaşyl?",
+            "options": ["Hlorofil sebäpli", "Karotinoidler sebäpli", "Antosianinler sebäpli", "Ksantofiller sebäpli"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "id": 6,
+            "questionText": "Haýsy organoid energiýany öýjükler üçin azykdan öndürýär?",
+            "options": ["Riboza", "Mitohondriýa", "Hloroplast", "Lizosoma"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "id": 7,
+            "questionText": "Böwürslen ýaly miweler haýsy ösümlik böleginden emele gelýär?",
+            "options": ["Ýaprak", "Gül", "Kök", "Baldak"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "id": 8,
+            "questionText": "Ýyrtyjy we awyň gatnaşygy näme diýilýär?",
+            "options": ["Simbioz", "Kommensalizm", "Ýyrtyjylyk", "Parazitizm"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "id": 9,
+            "questionText": "Ganyň esasy funksiýasy näme?",
+            "options": ["Duýgylary geçirmek", "Gorag funksiýasy", "Maddalary daşamak", "Beden temperaturasyny sazlamak"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "id": 10,
+            "questionText": "Haýsy ýerde kömelekler azyk maddalaryny siňdirýär?",
+            "options": ["Şlýapa", "Sporalar", "Miseliý", "Baldak"],
+            "correctAnswerIndex": 2
+        }
+]

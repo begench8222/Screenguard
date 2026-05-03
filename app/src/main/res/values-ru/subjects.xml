@@ -1,0 +1,129 @@
+<resources>
+    <!-- Grade 1 subjects -->
+    <string-array name="class_1_subjects">
+        <item>math|Математика</item>
+        <item>english|Английский язык</item>
+    </string-array>
+
+    <!-- Grade 2 subjects -->
+    <string-array name="class_2_subjects">
+        <item>math|Математика</item>
+        <item>english|Английский язык</item>
+    </string-array>
+
+    <!-- Grade 3 subjects -->
+    <string-array name="class_3_subjects">
+        <item>math|Математика</item>
+        <item>english|Английский язык</item>
+    </string-array>
+
+    <!-- Grade 4 subjects -->
+    <string-array name="class_4_subjects">
+        <item>math|Математика</item>
+        <item>english|Английский язык</item>
+    </string-array>
+
+    <!-- Grade 5 subjects -->
+    <string-array name="class_5_subjects">
+        <item>math|Математика</item>
+        <item>english|Английский язык</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+    </string-array>
+
+    <!-- Grade 6 subjects -->
+    <string-array name="class_6_subjects">
+        <item>algebra|Алгебра</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+        <item>physics|Физика</item>
+        <item>biology|Биология</item>
+        <item>english|Английский язык</item>
+        <item>informatics|Информатика</item>
+    </string-array>
+
+    <!-- Grade 7 subjects -->
+    <string-array name="class_7_subjects">
+        <item>algebra|Алгебра</item>
+        <item>literature|Литература</item>
+        <item>english|Английский язык</item>
+        <item>biology|Биология</item>
+        <item>informatics|Информатика</item>
+        <item>history|История</item>
+        <item>geography|География</item>
+        <item>physics|Физика</item>
+    </string-array>
+
+    <!-- Grade 8 subjects -->
+    <string-array name="class_8_subjects">
+        <item>algebra|Алгебра</item>
+        <item>english|Английский язык</item>
+        <item>biology|Биология</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+        <item>turkmen_history|История Туркменистана</item>
+        <item>geography|География</item>
+        <item>physics|Физика</item>
+        <item>chemistry|Химия</item>
+        <item>informatics|Информатика</item>
+    </string-array>
+
+    <!-- Grade 9 subjects -->
+    <string-array name="class_9_subjects">
+        <item>algebra|Алгебра</item>
+        <item>english|Английский язык</item>
+        <item>biology|Биология</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+        <item>turkmen_history|История Туркменистана</item>
+        <item>geography|География</item>
+        <item>physics|Физика</item>
+        <item>chemistry|Химия</item>
+        <item>informatics|Информатика</item>
+    </string-array>
+
+    <!-- Grade 10 subjects -->
+    <string-array name="class_10_subjects">
+        <item>algebra|Алгебра</item>
+        <item>geometry|Геометрия</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+        <item>english|Английский язык</item>
+        <item>biology|Биология</item>
+        <item>turkmen_history|История Туркменистана</item>
+        <item>geography|География</item>
+        <item>physics|Физика</item>
+        <item>chemistry|Химия</item>
+        <item>informatics|Информатика</item>
+    </string-array>
+
+    <!-- Grade 11 subjects -->
+    <string-array name="class_11_subjects">
+        <item>algebra|Алгебра</item>
+        <item>geometry|Геометрия</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+        <item>geography|География</item>
+        <item>english|Английский язык</item>
+        <item>biology|Биология</item>
+        <item>physics|Физика</item>
+        <item>turkmen_history|История Туркменистана</item>
+        <item>chemistry|Химия</item>
+        <item>informatics|Информатика</item>
+    </string-array>
+
+    <!-- Grade 12 subjects -->
+    <string-array name="class_12_subjects">
+        <item>algebra|Алгебра</item>
+        <item>geometry|Геометрия</item>
+        <item>literature|Литература</item>
+        <item>history|История</item>
+        <item>english|Английский язык</item>
+        <item>biology|Биология</item>
+        <item>turkmen_history|История Туркменистана</item>
+        <item>geography|География</item>
+        <item>physics|Физика</item>
+        <item>chemistry|Химия</item>
+        <item>informatics|Информатика</item>
+    </string-array>
+</resources>

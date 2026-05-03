@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Programma üpjünçiliginiň hasaplamalary ýerine ýetirmek üçin ulanylýan iň esasy bölegi näme?",
+        "options": ["Brauzer", "Operasion ulgam", "Ýadro (Kernel)", "Draýwer"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Internete girmek üçin her bir enjama berilýän unikal san belgisi näme?",
+        "options": ["MAC salgy", "IP salgy", "URL", "DNS"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Faýlyň göwrümini kiçeltmek (gyzyltmaly) üçin ulanylýan programma näme?",
+        "options": ["Şifrleýji", "Antiwirus", "Arhiwator", "Brauzer"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Algoritmde bir şertiň ýerine ýetirilmegine ýa-da ýerine ýetirilmezligine baglylykda ýerine ýetirilýän amallar näme diýilýär?",
+        "options": ["Gaýtalanma (Loop)", "Şertli geçiş", "Yzygiderlilik", "Blok"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Monitor ekranindäki her bir sanly nokat näme?",
+        "options": ["Piksel", "Wektor", "Görnüş", "Duýgurlyk"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Maglumatlary goramak üçin ulanylýan, maglumaty okalyp bolmaýan görnüşe öwürýän proses näme?",
+        "options": ["Kodlama", "Şifrleme (Encryption)", "Dekodlama", "Arhiwleme"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Sanly maglumatlary (ses, surat, wideo) ulanylyşda hili ýitirmezden gysmak usuly näme?",
+        "options": ["Ýitgili gysmak (Lossy)", "Ýitgisiz gysmak (Lossless)", "Şifrlemek", "Arhiwlemek"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Bir kompýuterde ýerleşýän we setdäki beýleki kompýuterlere hyzmat edýän kompýuter näme?",
+        "options": ["Klient", "Draýwer", "Server", "Wokstansiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Haýsy programma dili köplenç 'ýokary derejeli' dil hasaplanýar?",
+        "options": ["Assembler", "Maşyn kody", "Python", "Ikilik kod"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Maglumatlary ýazga almak we okamak üçin lazer şöhlesini ulanýan gaty disk görnüşi näme?",
+        "options": ["HDD", "SSD", "CD/DVD", "Flash"],
+        "correctAnswerIndex": 2
+    }
+]

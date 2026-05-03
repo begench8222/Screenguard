@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Identify the **adverb** modifying the verb in: 'She sang beautifully at the concert.'",
+        "options": ["She", "Sang", "Beautifully", "Concert"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Which sentence uses the correct **pronoun** case?",
+        "options": ["Me and John went to the park.", "John and me went to the park.", "John and I went to the park."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "What is the **past participle** of the verb 'to see'?",
+        "options": ["Saw", "See", "Seen", "Seeing"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Which word is a **conjunction** connecting two independent clauses?",
+        "options": ["Under", "Always", "Although", "But"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 5,
+        "questionText": "Identify the figure of speech: 'The city was a concrete jungle.'",
+        "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Choose the sentence with the correct **agreement** (subject-verb):",
+        "options": ["The team are going to win.", "The team is going to win.", "The team were going to win."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "What does the word **'subtle'** primarily mean?",
+        "options": ["Very loud", "Easily noticed", "Difficult to detect or analyze", "Extremely large"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Which sentence contains a **direct object**?",
+        "options": ["They arrived late.", "She wrote a letter.", "He slept soundly."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "What is the function of an **appositive** phrase?",
+        "options": ["To introduce a new idea", "To describe the verb", "To rename or explain a noun", "To show possession"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Which of these words is often capitalized because it's a **proper noun**?",
+        "options": ["School", "Teacher", "Country", "England"],
+        "correctAnswerIndex": 3
+    }
+]

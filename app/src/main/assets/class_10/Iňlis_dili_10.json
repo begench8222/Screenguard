@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "In writing, a **thesis statement** primarily serves to _____.",
+        "options": ["Conclude the argument", "State the main idea or purpose of the essay", "Introduce the author", "Provide a summary of the sources"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "What is the literary term for a seemingly contradictory statement that is nevertheless true?",
+        "options": ["Irony", "Paradox", "Oxymoron", "Hyperbole"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Which sentence contains a **misplaced modifier**?",
+        "options": ["He wore a helmet on his head that was too small.", "Wearing a helmet, he rode his bike.", "The small helmet was on his head."],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Identify the correct use of **'lie'** or **'lay'**: 'The dog loves to _____ down on the rug.'",
+        "options": ["Lay", "Layed", "Lie", "Lain"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "What type of sentence structure has one independent clause and at least one dependent clause?",
+        "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "What is the best **synonym** for the word 'pervasive'?",
+        "options": ["Scarce", "Widespread", "Isolated", "Irrelevant"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "In rhetoric, the appeal to the audience's **emotions** is called _____.",
+        "options": ["Logos", "Ethos", "Pathos", "Kairos"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Which verb form (acting as a noun) ends in **-ing**?",
+        "options": ["Infinitive", "Participle", "Gerund", "Auxiliary"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "The primary purpose of **informative writing** is to _____.",
+        "options": ["Persuade the reader", "Entertain the reader", "Explain or educate the reader", "Express personal feelings"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Which punctuation mark is correctly used to join two closely related independent clauses without a coordinating conjunction?",
+        "options": ["Colon", "Comma", "Semicolon", "Dash"],
+        "correctAnswerIndex": 2
+    }
+]

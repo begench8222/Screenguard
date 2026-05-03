@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Häzirki zaman türkmen prozasynyň görnükli wekili, 'Garrynyň öýi' eseriniň awtory kim?",
+        "options": ["Çary Aşyrow", "Tirkish Jumageldiýew", "Hudaýberdi Diwangulyýew", "Kakabaý Gurbanow"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Türkmen dramaturgiýasynda 'Ata keseki ýere gidende' pýesasy bilen meşhur bolan awtor kim?",
+        "options": ["Gurbandurdy Zelili", "Gara Seýitliýew", "Garaşsyzlyk döwrüniň dramaturglarynyň biri", "Gurbanmyrat Geldiýew"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Edebiýatda awtoryň öz duýgularyny, oýlaryny we subýektiw dünýäsini beýan etmegi näme diýilýär?",
+        "options": ["Epos", "Lirika", "Drama", "Tragediýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Haýsy türkmen şahyrynyň döredijiliginde ýer ýüzi, kosmos we bütin adamzat hakda pelsepewi oýlanmalar duş gelýär?",
+        "options": ["Mollanepes", "Gurbandurdy Zelili", "Ata Atajanow", "Kerim Gurbannepesow"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 5,
+        "questionText": "Türkmen edebiýatynyň taryhynda 'Däli domulla' atly powest haýsy döwrüň jemgyýetçilik kynçylyklaryny beýan edýär?",
+        "options": ["Sowet döwri", "Garaşsyzlyk döwri", "XIX asyryň ahyry", "Orta asyrlar"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Edebiýatda eseriň 'dili', 'manysy' we 'sesi' nähili atlandyrylýar?",
+        "options": ["Stil", "Müňkünçilik", "Estetika", "Ritm"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Haýsy türkmen ýazyjysy 'Ak altynyň gelmegi' hekaýasynda pagtaçylygyň ösüşini we zähmet adamlarynyň durmuşyny suratlandyrypdyr?",
+        "options": ["Beki Seýtäkow", "Hudaýberdi Diwangulyýew", "Ata Gowşudow", "Berdi Kerbabaýew"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 8,
+        "questionText": "Häzirki zaman türkmen edebiýatynda 'syýahat proza' žanrynyň ösmegine goşant goşan awtor kim?",
+        "options": ["Gurbandurdy Zelili", "Berdi Kerbabaýew", "Tirkish Jumageldiýew", "Agahan Durdyýew"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Edebiýatda bir eseriň başga bir esere ýa-da wakanyň agzalmagy näme diýilýär?",
+        "options": ["Metafora", "Süjet", "Allýuziýa (Ýatlatma)", "Simwol"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Türkmenistanyň Garaşsyzlyk ýyllarynda döredilen edebiýatda esasy agdyklyk edýän tema näme?",
+        "options": ["Diňe harby temalar", "Taryhy miras we milli gymmatlyklar", "Kosmos we fantastika", "Dini dogmalar"],
+        "correctAnswerIndex": 1
+    }
+]

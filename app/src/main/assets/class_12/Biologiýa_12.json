@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Gen inženeriýasynda bir organizmiň genini başga bir organizme geçirip, täze genetiki häsiýetler döretmek prosesi näme?",
+        "options": ["Mutasiýa", "Klonlama", "Transgenizasiýa", "Meýoz"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Polimeraza zynjyr reaksiýasy (PCR) haýsy maksat üçin giňden ulanylýar?",
+        "options": ["Zulal sintezi", "DNT-niň uly mukdaryny köpeltmek (amplifikirlemek)", "Hüjrewi dem alyş", "Ösümlik tohumlaryny öndürmek"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Ilatyň genetiki gurluşynyň (genofondunyň) wagt geçdigiçe üýtgemegini öwrenýän biologiýa pudagy näme?",
+        "options": ["Anatomiýa", "Populasisiýa genetikasy", "Biohimiýa", "Paleontologiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Adamyň ähli genetik koduny (genomyny) öwrenmek we kartalaşdyrmak maksady bilen geçirilen global taslama näme?",
+        "options": ["Biosfera taslamasy", "Hüjrewi sintez taslamasy", "Adam Genomy Taslamasy", "Ösümlik genetikasy taslamasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Haýsy biotehnologiki usul bilen jandaryň ýa-da ösümligiň genetiki kody üýtgedilmezden, onuň doly meňzeş nusgasyny döredilýär?",
+        "options": ["Klonlama", "Mutasiýa", "Seçme", "Transkripsiýa"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Biotehnologiýada, keselleri bejermek ýa-da gowşak genleri dogrulamak üçin ulanylýan usul näme?",
+        "options": ["DNT replikasiýa", "Gen terapiýasy", "Klonlama", "Fotosintez"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Haýsy organiki molekula biologiki prosesleriň tizligini (kataliz) ýokarlandyryjy funksiýany ýerine ýetirýär?",
+        "options": ["Uglewodorodlar", "Ýag kislotalary", "Fermentler (Enzymes)", "Wodorod"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Durnukly ösüş üçin biologiýanyň esasy roly näme?",
+        "options": ["Diňe inženeriýany ösdürmek", "Ilatyň sanyny azaltmak", "Tebigy serişdeleri dolandyrmak we biodürlüligi goramak", "Syýasy durnuklylyk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Genetiki materialyň bedeniň iýmitiniň çalşygyndaky roluny öwrenýän ylym pudagy näme?",
+        "options": ["Farmakologiýa", "Geografiýa", "Nutrigenomika", "Anatomiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Eger bir jandar durnukly ýaşaýyş şertlerine gowy uýgunlaşan bolsa, bu nämäni aňladýar?",
+        "options": ["Ýokary ýaş", "Uly beden", "Güýçli adaptasiýa (Uýgunlaşma)", "Çalt köpeliş"],
+        "correctAnswerIndex": 2
+    }
+]

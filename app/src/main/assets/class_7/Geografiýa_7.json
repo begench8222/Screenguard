@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Dünýädäki iň uly we iň çuň köli haýsy?",
+        "options": ["Uly Köl", "Balkaş köli", "Baikal köli", "Kaspi deňzi"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Haýsy materik 'buzluk materigi' diýlip atlandyrylýar we ilat ýaşaýan däl?",
+        "options": ["Afrika", "Awstraliýa", "Antarktida", "Ýewropa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Amazonka derýasy esasan haýsy materikden akýar?",
+        "options": ["Demirgazyk Amerika", "Günorta Amerika", "Afrika", "Aziýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Haýsy materikde Sahara çöli ýerleşýär, dünýäniň iň uly çölüdir?",
+        "options": ["Aziýa", "Awstraliýa", "Afrika", "Demirgazyk Amerika"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Aşakdaky dag zynjyrlarynyň haýsysy Günorta Amerikada ýerleşýär?",
+        "options": ["Uly Hiňňirdi", "Kordilýer", "Andy daglary", "Ural daglary"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Okeanlarda suwuň yzygiderli hereketleri, temperatura we duzlylyk bilen bagly bolan akymlar näme diýilýär?",
+        "options": ["Deňiz joşmalary", "Tsunami", "Okean akymlary", "Buzluklar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Awstraliýa materiginiň esasy aýratynlygy näme?",
+        "options": ["Iň sowuk ýer", "Iň uly okean", "Iň kiçi we ýeke-täk ýurt materigi", "Iň uly çöl"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Haýsy materikde iň köp ilatly iki ýurt (Hytaý we Hindistan) ýerleşýär?",
+        "options": ["Ýewropa", "Afrika", "Aziýa", "Demirgazyk Amerika"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Ýuwaş we Atlantik okeanlaryny birleşdirýän, emeli suw ýoly näme?",
+        "options": ["Sueýş kanaly", "Panama kanaly", "Kiel kanaly", "Korinf kanaly"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Golaýda ýerleşýän kontinentler we olaryň arasyndaky deňizler we okeanlar bilen bilelikde bütin Ýer ýüzüniň yklym we suw bölegi näme diýilýär?",
+        "options": ["Ýer", "Geosfera", "Gidrosfera", "Materikler we okeanlar"],
+        "correctAnswerIndex": 3
+    }
+]

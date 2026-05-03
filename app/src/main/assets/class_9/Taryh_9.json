@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Birinji Jahan urşy 1914-nji ýylda haýsy şahsyýetiň öldürilmeginden soň resmi taýdan başlandy?",
+        "options": ["Kaýzer Wilgelm II", "Tsar Nikolaý II", "Ersgerzog Frans Ferdinand", "Wudrow Wilson"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Birinji Jahan urşuny resmi taýdan tamamlap, köplenç Ikinji Jahan urşunyň sebäbi hökmünde görkezilýän şertnama näme?",
+        "options": ["Pariž şertnamasy", "Wersal şertnamasy", "Brest-Litowsk şertnamasy", "Kellog-Briand pakty"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "1929-njy ýylda başlanan we 1930-njy ýyllarda tutuş dünýä täsir eden ykdysady çökgünligiň ady näme?",
+        "options": ["Resessiýa", "Uly Depressiýa", "Gara Anna", "Stagflýasiýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Ikinji Jahan urşundan öň parahatçylygy saklamak üçin agressiw milletlere (mysal üçin Germaniýa) ýeňillikler bermek syýasaty näme boldy?",
+        "options": ["Saklama", "Ýaradyjylyk (Appeasement)", "Izolýasiýaçylyk", "Détente"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "Ýaponiýanyň haýsy harby-deňiz bazasyna eden duýdansyz hüjümi ABŞ-ny Ikinji Jahan urşuna goşdy?",
+        "options": ["Midweý", "Okinawanyň", "Perl Harbor", "Hiroşima"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Nazi režimi tarapyndan alty million ýewreýi yzygiderli, döwlet tarapyndan goldanýan yzarlamak we öldürmek näme diýlip atlandyrylýar?",
+        "options": ["Genosid", "Pogrom", "Holokost", "Ahyrky Çözgüt"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Ikinji Jahan urşundan soň ABŞ bilen Sowet Soýuzynyň arasyndaky syýasy we harby dartgynlylyk ýagdaýy näme diýlip atlandyrylýar?",
+        "options": ["Yssy uruş", "Proksi uruş", "Sowuk uruş", "Total uruş"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Sowuk uruş döwründe kommunizmiň ýaýramagynyň öňüni almak üçin döredilen ABŞ-nyň daşary syýasaty näme diýlip atlandyrylýar?",
+        "options": ["Ýaradyjylyk", "Saklama (Containment)", "Détente", "Brinkmanship"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Ikinji Jahan urşundan soň Afrikada we Aziýada köp milletleriň garaşsyzlygyna sebäp bolan hereket näme diýlip atlandyrylýar?",
+        "options": ["Sionizm", "Dekolonizasiýa", "Globalizasiýa", "Ýaraşyk"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "1961-nji ýyldan 1989-njy ýyla çenli kommunistik Gündogar Germaniýa bilen demokratik Günbatar Germaniýanyň arasyndaky bölünişigi aňladýan gurluş näme?",
+        "options": ["Demir perde", "Berlin diwary", "Sueýş kanaly", "Uly diwar"],
+        "correctAnswerIndex": 1
+    }
+]

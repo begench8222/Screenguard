@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Türkmen prozasynyň düýbüni tutujylarynyň biri, 'Ak altyn' we 'Gyzyl gan' romanlarynyň awtory kim?",
+        "options": ["Berdi Kerbabaýew", "Ata Gowşudow", "Hydyr Deryaýew", "Agahan Durdyýew"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Berdi Kerbabaýewiň 'Aýgytly ädim' romanynyň esasy temasy näme?",
+        "options": ["Tebigat gözellikleri", "Aşyk-magşuklaryň tragediýasy", "Türkmenistanda Sowet häkimiýetiniň gurulmagy we basmaçylyga garşy göreş", "Beýik Watançylyk urşy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Ata Gowşudowyň 'Perman' romany nähili temany beýan edýär?",
+        "options": ["Kolhoz gurluşyny", "Türkmen halkynyň Ikinji Jahan urşundaky edermenligini", "Orta asyrlardaky feodal gatnaşyklary", "19-njy asyryň ahyryndaky halk durmuşyny"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Hydyr Deryaýewiň meşhur eseri 'Ykbal' haýsy žanra degişli?",
+        "options": ["Goşgy", "Pýesa", "Roman", "Dessan"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Realizm edebiýatda nämäni aňladýar?",
+        "options": ["Düşünjelere we syrly zatlara üns bermegi", "Durmuşy hakyky we anyk suratlandyrmagy", "Aşyk-magşuklaryň duýgularyny beýan etmegi", "Gahrymanlaryň diňe oňyn häsiýetlerini görkezmegi"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Türkmen edebiýatynda drama žanrynyň ösmegine uly goşant goşan şahyr we dramaturg kim?",
+        "options": ["Aman Kekilow", "Gara Seýitliýew", "Beki Seýtäkow", "Baýram Soltannyýazow"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "'Şazada we gul' pýesasynyň awtory kim?",
+        "options": ["Berdi Kerbabaýew", "Ata Gowşudow", "Hydyr Deryaýew", "Ýylmaz Şyhyýew"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 8,
+        "questionText": "Edebiýatda eseriň ýa-da parçanyň gahrymanyň gözlegini we başdan geçirenlerini gürrüň berýän bölegi näme?",
+        "options": ["Häsiýet", "Süjet (Waka örgüsü)", "Tema", "Ideýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Berdi Kerbabaýewiň 'Nebitdag' romanynda haýsy pudagyň ösüşi we işçileriň durmuşy suratlandyrylýar?",
+        "options": ["Ekerançylyk", "Pagtaçylyk", "Nebit we gaz senagaty", "Maldarçylyk"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Klassyk şahyrlaryň eserlerinde duş gelýän 'Hyrat' ýa-da 'Buhara' ýaly taryhy merkezler esasan nämäni aňladýar?",
+        "options": ["Dini mekany", "Ylmy-medeni merkezi", "Harby düşelgäni", "Söwda nokadyny"],
+        "correctAnswerIndex": 1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Molekulalar-kinetik teoriýanyň esasy nämädir?",
+        "options": ["Molekulalaryň hereketi", "Molekulalaryň reňki", "Molekulalaryň agramy", "Molekulalaryň sany"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Ideal gazyň basysy nämä bagly?",
+        "options": ["Molekulalaryň sany, temperatur we hajym", "Molekulalaryň reňki we agramy", "Molekulalaryň formasy we ululygy", "Diňe molekulalaryň sany"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "questionText": "Termodinamikanyň birinji kanuny nämädir?",
+        "options": ["Islyk mukdary işe we içki energiýanyň üýtgemesine deň", "Islyk mukdary diňe işe deň", "Islyk mukdary diňe içki energiýanyň üýtgemesine deň", "Islyk mukdary ýok bolup biler"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 4,
+        "questionText": "Adiabatik prosesde nämä bolýar?",
+        "options": ["Islyk geçişi ýok", "Islyk geçişi bar", "Temperatura üýtgemeýär", "Hajym üýtgemeýär"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Elektrostatikada Kulonyň kanuny nämä baglylygy kesgitleýär?",
+        "options": ["Iki nukda zarydyň arasyndaky özara täsir güýjü", "Tok bilen küwät", "Zaryd bilen meýdan", "Meýdan bilen güýç"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Elektrik meýdanynyň küwätliligi nähili kesgitlenilýär?",
+        "options": ["E = F/q", "E = kq/r²", "E = U/d", "E = A/q"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "questionText": "Elektrik potensialy nähili kesgitlenilýär?",
+        "options": ["φ = Ep/q", "φ = F/q", "φ = E d", "φ = A t"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Kondensator nämä üçin ulanylýar?",
+        "options": ["Elektrik zarydyny saklamak üçin", "Elektrik tokuny üýtgetmek üçin", "Elektrik güýjüni ölçemek üçin", "Elektrik meýdanyny döretmek üçin"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Ýapyk zynjyrda zarydyň saklanma kanuny nämä diýýär?",
+        "options": ["Zarydlaryň algebraik jemi hemişe noldir", "Zarydlaryň jemi hemişe uly", "Zarydlaryň jemi hemişe kiçi", "Zarydlaryň jemi üýtgeýär"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Doğry tok üçin Kondensator nähili hereket edýär?",
+        "options": ["Gapawul edýär", "Geçirýär", "Güýçlendirýär", "Üýtgetýär"],
+        "correctAnswerIndex": 0
+    }
+]

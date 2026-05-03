@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Kompýuter koduny maşyn koduna öwürýän we ony derrew ýerine ýetirýän programma näme?",
+        "options": ["Kompilýator", "Dekoder", "Assembler", "Interpretator"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 2,
+        "questionText": "Internetiň esasy aragatnaşyk protokoly näme?",
+        "options": ["FTP", "HTTP", "TCP/IP", "SMTP"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Maglumatlar bazasyny (Database) dolandyrmak üçin ulanylýan esasy sorag dili näme?",
+        "options": ["Java", "SQL", "HTML", "C++"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 4,
+        "questionText": "Elektron poçtany (e-mail) ibermek üçin jogapkär bolan protokol näme?",
+        "options": ["POP3", "IMAP", "SMTP", "HTTP"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Ikilik san ulgamynda (Binary) 1011 san onluk san ulgamynda näçä deň?",
+        "options": ["10", "11", "12", "13"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Wideo kartanyň (Video Card) esasy funksiýasy näme?",
+        "options": ["Programmalary işe girizmek", "Maglumatlary saklamak", "Wideo maglumatlaryny prosesirlemek we görkezmek", "Sesi çykarmak"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Algoritmiň haýsy gurluşy bir şert ýerine ýetirilýänçä bir amaly gaýtalaýar?",
+        "options": ["Şertli geçiş", "Saýlama", "Gaýtalanma (Loop)", "Yzygiderlilik"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Kompýuter setinde maglumatlary beýleki set böleklerine gowşurýan enjam näme?",
+        "options": ["Modem", "Ruter (Router)", "Monitor", "Printer"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 9,
+        "questionText": "Iň giňden ýaýran maglumatlar bazasy modeli näme?",
+        "options": ["Obýekt-ugurly", "Iýerarhik", "Set (Network)", "Relýasion (Relational)"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 10,
+        "questionText": "Kompýuter ulgamlarynyň bir-biriniň yzyna berýän howpsuzlyk meselelerine näme diýilýär?",
+        "options": ["Wirus", "Troýan", "Zararlandyrma (Vulnerability)", "Spam"],
+        "correctAnswerIndex": 2
+    }
+]

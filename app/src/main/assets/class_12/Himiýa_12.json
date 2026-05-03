@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "questionText": "Suwuklykdaky erginiň konsentrasiýasy nähili ölçelýär?",
+        "options": [
+            "Molýarlýk",
+            "Gram",
+            "San",
+            "Hajym"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "Periodik ulgamyň döwründe elementleriň häsiýetleri nähili üýtgeýär?",
+        "options": [
+            "Kemelýär",
+            "Ösýär",
+            "Üýtgemeýär",
+            "Dürli- dürli üýtgeýär"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Karbon atomy näçe baglanyşyk edip bilýär?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Organiki himiýanyň esasy öwrenýän zady näme?",
+        "options": [
+            "Metalaryň birikmeleri",
+            "Karbon birikmeleri",
+            "Suwuk birikmeler",
+            "Gaz birikmeler"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 5,
+        "questionText": "pH ulgamy nähili işleýär?",
+        "options": [
+            "1-den 14-e çenli",
+            "0-dan 10-a çenli",
+            "1-den 10-a çenli",
+            "0-dan 14-e çenli"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 6,
+        "questionText": "Alkanlaryň umumy formuly näme?",
+        "options": [
+            "CₙH₂ₙ",
+            "CₙH₂ₙ₊₂",
+            "CₙH₂ₙ₋₂",
+            "CₙHₙ"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Elektrolitiki dissosiasiýa näme?",
+        "options": [
+            "Molekulalaryň bölünmegi",
+            "Molekulalaryň birikmegi",
+            "Molekulalaryň ýanmagy",
+            "Molekulalaryň erginmegi"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Katalizator näme?",
+        "options": [
+            "Reaksiýanyň tizligini artdyrýan madda",
+            "Reaksiýanyň tizligini peseldýän madda",
+            "Reaksiýany duruzýan madda",
+            "Reaksiýany başlaýan madda"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Ionlaşdyryjy nurlanma nämeden ybarat?",
+        "options": [
+            "Alfa, beta, gamma nurlar",
+            "Ýönekeý ýagtylyk",
+            "Radiosignal",
+            "Elektrik toku"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 10,
+        "questionText": "Polimerler nädip düzülýär?",
+        "options": [
+            "Monomerleriň birikmesinden",
+            "Atomlaryň bölünmesinden",
+            "Molekulalaryň ýanmagyndan",
+            "Erginiň guramagyndan"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

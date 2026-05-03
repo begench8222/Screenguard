@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "999 + 1 = ?",
+        "options": ["1000", "1001", "1010", "990"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 2,
+        "questionText": "250 * 4 = ?",
+        "options": ["800", "1000", "1250", "900"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "1 kilogram näçe grama deň?",
+        "options": ["10", "100", "1000", "1"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Kwadratyň meýdanyny (Area) hasaplamak üçin formula näme? ($a$ tarap)",
+        "options": ["$4a$", "$a+a$", "$a^2$", "$2a$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "1/4 we 2/4 fraksiýalarynyň jemi näçe?",
+        "options": ["$1/2$", "$3/4$", "$3/8$", "$1/4$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Gönüburçlugyň meýdany $A=20$ bolsa, taraplarynyň uzynlygy näçe bolup biler?",
+        "options": ["$4$ we $6$", "$5$ we $4$", "$10$ we $10$", "$2$ we $12$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "0.5 sanyny fraksiýa görnüşinde nähili ýazmaly?",
+        "options": ["$1/10$", "$5/100$", "$1/2$", "$2/5$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Haýsy san 'Simple' (Diňe 1-e we özüne bölünýän) san?",
+        "options": ["$4$", "$6$", "$7$", "$9$"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Eger üçburçlugyň iki burçy $45^circ$ bolsa, üçünji burçy näçe?",
+        "options": ["$45^circ$", "$90^circ$", "$60^circ$", "$180^circ$"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "1 sagat näçe sekunda deň?",
+        "options": ["$60$", "$360$", "$3600$", "$1000$"],
+        "correctAnswerIndex": 2
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Fizika ylymy nämä öwrenýär?",
+        "options": ["Jisimleriň gurluşy", "Jisimleriň hereketi we taglymlary", "Kimywi elementler", "Ösümlikleriň durmuşy"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Täsinin üýtgemez häsiyeti nämädir?",
+        "options": ["Hajym", "Agram", "Köpçülik", "Formasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Mehaniki hereket nähili görnüşlere bölünýär?",
+        "options": ["Burun we soň", "Ösüş we peseleş", "Görnüpli we görnüpsiz", "Öňe we aýlanma"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 4,
+        "questionText": "Ýol we süýşme arasyndaky tapawut nämä?",
+        "options": ["Ýol skalar, süýşme wektor ululyk", "Süýşme skalar, ýol wektor ululyk", "Ikisi hem wektor", "Ikisi hem skalar"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 5,
+        "questionText": "Birlik wagtdaky geçilen ýola nämä diýilýär?",
+        "options": ["Tizlik", "Yglan", "Wagt", "Süýşme"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 6,
+        "questionText": "Nyutonyň ikinji kanuny nämä baglylygy kesgitleýär?",
+        "options": ["Tizlik", "Yglan", "Kütle", "Köpçülik"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 7,
+        "questionText": "Ýeriň çekim güýjüniň yglany näçe?",
+        "options": ["9.8 m/s²", "10 m/s²", "6.7 m/s²", "5.5 m/s²"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 8,
+        "questionText": "Güýç nähili wektor ululykdyr?",
+        "options": ["Modul, ugur we nokat", "Diňe modul", "Diňe ugur", "Diňe nokat"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 9,
+        "questionText": "Dynçlyk ýagdaýynda jisimiň agramy näme deň bolýar?",
+        "options": ["Awtolyk güýje", "Elastiklik güýjüne", "Erkin düşme yglanyna", "Kütläne deň"],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": 10,
+        "questionText": "Güýjiň ölçeg birligi nämädir?",
+        "options": ["Nyuton (N)", "Paskal (Pa)", "Joul (J)", "Watt (W)"],
+        "correctAnswerIndex": 0
+    }
+]

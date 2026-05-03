@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Global gyzdyrma (global warming) esasan haýsy gazlaryň atmosfera ýaýramagy netijesinde döreýär?",
+        "options": ["Oksigen we azot", "Kükürt dioksidi", "Parnik gazlary (Karbondioksid, metan)", "Ozon"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 2,
+        "questionText": "Dünýäde elektrik energiýasynyň iň uly bölegi haýsy serişdäni ýakmak arkaly öndürilýär?",
+        "options": ["Gün energiýasy", "Gidroenergiýa", "Fossil ýangyçlar (nebit, gaz, kömür)", "Ýadro energiýasy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 3,
+        "questionText": "Ýer ýüzüniň suw serişdeleriniň esasy bölegini näme düzýär?",
+        "options": ["Derýalar we köller", "Ýerasty suwlar", "Okean we deňiz suwlary", "Buzluklar"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "Haýsy energiýa çeşmesi 'galkynyşly energiýa' (renewable energy) diýlip atlandyrylýar?",
+        "options": ["Nebit", "Kömür", "Gün we ýel energiýasy", "Tebigy gaz"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Tebigatda suwuň bugarmak, ýagyş, akym we ýerasty suwlar arkaly yzygiderli aýlanmagy näme diýilýär?",
+        "options": ["Gidrosfera", "Suw aýlawy (Gidrologik aýlaw)", "Biosfera", "Litosfera"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 6,
+        "questionText": "Braziliýa, Kongo we Indoneziýa ýaly ýurtlarda 'Tebigy tokaýlaryň ýok edilmegi' (deforestrasiýa) haýsy global mesele bilen baglanyşykly?",
+        "options": ["Tebigy gaz ýetmezçiligi", "Ilatyň kemelmegi", "Biodürlüligiň ýitmegi we klimat üýtgemegi", "Deňizleriň hapalanmagy"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Haýsy ykdysady proses global ykdysadyýetiň yzygiderli birleşmegi we dünýä bazarynyň döremegi bilen häsiýetlendirilýär?",
+        "options": ["Regionalizm", "Izolýasiýaçylyk", "Globalizasiýa", "Awtonomiýa"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "Köp ösýän ýurtlaryň 'demografik geçiş' prosesinde häzirki tapgyr nähili häsiýetlenýär?",
+        "options": ["Ölüm we dogluş derejesi pes", "Ölüm we dogluş derejesi ýokary", "Ölüm derejesi pes, dogluş derejesi ýokary", "Ölüm derejesi ýokary, dogluş derejesi pes"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "Ýerasty gatlaklaryň uly bölekleriniň hereketi (plit alany) netijesinde Ýeriň ýüzündäki yzygiderli geologiki üýtgeşmeler näme diýilýär?",
+        "options": ["Wulkanizm", "Tektonika", "Metamorfoz", "Eroziýa"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 10,
+        "questionText": "Ilatyň 'goçmek' (migrasiýa) prosesi nämäni aňladýar?",
+        "options": ["Welaýatdan welaýata gitmek", "Ýaşaýan ýerini wagtlaýyn üýtgetmek", "Adamalaryň bir ýerden başga ýere, köplenç ykdysady ýa-da syýasy sebäplere görä hemişelik göçmegi", "Garry ilatyň artmagy"],
+        "correctAnswerIndex": 2
+    }
+]

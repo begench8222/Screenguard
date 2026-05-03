@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "questionText": "Identify the **verb** in the sentence: 'My brother plays soccer every weekend.'",
+        "options": ["Brother", "Plays", "Soccer", "Weekend"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "questionText": "Which sentence uses the correct **possessive** form?",
+        "options": ["The dogs' tail wagged.", "The dog's tail wagged.", "The dogs tail wagged."],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 3,
+        "questionText": "Choose the correct **preposition**: 'The cat is sitting _____ the table.'",
+        "options": ["At", "In", "On", "Of"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 4,
+        "questionText": "What is the **comparative** form of the adjective 'good'?",
+        "options": ["Gooder", "Most good", "Better", "Best"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 5,
+        "questionText": "Which word is a **synonym** for 'begin'?",
+        "options": ["End", "Stop", "Commence", "Finish"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 6,
+        "questionText": "Identify the **subject** in the sentence: 'In the evening, the tired students went home.'",
+        "options": ["Evening", "Tired", "Students", "Home"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 7,
+        "questionText": "Which sentence is written in the **present continuous** tense?",
+        "options": ["He walked home.", "He walks home.", "He is walking home.", "He has walked home."],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 8,
+        "questionText": "What does the **prefix** 'un-' typically mean?",
+        "options": ["Before", "After", "Not", "Again"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 9,
+        "questionText": "The phrase 'piece of cake' is an example of a(n) _____.",
+        "options": ["Simile", "Metaphor", "Idiom", "Hyperbole"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": 10,
+        "questionText": "Which type of sentence expresses a strong feeling and ends with an exclamation point?",
+        "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+        "correctAnswerIndex": 2
+    }
+]
