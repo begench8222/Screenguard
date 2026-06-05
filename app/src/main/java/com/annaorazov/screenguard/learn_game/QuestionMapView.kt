@@ -5,6 +5,7 @@ import android.graphics.Canvas
 import android.graphics.Paint
 import android.graphics.PointF
 import android.util.AttributeSet
+import android.util.Log
 import android.view.MotionEvent
 import android.view.View
 import androidx.core.content.ContextCompat
@@ -42,8 +43,19 @@ class QuestionMapView @JvmOverloads constructor(
         incorrectProgress.clear()
         incorrectProgress.addAll(incorrect)
         isPremiumUnlocked = premiumUnlocked
+        Log.d("QuestionMapView", "setPoints - Correct: ${correctProgress.size}, Incorrect: ${incorrectProgress.size}")
+        Log.d("QuestionMapView", "Correct values: $correctProgress")
+        Log.d("QuestionMapView", "Incorrect values: $incorrectProgress")
         requestLayout()
-        invalidate()
+        postInvalidate() // Используем postInvalidate вместо invalidate
+    }
+
+    fun updateProgress(correct: Set<Int>, incorrect: Set<Int>) {
+        correctProgress.clear()
+        correctProgress.addAll(correct)
+        incorrectProgress.clear()
+        incorrectProgress.addAll(incorrect)
+        invalidate() // Просто перерисовываем
     }
 
     fun setOnPointClickListener(listener: (Int) -> Unit) {

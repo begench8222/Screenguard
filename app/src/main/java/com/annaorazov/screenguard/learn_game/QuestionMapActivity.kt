@@ -19,6 +19,7 @@ import android.widget.TextView
 import com.annaorazov.screenguard.R
 import com.annaorazov.screenguard.SwitchLanguageHelper
 import com.google.gson.JsonObject
+import kotlinx.coroutines.*
 import java.io.IOException
 
 class QuestionMapActivity : AppCompatActivity() {
@@ -26,11 +27,15 @@ class QuestionMapActivity : AppCompatActivity() {
     private lateinit var subject: String
     private lateinit var questions: List<Question>
     private var classLevel: Int = 1
+    private val selectedAnswers = mutableMapOf<Int, Int>()
     private var correctProgress: MutableSet<Int> = mutableSetOf()
     private var incorrectProgress: MutableSet<Int> = mutableSetOf()
     private var isPremiumUnlocked: Boolean = false
     private lateinit var validPromoCodes: List<String>
     private val PREMIUM_QUESTION_LIMIT = 5
+    private lateinit var database: QuestionProgressDatabase
+    private val mainScope = CoroutineScope(Dispatchers.Main)
+
     override fun attachBaseContext(newBase: Context) {
         super.attachBaseContext(SwitchLanguageHelper.applyLanguage(newBase))
     }
@@ -41,22 +46,21 @@ class QuestionMapActivity : AppCompatActivity() {
         binding = ActivityQuestionMapBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        database = QuestionProgressDatabase.getDatabase(this)
 
         subject = intent.getStringExtra("subject") ?: run {
             Toast.makeText(this, "Subject not specified", Toast.LENGTH_SHORT).show()
             finish()
             return
         }
-        subjectKey = intent.getStringExtra("subjectKey") ?: subject.toLowerCase().replace(" ", "_")
+        subjectKey = intent.getStringExtra("subjectKey") ?: subject.lowercase().replace(" ", "_")
         classLevel = intent.getIntExtra("classLevel", 1)
         binding.subjectTitle.text = subject
 
-        loadProgress()
         loadPromoCodes()
         checkPremiumStatus()
         loadQuestions(classLevel)
 
-        // Setup crown icon click listener
         binding.crownIcon.setOnClickListener {
             showPromoCodeDialog()
         }
@@ -64,11 +68,40 @@ class QuestionMapActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        TimeUtils.setupTimeDisplay(
-            this,
-            binding.timeDisplay.remainingTimeText,
-        )
+        TimeUtils.setupTimeDisplay(this, binding.timeDisplay.remainingTimeText)
+        // Перезагружаем прогресс из БД при возврате
+        CoroutineScope(Dispatchers.Main).launch {
+            loadProgressFromDatabase()
+            if (::questions.isInitialized && questions.isNotEmpty()) {
+                updateMapDisplay()
+            }
+        }
     }
+
+    private suspend fun loadProgressFromDatabase() {
+        withContext(Dispatchers.IO) {
+            try {
+                val progressList = database.questionProgressDao().getProgressForSubject(subject, classLevel)
+                correctProgress.clear()
+                incorrectProgress.clear()
+                selectedAnswers.clear()
+
+                for (progress in progressList) {
+                    selectedAnswers[progress.questionIndex] = progress.selectedAnswer
+                    if (progress.isCorrect) {
+                        correctProgress.add(progress.questionIndex)
+                    } else {
+                        incorrectProgress.add(progress.questionIndex)
+                    }
+                }
+
+                Log.d("QuestionMap", "Loaded from DB - Correct: ${correctProgress.size}, Incorrect: ${incorrectProgress.size}")
+            } catch (e: Exception) {
+                Log.e("QuestionMap", "Error loading from DB: ${e.message}")
+            }
+        }
+    }
+
 
     private fun loadPromoCodes() {
         try {
@@ -123,7 +156,7 @@ class QuestionMapActivity : AppCompatActivity() {
                 if (validPromoCodes.contains(code)) {
                     isPremiumUnlocked = true
                     savePremiumStatus()
-                    setupQuestionMap()
+                    updateMapDisplay()
                     Toast.makeText(this, getString(R.string.premium_success), Toast.LENGTH_SHORT).show()
                 } else {
                     Toast.makeText(this, getString(R.string.promokod_failed), Toast.LENGTH_SHORT).show()
@@ -132,7 +165,6 @@ class QuestionMapActivity : AppCompatActivity() {
             .setNegativeButton("Yza", null)
             .show()
     }
-
 
     private fun loadQuestions(classLevel: Int) {
         try {
@@ -149,7 +181,11 @@ class QuestionMapActivity : AppCompatActivity() {
                 return
             }
             Log.d("QuestionMap", "Questions loaded: ${questions.size}")
-            setupQuestionMap()
+
+            mainScope.launch {
+                loadProgressFromDatabase()
+                setupQuestionMap()
+            }
         } catch (e: Exception) {
             e.printStackTrace()
             Log.e("QuestionMap", "Error loading questions: ${e.message}")
@@ -159,22 +195,49 @@ class QuestionMapActivity : AppCompatActivity() {
     }
 
     private fun setupQuestionMap() {
-        val points = questions.mapIndexed { index, _ ->
-            PointF(index.toFloat(), 0f)
-        }
+        if (!::questions.isInitialized || questions.isEmpty()) return
 
-        binding.questionMapView.setPoints(points, correctProgress, incorrectProgress, isPremiumUnlocked)
+        updateMapDisplay()
+
         binding.questionMapView.setOnPointClickListener { questionIndex ->
+            Log.d("QuestionMap", "Question clicked: $questionIndex")
             if (questionIndex >= PREMIUM_QUESTION_LIMIT && !isPremiumUnlocked) {
                 Toast.makeText(this, getString(R.string.get_premium), Toast.LENGTH_SHORT).show()
                 showPromoCodeDialog()
             } else {
-                startQuestionActivity(questionIndex)
+                val isAlreadyAnswered = correctProgress.contains(questionIndex) || incorrectProgress.contains(questionIndex)
+                Log.d("QuestionMap", "Question $questionIndex - Already answered: $isAlreadyAnswered")
+                if (!isAlreadyAnswered) {
+                    startQuestionActivity(questionIndex)
+                }
             }
         }
     }
 
+    private fun updateMapDisplay() {
+        if (!::questions.isInitialized) return
+        val points = questions.mapIndexed { index, _ ->
+            PointF(index.toFloat(), 0f)
+        }
+        Log.d("QuestionMap", "Updating map - Correct: ${correctProgress.size}, Incorrect: ${incorrectProgress.size}")
+        Log.d("QuestionMap", "Correct indices: $correctProgress")
+        Log.d("QuestionMap", "Incorrect indices: $incorrectProgress")
+        binding.questionMapView.setPoints(points, correctProgress, incorrectProgress, isPremiumUnlocked)
+    }
+
     private fun startQuestionActivity(questionIndex: Int) {
+        Log.d("QuestionMap", "startQuestionActivity - Index: $questionIndex")
+        Log.d("QuestionMap", "Current correctProgress: $correctProgress")
+        Log.d("QuestionMap", "Current incorrectProgress: $incorrectProgress")
+
+        val isAnswered = correctProgress.contains(questionIndex) || incorrectProgress.contains(questionIndex)
+        Log.d("QuestionMap", "isAnswered: $isAnswered")
+
+        if (isAnswered) {
+            Toast.makeText(this, "Вы уже ответили на этот вопрос", Toast.LENGTH_SHORT).show()
+            return
+        }
+
         val questionJson = Gson().toJson(questions[questionIndex])
         val intent = Intent(this, QuestionActivity::class.java).apply {
             putExtra("question", questionJson)
@@ -182,67 +245,77 @@ class QuestionMapActivity : AppCompatActivity() {
             putExtra("currentQuestion", questionIndex + 1)
             putExtra("classLevel", classLevel)
             putExtra("subject", subject)
-
-            val isAnswered = correctProgress.contains(questionIndex) || incorrectProgress.contains(questionIndex)
-            putExtra("isAlreadyAnswered", isAnswered)
-            putExtra("wasCorrect", correctProgress.contains(questionIndex))
-
-            if (isAnswered && incorrectProgress.contains(questionIndex)) {
-                putExtra("selectedAnswer", getSelectedAnswer(questionIndex))
-            }
-
-            if (questionIndex + 1 < questions.size) {
-                putExtra("nextQuestion_${questionIndex + 1}", Gson().toJson(questions[questionIndex + 1]))
-            }
+            putExtra("questionIndex", questionIndex)
+            putExtra("isAlreadyAnswered", false) // Всегда false при новом вопросе
         }
         startActivityForResult(intent, REQUEST_CODE_QUESTION)
     }
 
-    private fun getSelectedAnswer(questionIndex: Int): Int {
-        return -1 // Placeholder for actual logic
-    }
-
-    private fun loadProgress() {
-        val sharedPreferences = getSharedPreferences("QuestionProgress", MODE_PRIVATE)
-        val progressKey = "progress_${subject}_$classLevel"
-        val incorrectKey = "incorrect_${subject}_$classLevel"
-
-        correctProgress = sharedPreferences.getStringSet(progressKey, emptySet())?.map { it.toInt() }?.toMutableSet() ?: mutableSetOf()
-        incorrectProgress = sharedPreferences.getStringSet(incorrectKey, emptySet())?.map { it.toInt() }?.toMutableSet() ?: mutableSetOf()
-    }
-
-    private fun saveProgress() {
-        val sharedPreferences = getSharedPreferences("QuestionProgress", MODE_PRIVATE)
-        val progressKey = "progress_${subject}_$classLevel"
-        val incorrectKey = "incorrect_${subject}_$classLevel"
-
-        sharedPreferences.edit()
-            .putStringSet(progressKey, correctProgress.map { it.toString() }.toSet())
-            .putStringSet(incorrectKey, incorrectProgress.map { it.toString() }.toSet())
-            .apply()
-    }
-
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
+        Log.d("QuestionMap", "onActivityResult called - requestCode: $requestCode, resultCode: $resultCode")
+
         if (requestCode == REQUEST_CODE_QUESTION && resultCode == RESULT_OK) {
             data?.let {
                 val questionIndex = it.getIntExtra("questionIndex", -1)
                 val isCorrect = it.getBooleanExtra("isCorrect", false)
                 val selectedAnswer = it.getIntExtra("selectedAnswer", -1)
 
-                if (questionIndex >= 0) {
+                Log.d("QuestionMap", "Activity result - Index: $questionIndex, Correct: $isCorrect, Answer: $selectedAnswer")
+
+                if (questionIndex >= 0 && selectedAnswer != -1) {
+                    // Обновляем локальные данные
+                    selectedAnswers[questionIndex] = selectedAnswer
                     if (isCorrect) {
                         correctProgress.add(questionIndex)
                         incorrectProgress.remove(questionIndex)
+                        Log.d("QuestionMap", "Added to correct: $questionIndex")
                     } else {
                         incorrectProgress.add(questionIndex)
                         correctProgress.remove(questionIndex)
+                        Log.d("QuestionMap", "Added to incorrect: $questionIndex")
                     }
-                    saveProgress()
-                    setupQuestionMap()
+
+                    Log.d("QuestionMap", "After update - Correct: $correctProgress, Incorrect: $incorrectProgress")
+
+                    // Обновляем UI
+                    runOnUiThread {
+                        updateMapDisplay()
+                    }
+
+                    // Сохраняем в БД
+                    CoroutineScope(Dispatchers.IO).launch {
+                        try {
+                            val entity = QuestionProgressEntity(
+                                id = "${subject}_${classLevel}_$questionIndex",
+                                subject = subject,
+                                classLevel = classLevel,
+                                questionIndex = questionIndex,
+                                isCorrect = isCorrect,
+                                selectedAnswer = selectedAnswer
+                            )
+                            database.questionProgressDao().insert(entity)
+                            Log.d("QuestionMap", "Successfully saved to DB - Index: $questionIndex")
+
+                            // Проверяем, что сохранилось
+                            val check = database.questionProgressDao().getProgressForSubject(subject, classLevel)
+                            Log.d("QuestionMap", "DB now has ${check.size} records")
+                        } catch (e: Exception) {
+                            Log.e("QuestionMap", "Error saving to DB: ${e.message}", e)
+                        }
+                    }
+                } else {
+                    Log.d("QuestionMap", "Invalid data - questionIndex: $questionIndex, selectedAnswer: $selectedAnswer")
                 }
             }
+        } else {
+            Log.d("QuestionMap", "Result not handled - requestCode: $requestCode, resultCode: $resultCode")
         }
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        mainScope.cancel()
     }
 
     companion object {

@@ -43,7 +43,7 @@ class IntroActivity : AppIntro2() {
             unselectedIndicatorColor = getColor(R.color.white)
         )
         addSlide(ImageSlideFragment.newInstance(
-            title = "Screenguard",
+            title = "SafePlay",
             desc = getString(R.string.use_your_child_entertainment),
             imageRes = R.drawable.main_icon,
             bgColorRes = R.color.background_color_map

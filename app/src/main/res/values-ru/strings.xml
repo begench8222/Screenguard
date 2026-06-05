@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Screenguard</string>
+    <string name="app_name">SafePlay</string>
     <string name="title_apps">Приложения</string>
     <string name="title_statistics">Статистика</string>
     <string name="title_blocked_apps">Заблокированные приложения</string>
@@ -41,7 +41,7 @@
     <string name="name_of_app_conditional">Название приложения</string>
     <string name="set_time_show">Установленное время: %1$s</string>
     <string name="statistics_is_not_available">Статистика недоступна</string>
-    <string name="screenguard_is_working">Screenguard работает</string>
+    <string name="screenguard_is_working">SafePlay работает</string>
     <string name="blocked_apps_are_available_for_today">Заблокированные приложения разблокированы!</string>
     <string name="please_give_permission_accessibility_service">Пожалуйста, включите службу специальных возможностей для полного функционала.</string>
     <string name="wrong_password">Неверный пароль</string>

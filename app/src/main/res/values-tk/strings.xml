@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Screenguard</string>
+    <string name="app_name">SafePlay</string>
     <string name="title_apps">Programmalar</string>
     <string name="title_statistics">Statistika</string>
     <string name="title_blocked_apps">Bloklanan programmalar</string>
@@ -41,7 +41,7 @@
     <string name="name_of_app_conditional">Programmanyň ady</string>
     <string name="set_time_show">Gurnalan wagt: %1$s</string>
     <string name="statistics_is_not_available">Statistika elýeter däl</string>
-    <string name="screenguard_is_working">Screenguard işleýär</string>
+    <string name="screenguard_is_working">SafePlay işleýär</string>
     <string name="blocked_apps_are_available_for_today">Gulplanan programmalar açyldy!</string>
     <string name="please_give_permission_accessibility_service">Programmanyň doly we dogry işlemegi üçin bu rugsady bermegiňizi sizden haýyş edýäris!</string>
     <string name="wrong_password">Ýalňyş parol</string>

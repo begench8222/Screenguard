@@ -123,7 +123,7 @@ class AppTrackingService : Service() {
 
     private fun createNotification(): android.app.Notification {
         val channelId = "tracking_channel"
-        val channelName = "ScreenGuard Tracking"
+        val channelName = "SafePlay Tracking"
 
         val channel = NotificationChannel(
             channelId,
@@ -138,7 +138,7 @@ class AppTrackingService : Service() {
         manager.createNotificationChannel(channel)
 
         return NotificationCompat.Builder(this, channelId)
-            .setContentTitle("ScreenGuard")
+            .setContentTitle("SafePlay")
             .setContentText(getString(R.string.screenguard_is_working))
             .setSmallIcon(R.drawable.main_icon)
             .setOngoing(true)
@@ -382,7 +382,7 @@ class AppTrackingService : Service() {
         notificationManager.createNotificationChannel(channel)
         sharedPreferences.edit().putBoolean("notificationSent", true).apply()
         val notification = NotificationCompat.Builder(this, "tracking_channel")
-            .setContentTitle("ScreenGuard")
+            .setContentTitle("SafePlay")
             .setContentText(getString(R.string.blocked_apps_are_available_for_today))
             .setSmallIcon(R.drawable.ic_menu_more)
             .setPriority(NotificationCompat.PRIORITY_HIGH)

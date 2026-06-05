@@ -5,6 +5,9 @@ import android.content.Intent
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
+import android.util.Log
 import android.view.View
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
@@ -37,6 +40,13 @@ class QuestionActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        val isAlreadyAnswered = intent.getBooleanExtra("isAlreadyAnswered", false)
+        Log.d("QuestionActivity", "onCreate - isAlreadyAnswered: $isAlreadyAnswered")
+        if (isAlreadyAnswered) {
+            Log.d("QuestionActivity", "Question already answered, finishing")
+            finish()
+            return
+        }
         handleIntent(intent)
     }
     override fun attachBaseContext(newBase: Context) {
@@ -44,19 +54,26 @@ class QuestionActivity : AppCompatActivity() {
     }
 
     override fun onBackPressed() {
-        // Если пользователь ответил на вопрос, сохраняем состояние
+        Log.d("QuestionActivity", "onBackPressed - isAnswered: $isAnswered")
         if (isAnswered) {
             saveAnswerState()
+            // Важно: НЕ вызывайте super.onBackPressed() сразу, дайте время установить результат
+            finish()
+        } else {
+            super.onBackPressed()
         }
-        super.onBackPressed()
     }
 
     private fun saveAnswerState() {
-        setResult(RESULT_OK, Intent().apply {
-            putExtra("questionIndex", currentQuestion - 1)
+        val questionIndex = intent.getIntExtra("questionIndex", currentQuestion - 1)
+        Log.d("QuestionActivity", "saveAnswerState - Index: $questionIndex, Correct: $isAnswerCorrect, Answer: $selectedAnswer")
+        val resultIntent = Intent().apply {
+            putExtra("questionIndex", questionIndex)
             putExtra("isCorrect", isAnswerCorrect)
             putExtra("selectedAnswer", selectedAnswer)
-        })
+        }
+        setResult(RESULT_OK, resultIntent)
+        Log.d("QuestionActivity", "Result set to OK")
     }
 
     private fun handleIntent(intent: Intent) {
@@ -96,12 +113,17 @@ class QuestionActivity : AppCompatActivity() {
                 isAnswered = true
                 isAnswerCorrect = intent.getBooleanExtra("wasCorrect", false)
                 selectedAnswer = intent.getIntExtra("selectedAnswer", -1)
-                setupAnswerButtons(question, withImageBinding?.answersLayout ?: noImageBinding?.answersLayout!!)
+                // Важно: вызываем setupAnswerButtons после того, как установили значения
+                val answersLayout = withImageBinding?.answersLayout ?: noImageBinding?.answersLayout
+                if (answersLayout != null) {
+                    setupAnswerButtons(question, answersLayout)
+                }
             }
         } catch (e: Exception) {
             showErrorAndFinish("Error parsing question data: ${e.message}")
         }
     }
+
 
     private fun setupTimeDisplay() {
         when {
@@ -286,8 +308,13 @@ class QuestionActivity : AppCompatActivity() {
             if (isCorrect) getString(R.string.answer_correct) else getString(R.string.answer_incorrect),
             Toast.LENGTH_SHORT
         ).show()
-    }
 
+        // Автоматически закрываем activity через 1 секунду после ответа
+        Handler(Looper.getMainLooper()).postDelayed({
+            saveAnswerState()
+            finish()
+        }, 1000)
+    }
     private fun showErrorAndFinish(message: String) {
         Toast.makeText(this, message, Toast.LENGTH_LONG).show()
         finish()
